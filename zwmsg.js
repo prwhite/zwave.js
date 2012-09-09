@@ -1,8 +1,9 @@
 
-var zwDefs = require ( './zwdefs' );
+var zwDefs = require ( './zwdefs' ).Defs;
+var log = require ( './log' ).log;
 
 
-exports.Msg = function ( nodeId, msgType, func, cb )
+Msg = function ( nodeId, msgType, func, cb )
 {
     this.nodeId = nodeId;
     this.msgType = msgType;
@@ -10,12 +11,20 @@ exports.Msg = function ( nodeId, msgType, func, cb )
     this.cb = cb;
     this.finalized = false;
     this.len = 4;
+    this.cursor = 0;
+    this.buff = new Buffer ( 256 ); // whoa... buffers cannot be resized :(  consider pooling these.
 
-    this.buff = [ zwDefs.SOF, 0x00, msgType, func ];    
+        // switch the string msgType and func to their associated IDs.
+        // we keep things as strings for as long as possible to help with logging.
+    msgType = zwDefs[ msgType ];
+    func = zwDefs[ func ];
 
+    this._appendBytes ( zwDefs.SOF, 0x00, msgType, func );
+
+//    log ( "Msg.Msg:", this.buff );
 }
 
-exports.Msg.prototype.finalize = function ()
+Msg.prototype.finalize = function ()
 {
     if ( this.finalized )
         return;
@@ -24,18 +33,43 @@ exports.Msg.prototype.finalize = function ()
     
     // TODO: do something with callback (stuff cb ID in message?)
     
-    this.buffer[ 1 ] = this.len - 1;    // - 1 ?
+    this.buff[ 1 ] = this.len - 1;    // - 1 ?
     
     // calc checksum
     var chk = 0xff;
-    var ind = 0;
-    for ( ind = 0; ind < this.len; ++ind )
-        chk ^= this.buffer[ ind ];
+    var ind = 1;
+    for ( ind = 1; ind < this.len; ++ind )
+        chk ^= this.buff[ ind ];
 
-    this.buffer[ this.len++ ] = chk;
-        
+    this._appendBytes ( chk );
+       
+    this.dbg ( this.getBuffer () );
+     
     this.finalized = true;
 }
 
+Msg.prototype._appendByte = function ( val )
+{
+    this.buff.writeUInt8 ( val, this.cursor++ );
+}
 
+Msg.prototype._appendBytes = function ()
+{
+    var ind = 0;
+    for ( ind = 0; ind < arguments.length; ++ind )
+        this.buff.writeUInt8 ( arguments[ ind ], this.cursor++ );
+}
+
+Msg.prototype.getBuffer = function ()
+{
+    return this.buff.slice ( 0, this.cursor );
+}
+
+Msg.prototype.dbg = function ( txt )
+{
+    log ( "msg: ", this.nodeId, this.msgType, this.func, txt );
+}
+
+
+exports.Msg = Msg;
 

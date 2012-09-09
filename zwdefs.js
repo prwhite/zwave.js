@@ -1,6 +1,6 @@
 
 
-exports = {
+exports.Defs = {
 
 MAX_TRIES:		3,	// Retry sends up to 3 times
 MAX_MAX_TRIES:		7,	// Don't exceed this retry limit
@@ -174,3 +174,4 @@ COMMAND_CLASS_APPLICATION_STATUS: 				0x22,
 COMMAND_CLASS_HAIL:								0x82,
 
 };
+
