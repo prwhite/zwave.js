@@ -12,7 +12,7 @@ Msg = function ( nodeId, msgType, func, cb )
     this.finalized = false;
     this.len = 4;
     this.cursor = 0;
-    this.buff = new Buffer ( 256 ); // whoa... buffers cannot be resized :(  consider pooling these.
+    this.buff = [];
 
         // switch the string msgType and func to their associated IDs.
         // we keep things as strings for as long as possible to help with logging.
@@ -48,21 +48,16 @@ Msg.prototype.finalize = function ()
     this.finalized = true;
 }
 
-Msg.prototype._appendByte = function ( val )
-{
-    this.buff.writeUInt8 ( val, this.cursor++ );
-}
-
 Msg.prototype._appendBytes = function ()
 {
     var ind = 0;
     for ( ind = 0; ind < arguments.length; ++ind )
-        this.buff.writeUInt8 ( arguments[ ind ], this.cursor++ );
+        this.buff.push ( arguments[ ind ] );
 }
 
 Msg.prototype.getBuffer = function ()
 {
-    return this.buff.slice ( 0, this.cursor );
+    return new Buffer ( this.buff );
 }
 
 Msg.prototype.dbg = function ( txt )
