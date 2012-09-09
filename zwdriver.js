@@ -6,18 +6,23 @@ var serialport = require ( "SerialPort" );
 var SerialPort = serialport.SerialPort;
 var Util = require ( 'util' );
 var log = require ( './log' ).log;
+var opts = require ( './opts' );
 
-//////
+//////////////////////////////////////////////////////////////////////////////////////////
 
-Driver = function ( dev, openCb )
+opts.setDefault ( "--doQueue", true );
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+Driver = function ( dev )
 {
     this.sPort = null;
     this.queue = [];
-    this.doQueue = true;
-    this.openCb = openCb;
+    this.doQueue = opts.get ( "--doQueue" );
     this.state = Driver.Idle;
+    this.rbuff = new Buffer ( 0 );  // so we have something to concat with
     
-    this.initSerial ( dev, openCb );
+    this.initSerial ( dev );
 }
 
 Driver.Idle = 0x00;
@@ -36,6 +41,24 @@ Driver.prototype.playInitSequence = function ()
 Driver.prototype.setState = function ( state )
 {
     this.state = state;
+    
+        // pop next command off the queue if there is one.
+    if ( state === Driver.Idle )
+    {
+        log ( "Driver.setState: state === Idle, servicing queue" );
+        this.serviceQueue ();
+    }
+}
+
+Driver.prototype.serviceQueue = function ()
+{
+    var msg = null;
+
+    if ( this.queue.length )
+    {
+        msg = this.queue.shift ();
+        this._sendMsg ( msg );
+    }
 }
 
 Driver.prototype.enqueueMsg = function ( msg )
@@ -48,15 +71,16 @@ Driver.prototype.enqueueMsg = function ( msg )
 
 Driver.prototype._enqueueMsg = function ( msg )
 {
+    this.queue.push ( msg );
+
     if ( this.state === Driver.Idle )
     {
-        log ( "Driver: state === Idle, sending msg" );
-        this._sendMsg ( msg );
+        log ( "Driver: state === Idle, servicing queue" );
+        this.serviceQueue ();
     }
     else
     {
         log ( "Driver: state !== Idle, enqueueing msg" );
-        this.queue.push ( msg );
     }
 }
 
@@ -82,7 +106,63 @@ Driver.prototype.sendMsg = function ( msg )
 
 Driver.prototype.dataCb = function ( data )
 {
+    this.rbuff = Buffer.concat ( [ this.rbuff, data ] );
+    
+    while ( this.processRbuff () );
+}
 
+Driver.prototype.processRbuff = function ()
+{
+    if ( ! this.rbuff.length )
+    {
+        console.log ( "Driver.processRbuff: called with empty rbuff" );
+        return false;   // hate this early return
+    }
+    
+    var cursor = 0;
+    var good = false;
+    var cmd = this.rbuff[ 0 ];
+    this.eatRbuff ( 1 );
+    
+    switch ( cmd )
+    {
+        case zwDefs.ACK:
+            this.handleAck ();
+            good = true;
+            break;
+        default:   // TODO: get more discerning so we can handle framing errors.
+            cursor = this.handleResponse ();
+            good = true;
+            break;
+    }
+    
+    this.rbuff = this.rbuff.slice ( cursor );
+    
+    return good && this.rbuff.length;
+}
+
+Driver.prototype.eatRbuff = function ( howMany )
+{
+    this.rbuff = this.rbuff.slice ( howMany );
+}
+
+Driver.prototype.handleAck = function ()
+{
+    this.setState ( Driver.WaitingResult );
+}
+
+Driver.prototype.sendAck = function ()
+{
+    log ( "Driver.sendAck" );
+    this.sPort.write ( new Buffer ( [ zwDefs.ACK ] ) );
+    this.setState ( Driver.Idle );
+}
+
+Driver.prototype.handleResponse = function ()
+{
+    log ( "Driver.handleResponse:", this.rbuff );
+    this.sendAck ();
+    return this.rbuff.length;   // temp eat everything in the rbuff.
 }
 
 Driver.prototype.initSerial = function ( dev )
@@ -95,21 +175,12 @@ Driver.prototype.initSerial = function ( dev )
         });
         
         serialPort.on ( "open", ( function () {
-             console.log ( "serial port is open" );
-//             this._sendMsg ( new Buffer ( [zwDefs.NAK] ) );
-//             this._sendMsg ( new Buffer ( [0x01, 0x03, 0x00, 0x20,220] ) );
-             if ( this.openCb )
-                this.openCb ();
+            console.log ( "serial port is open" );
+            this.playInitSequence ();
         }).bind ( this ) );
         
         serialPort.on ( "data", ( function ( data ) {
-            console.log ( "data = ", data );
             this.dataCb ( data );
-
-            // or
-            // You can write to the serial port by sending a string or buffer to the write method as follows:
-            //
-            // serialPort.write("OMG IT WORKS\r");
         }).bind ( this ) );
 
     this.sPort = serialPort;
