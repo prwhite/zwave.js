@@ -13,7 +13,7 @@ Driver = function ( dev, openCb )
 {
     this.sPort = null;
     this.queue = [];
-    this.doQueue = true;
+    this.doQueue = false;
     this.openCb = openCb;
     
     this.initSerial ( dev, openCb );
