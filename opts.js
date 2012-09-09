@@ -41,7 +41,7 @@ exports.init = function()
 		exports.opts[ opt ] = val;						// if it wasn't changed, it was a string.
 		
 		if ( exports.dbg ) console.log ( " " + opt + " = " + exports.opts[ opt ] );
-		if ( opt == "--help" ) exports.help();
+		if ( opt == "--help" ) exports.help( true );
 	}
 	
 	if ( exports.opts[ "--dbg" ] != undefined ) exports.dbg = exports.opts[ "--dbg" ];
@@ -70,6 +70,7 @@ exports.setDefault = function ( opt, val )
 exports.help = function ( andExit )
 {
 	// Dump all of the registered switches with their default values.
+	delete exports.opts[ "--help" ];
 	console.log(exports.opts);
 	if ( andExit )
 		process.exit(0);

@@ -61,7 +61,7 @@ Msg.prototype.getBuffer = function ()
 
 Msg.prototype.dbg = function ( txt )
 {
-    log ( "msg: ", this.nodeId, this.msgType, this.func, txt );
+    log ( "msg: ".magenta, this.nodeId, this.msgType, this.func, txt );
 }
 
 

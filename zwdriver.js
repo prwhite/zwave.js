@@ -7,10 +7,9 @@ var SerialPort = serialport.SerialPort;
 var Util = require ( 'util' );
 var log = require ( './log' ).log;
 var opts = require ( './opts' );
+var colors = require ( './colors' );
 
 //////////////////////////////////////////////////////////////////////////////////////////
-
-opts.setDefault ( "--doQueue", true );
 
 //////////////////////////////////////////////////////////////////////////////////////////
 
@@ -18,7 +17,6 @@ Driver = function ( dev )
 {
     this.sPort = null;
     this.queue = [];
-    this.doQueue = opts.get ( "--doQueue" );
     this.state = Driver.Idle;
     this.rbuff = new Buffer ( 0 );  // so we have something to concat with
     
@@ -45,7 +43,7 @@ Driver.prototype.setState = function ( state )
         // pop next command off the queue if there is one.
     if ( state === Driver.Idle )
     {
-        log ( "Driver.setState: state === Idle, servicing queue" );
+        log ( "Driver.setState: state === Idle, servicing queue".green );
         this.serviceQueue ();
     }
 }
@@ -61,26 +59,18 @@ Driver.prototype.serviceQueue = function ()
     }
 }
 
-Driver.prototype.enqueueMsg = function ( msg )
-{
-    if ( this.doQueue )
-        this._enqueueMsg ( msg );
-    else
-        this._sendMsg ( msg );
-}
-
 Driver.prototype._enqueueMsg = function ( msg )
 {
     this.queue.push ( msg );
 
     if ( this.state === Driver.Idle )
     {
-        log ( "Driver: state === Idle, servicing queue" );
+        log ( "Driver: state === Idle, servicing queue".green );
         this.serviceQueue ();
     }
     else
     {
-        log ( "Driver: state !== Idle, enqueueing msg" );
+        log ( "Driver: state !== Idle, enqueueing msg".yellow );
     }
 }
 
@@ -95,13 +85,13 @@ Driver.prototype.sendMsg = function ( msg )
 {
     if ( ! msg )
     {
-        log ( "Driver.sendMsg: null message" );
+        log ( "Driver.sendMsg: null message".red );
         return;
     }
     
     msg.finalize ();
     
-    this.enqueueMsg ( msg );
+    this._enqueueMsg ( msg );
 }
 
 Driver.prototype.dataCb = function ( data )
@@ -115,7 +105,7 @@ Driver.prototype.processRbuff = function ()
 {
     if ( ! this.rbuff.length )
     {
-        console.log ( "Driver.processRbuff: called with empty rbuff" );
+        console.log ( "Driver.processRbuff: called with empty rbuff".red );
         return false;   // hate this early return
     }
     
@@ -153,21 +143,21 @@ Driver.prototype.handleAck = function ()
 
 Driver.prototype.sendAck = function ()
 {
-    log ( "Driver.sendAck" );
+    log ( "Driver.sendAck".green );
     this.sPort.write ( new Buffer ( [ zwDefs.ACK ] ) );
     this.setState ( Driver.Idle );
 }
 
 Driver.prototype.handleResponse = function ()
 {
-    log ( "Driver.handleResponse:", this.rbuff );
+    log ( "Driver.handleResponse:".blue, this.rbuff );
     this.sendAck ();
     return this.rbuff.length;   // temp eat everything in the rbuff.
 }
 
 Driver.prototype.initSerial = function ( dev )
 {
-        Util.debug ( "opening dev: " + dev );
+        Util.debug ( "opening dev: ".yellow + dev );
 
         var serialPort = new SerialPort( dev,  { 
             parser: serialport.parsers.raw,
@@ -175,7 +165,7 @@ Driver.prototype.initSerial = function ( dev )
         });
         
         serialPort.on ( "open", ( function () {
-            console.log ( "serial port is open" );
+            console.log ( "serial port is open".green );
             this.playInitSequence ();
         }).bind ( this ) );
         
