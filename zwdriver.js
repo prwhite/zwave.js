@@ -1,3 +1,4 @@
+'use strict';
 
 var zwDefs = require ( './zwdefs' ).Defs;
 var zwMsg = require ( './zwmsg' ).Msg;
@@ -18,10 +19,6 @@ var colors = require ( './colors' );
 
 var Driver = zwClass ( {
     
-    Idle: 0x00,
-    WaitingAck: 0x01,
-    WaitingResult: 0x02,
-
     initialize: function ( dev )
     {
         this.sPort = null;
@@ -46,20 +43,19 @@ var Driver = zwClass ( {
     {
         this.state = state;
         
-            // pop next command off the queue if there is one.
-        if ( state === Driver.Idle )
-        {
-            log ( "Driver.setState: state === Idle, servicing queue".green );
-            this.serviceQueue ();
-        }
+        this.serviceQueue ();
     },
     
     serviceQueue: function ()
     {
+        log ( "Driver.serviceQueue: start, state =".yellow, this.state );
+
         var msg = null;
     
-        if ( this.queue.length )
+        if ( ( this.state === Driver.Idle ) && this.queue.length )
         {
+            log ( "Driver.serviceQueue: Idle and not empty, really sending message".green );
+    
             msg = this.queue.shift ();
             this._sendMsg ( msg );
         }
@@ -68,16 +64,7 @@ var Driver = zwClass ( {
     _enqueueMsg: function ( msg )
     {
         this.queue.push ( msg );
-    
-        if ( this.state === Driver.Idle )
-        {
-            log ( "Driver: state === Idle, servicing queue".green );
-            this.serviceQueue ();
-        }
-        else
-        {
-            log ( "Driver: state !== Idle, enqueueing msg".yellow );
-        }
+        this.serviceQueue ();
     },
     
     _sendMsg: function ( msg )
@@ -86,22 +73,21 @@ var Driver = zwClass ( {
             //  also need to keep state in driver about what message is current.
             //  also need to keep timeout ids in msg so they can be canceled.
     
-        log ( "sendMsg: ", msg );
+        log ( "Driver._sendMsg: ".blue, msg );
         this.setState ( Driver.WaitingAck );
         this.sPort.write ( msg.getBuffer () );
     },
     
     sendMsg: function ( msg )
     {
-        if ( ! msg )
+        if ( msg )
         {
-            log ( "Driver.sendMsg: null message".red );
-            return;
+            msg.finalize ();
+            
+            this._enqueueMsg ( msg );
         }
-        
-        msg.finalize ();
-        
-        this._enqueueMsg ( msg );
+        else
+            log ( "Driver.sendMsg: null message".red );
     },
     
     dataCb: function ( data )
@@ -122,7 +108,7 @@ var Driver = zwClass ( {
         var cursor = 0;
         var good = false;
         var cmd = this.rbuff[ 0 ];
-        this.eatRbuff ( 1 );
+        this.eatRbuff ( 1 );    // TODO: make this more fault tolerant.
         
         switch ( cmd )
         {
@@ -173,6 +159,9 @@ var Driver = zwClass ( {
     handleResponse: function ()
     {
         log ( "Driver.handleResponse:".blue, this.rbuff );
+        
+            // TODO: Find right handler for response and invoke it.
+        
         this.sendAck ();
         return this.rbuff.length;   // temp eat everything in the rbuff.
     },
@@ -198,5 +187,10 @@ var Driver = zwClass ( {
         this.sPort = serialPort;
     }
 } );
+
+// Silly zwClass system can't define these in the body of the class above.  :(
+Driver.Idle = 0x00;
+Driver.WaitingAck = 0x01;
+Driver.WaitingResult = 0x02;
 
 exports.Driver = Driver;

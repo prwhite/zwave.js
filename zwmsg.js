@@ -65,7 +65,7 @@ var Msg = zwClass ( {
     
     dbg: function ( txt )
     {
-        log ( "msg: ".magenta, this.nodeId, this.msgType, this.func, txt );
+        log ( "Mgs.dbg: ".magenta, this.nodeId, this.msgType, this.func, txt );
     }
 } );
 
