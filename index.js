@@ -23,12 +23,7 @@ function usage ( argv )
 function openCb ()
 {
     log ( "openCb" );
-
-    gDriver.sendMsg ( new zwMsg.Msg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_VERSION" ) );
-    gDriver.sendMsg ( new zwMsg.Msg ( 0xff, "REQUEST", "FUNC_ID_ZW_MEMORY_GET_ID" ) );
-    gDriver.sendMsg ( new zwMsg.Msg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES" ) );
-    gDriver.sendMsg ( new zwMsg.Msg ( 0xff, "REQUEST", "FUNC_ID_SERIAL_API_GET_CAPABILITIES" ) );
-    gDriver.sendMsg ( new zwMsg.Msg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_SUC_NODE_ID" ) );   
+    gDriver.playInitSequence ();
 }
 
 function main ( argv )

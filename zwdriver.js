@@ -5,7 +5,7 @@ var zwMsg = require ( './zwmsg' ).Msg;
 var serialport = require ( "SerialPort" );
 var SerialPort = serialport.SerialPort;
 var Util = require ( 'util' );
-
+var log = require ( './log' ).log;
 
 //////
 
@@ -13,25 +13,58 @@ Driver = function ( dev, openCb )
 {
     this.sPort = null;
     this.queue = [];
-    this.doQueue = false;
+    this.doQueue = true;
     this.openCb = openCb;
+    this.state = Driver.Idle;
     
     this.initSerial ( dev, openCb );
 }
 
+Driver.Idle = 0x00;
+Driver.WaitingAck = 0x01;
+Driver.WaitingResult = 0x02;
 
-Driver.prototype.enqueueMsg = function ( val )
+Driver.prototype.playInitSequence = function ()
 {
-    if ( this.doQueue )
-        this.queue.push ( val );
-    else
-        this.sPort.write ( val );
+    this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_VERSION" ) );
+    this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_ZW_MEMORY_GET_ID" ) );
+    this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES" ) );
+    this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_SERIAL_API_GET_CAPABILITIES" ) );
+    this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_SUC_NODE_ID" ) );   
 }
 
-Driver.prototype._sendMsg = function ( val )
+Driver.prototype.setState = function ( state )
 {
-    console.log ( "sendMsg: ", val );
-    this.enqueueMsg ( val );
+    this.state = state;
+}
+
+Driver.prototype.enqueueMsg = function ( msg )
+{
+    if ( this.doQueue )
+        this._enqueueMsg ( msg );
+    else
+        this._sendMsg ( msg );
+}
+
+Driver.prototype._enqueueMsg = function ( msg )
+{
+    if ( this.state === Driver.Idle )
+    {
+        log ( "Driver: state === Idle, sending msg" );
+        this._sendMsg ( msg );
+    }
+    else
+    {
+        log ( "Driver: state !== Idle, enqueueing msg" );
+        this.queue.push ( msg );
+    }
+}
+
+Driver.prototype._sendMsg = function ( msg )
+{
+    log ( "sendMsg: ", msg );
+    this.setState ( Driver.WaitingAck );
+    this.sPort.write ( msg.getBuffer () );
 }
 
 Driver.prototype.sendMsg = function ( msg )
@@ -44,7 +77,7 @@ Driver.prototype.sendMsg = function ( msg )
     
     msg.finalize ();
     
-    this._sendMsg ( msg.getBuffer () );
+    this.enqueueMsg ( msg );
 }
 
 Driver.prototype.dataCb = function ( data )

@@ -11,7 +11,6 @@ Msg = function ( nodeId, msgType, func, cb )
     this.cb = cb;
     this.finalized = false;
     this.len = 4;
-    this.cursor = 0;
     this.buff = [];
 
         // switch the string msgType and func to their associated IDs.
