@@ -94,7 +94,9 @@ var Driver = zwClass ( {
     {
         this.rbuff = Buffer.concat ( [ this.rbuff, data ] );
         
-        while ( this.processRbuff () );
+        log ( "Driver.dataCb:".magenta, this.rbuff.length );
+    
+        while ( this.rbuff.length && this.processRbuff () );
     },
     
     processRbuff: function ()
@@ -110,25 +112,35 @@ var Driver = zwClass ( {
         var cmd = this.rbuff[ 0 ];
         this.eatRbuff ( 1 );    // TODO: make this more fault tolerant.
         
+        console.log ( "Driver.processRbuff:".magenta, cmd, this.rbuff.length );
+        
         switch ( cmd )
         {
             case zwDefs.ACK:
                 this.handleAck ();
                 good = true;
                 break;
+            case zwDefs.SOF:
+                cursor = this.handleSof ();
+                good = true;
+                break;
             case zwDefs.NAK:
                 this.handleNak ();
                 good = true;
                 break;
-            default:   // TODO: get more discerning so we can handle framing errors.
-                cursor = this.handleResponse ();
+            case zwDefs.CAN:
+                this.handleCan ();
                 good = true;
+                break;
+            default:   // TODO: get more discerning so we can handle framing errors.
+//                cursor = this.handleResponse ( cmd );
+                good = false;
                 break;
         }
         
         this.rbuff = this.rbuff.slice ( cursor );
         
-        return good && this.rbuff.length;
+        return good;
     },
     
     eatRbuff: function ( howMany )
@@ -136,16 +148,34 @@ var Driver = zwClass ( {
         this.rbuff = this.rbuff.slice ( howMany );
     },
     
+    handleSof: function ()
+    {
+            // TODO: Don't really know how to handle SOF yet... might need to eat more
+            // of the message, might not.
+        log ( "Driver.handleSof: SOF received".red );
+        this.handleResponse ();
+//        this.setState ( Driver.Idle );
+    },
+
     handleAck: function ()
     {
+        log ( "Driver.handleAck: ACK received".magenta );
         this.setState ( Driver.WaitingResult );
     },
 
     handleNak: function ()
     {
-            // TODO: Don't really know how to handle ack yet... might need to eat more
+            // TODO: Don't really know how to handle NAK yet... might need to eat more
             // of the message, might not.
         log ( "Driver.handleNak: NAK received".red );
+        this.setState ( Driver.Idle );
+    },
+
+    handleCan: function ()
+    {
+            // TODO: Don't really know how to handle CAN yet... really need to re-sub
+            // whatever command was interrupted.
+        log ( "Driver.handleCan: CAN received".red );
         this.setState ( Driver.Idle );
     },
     
@@ -160,10 +190,18 @@ var Driver = zwClass ( {
     {
         log ( "Driver.handleResponse:".blue, this.rbuff );
         
+        var cursor = 0; // rbuff[ 0 ] is always RESPONSE
+        
+        var len = this.rbuff[ cursor++ ];
+        var type = this.rbuff[ cursor++ ];
+        var func = this.rbuff[ cursor++ ];
+        
+        log ( "Driver.handleResponse: parsed:".blue, len, type, func );
+        
             // TODO: Find right handler for response and invoke it.
         
         this.sendAck ();
-        return this.rbuff.length;   // temp eat everything in the rbuff.
+        return len;   // temp eat everything in the rbuff.
     },
     
     initSerial: function ( dev )
