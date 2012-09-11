@@ -12,11 +12,11 @@ var colors = require ( './colors' );
 
 //////////////////////////////////////////////////////////////////////////////////////////
 
-handlers = {};
+commands = {};
 
-function addHandler ( type, id )
+function addCommand ( type, id )
 {
-    handlers.id = type;
+    commands.id = type;
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////
@@ -29,7 +29,7 @@ BasicReportHandler = zwClass ( Handler, {
     
 } );
 
-addHandler ( BasicReportHandler, zwDefs.BASIC_REPORT );
+addCommand ( BasicReportHandler, zwDefs.BASIC_REPORT );
 
 /////////////////////////////////////////////
 
@@ -37,12 +37,12 @@ NodeTypeHandler = zwClass ( Handler, {
     
 } );
 
-addHandler ( NodeTypeHandler, 0x20 );
+addCommand ( NodeTypeHandler, 0x20 );
 
 //////////////////////////////////////////////////////////////////////////////////////////
 
-exports.getHandlers = function ()
+exports.getCommands = function ()
 {
-    return handlers;
+    return commands;
 }
 

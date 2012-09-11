@@ -3,7 +3,7 @@
 var zwDefs = require ( './zwdefs' ).Defs;
 var zwMsg = require ( './zwmsg' ).Msg;
 var zwClass = require ( './zwclass' ).Class;
-var zwHandlers = require ( './zwhandlers' );
+var zwCommands = require ( './zwcommands' );
 
 var serialport = require ( "SerialPort" );
 var SerialPort = serialport.SerialPort;
@@ -25,7 +25,7 @@ var Driver = zwClass ( {
         this.queue = [];
         this.state = Driver.Idle;
         this.rbuff = new Buffer ( 0 );  // so we have something to concat with
-        this.handlers = zwHandlers.getHandlers ();  // array of id to class.
+        this.commands = zwCommands.getCommands ();  // array of id to class.
         
         this.initSerial ( dev );
     },
