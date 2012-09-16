@@ -20,3 +20,7 @@ exports.log = function ()
     }
 }
 
+exports.trace = function ( msg )
+{
+    console.trace ( msg );
+}

@@ -15,6 +15,8 @@ var colors = require ( './colors' );
 
 //////////////////////////////////////////////////////////////////////////////////////////
 
+opts.setDefault ( "--dev", "/dev/cu.SLAB_USBtoUART" );
+
 //////////////////////////////////////////////////////////////////////////////////////////
 
 var Driver = zwClass ( {
@@ -23,6 +25,7 @@ var Driver = zwClass ( {
     {
         this.sPort = null;
         this.queue = [];
+        this.curMsg = null;
         this.state = Driver.Idle;
         this.rbuff = new Buffer ( 0 );  // so we have something to concat with
         this.commands = zwCommands.getCommands ();  // array of id to class.
@@ -32,11 +35,11 @@ var Driver = zwClass ( {
     
     playInitSequence: function ()
     {
-        this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_VERSION" ) );
-        this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_ZW_MEMORY_GET_ID" ) );
-        this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES" ) );
-        this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_SERIAL_API_GET_CAPABILITIES" ) );
-        this.sendMsg ( new zwMsg ( 0xff, "REQUEST", "FUNC_ID_ZW_GET_SUC_NODE_ID" ) );   
+        zwCommands.requestIdZwGetVersion ();
+        zwCommands.requestIdZwMemoryGetId ();
+        zwCommands.requestIdZwGetControllerCapabilities ();
+        zwCommands.requestIdSerialApiGetCapabilities ();
+        zwCommands.requestIdZwGetSucNodeId ();
     },
     
     setState: function ( state )
@@ -46,12 +49,17 @@ var Driver = zwClass ( {
         this.serviceQueue ();
     },
     
+    _setCurMsg: function ( msg ) { this.curMsg = msg; },
+    _clearCurMsg: function () { this.curMsg = null; },
+    
     serviceQueue: function ()
     {
         log ( "Driver.serviceQueue: start, state =".yellow, this.state );
 
         var msg = null;
     
+            // If we are not waiting for a response and there's something in the queue, 
+            // fire the front of the queue off.
         if ( ( this.state === Driver.Idle ) && this.queue.length )
         {
             log ( "Driver.serviceQueue: Idle and not empty, really sending message".green );
@@ -75,6 +83,7 @@ var Driver = zwClass ( {
     
         log ( "Driver._sendMsg: ".blue, msg );
         this.setState ( Driver.WaitingAck );
+        this._setCurMsg ( msg );
         this.sPort.write ( msg.getBuffer () );
     },
     
@@ -132,13 +141,13 @@ var Driver = zwClass ( {
                 this.handleCan ();
                 good = true;
                 break;
-            default:   // TODO: get more discerning so we can handle framing errors.
-//                cursor = this.handleResponse ( cmd );
+            default:
                 good = false;
                 break;
         }
         
-        this.rbuff = this.rbuff.slice ( cursor );
+        if ( cursor != 0 )  // optimization to avoid redundant slice at 0 and assignment.
+            this.rbuff = this.rbuff.slice ( cursor );
         
         return good;
     },
@@ -192,13 +201,28 @@ var Driver = zwClass ( {
         
         var cursor = 0; // rbuff[ 0 ] is always RESPONSE
         
-        var len = this.rbuff[ cursor++ ];
-        var type = this.rbuff[ cursor++ ];
-        var func = this.rbuff[ cursor++ ];
+        var len = this.rbuff[ cursor++ ] * 1;
+        var type = this.rbuff[ cursor++ ] * 1;
+        var func = this.rbuff[ cursor++ ] * 1;
+        
+            // Clear curMsg if this response matches it.
+        if ( func === this.curMsg.getFunc () )
+            this._clearCurMsg ();
+        else
+            log ( "Driver.handleResponse: curMsg.getFunc != response func", this.curMsg.getFunc (), func );
         
         log ( "Driver.handleResponse: parsed:".blue, len, type, func );
         
-            // TODO: Find right handler for response and invoke it.
+        var msg = new zwMsg ( len, type, func, this.rbuff.slice ( 3 ) );
+        
+            // find right handler for response and invoke it.
+            // TODO: turn this into a real message before invoking handler.
+        var handler = this.commands[ func ];
+        
+        if ( handler )
+            handler ( msg );
+        else
+            log ( "Could not find handler func for".red, func.toString ( 16 ) );
         
         this.sendAck ();
         return len;   // temp eat everything in the rbuff.
@@ -232,3 +256,13 @@ Driver.WaitingAck = 0x01;
 Driver.WaitingResult = 0x02;
 
 exports.Driver = Driver;
+
+exports.init = function ()
+{
+    exports.sDriver = new Driver ( opts.get ( "--dev" ) );
+}
+
+exports.get = function ()
+{
+    return exports.sDriver;
+}

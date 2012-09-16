@@ -7,13 +7,35 @@ var opts = require ( './opts' );
 var colors = require ( './colors' );
 
 var Msg = zwClass ( {
-    initialize: function ( nodeId, msgType, func, cb )
+    initialize: function ()
+    {
+        this.nodeId = undefined;
+        this.msgType = arguments[ 1 ];
+        this.func = undefined;
+        this.cb = undefined;
+        this.finalized = false;
+        this.len = undefined;
+        this.buff = undefined;
+
+            // this is silly... fake overloading the constructor based on whether it's 
+            // a request or response.
+        if ( this.msgType == zwDefs.REQUEST )
+            this.initializeRequest.apply ( this, arguments );
+        else if ( this.msgType == zwDefs.RESPONSE )
+            this.initializeResponse.apply ( this, arguments );
+        else
+        {
+            log ( "Msg.initialize: Error, unknown msg type =", this.msgType.toString ( 16 ) );
+            require ( "./log" ).trace ( "Msg.initialize" );
+        }
+    },
+
+    initializeRequest: function ( nodeId, msgType, func, cb )
     {
         this.nodeId = nodeId;
-        this.msgType = msgType;
+//        this.msgType = msgType;   // redundant from real constructor
         this.func = func;
         this.cb = cb;
-        this.finalized = false;
         this.len = 4;
         this.buff = [];
     
@@ -25,6 +47,17 @@ var Msg = zwClass ( {
         this._appendBytes ( zwDefs.SOF, 0x00, msgType, func );
     
     //    log ( "Msg.Msg:", this.buff );
+    },
+    
+    initializeResponse: function ( len, msgType, func, buff )
+    {
+        log ( "Msg.initializeResponse called!".red );
+        
+        this.nodeId = undefined;
+//        this.msgType = msgType;   // redundant from real constructor
+        this.func = func;
+        this.len = len;
+        this.buff = buff;
     },
     
     finalize: function ()
@@ -61,6 +94,11 @@ var Msg = zwClass ( {
     getBuffer: function ()
     {
         return new Buffer ( this.buff );
+    },
+    
+    getFunc: function ()
+    {
+        return this.func;
     },
     
     dbg: function ( txt )

@@ -18,11 +18,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>803AA046-4C2F-483D-A105-6FED0E07CDB3</string>
+				<string>65BF0763-03D1-42BB-9A3D-90BBB36DE37F</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>2CA54437-5EC4-42C1-A0EB-79CA0B0288FA</string>
+				<string>61A49830-AE5C-4273-8515-EA0426C93C2F</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -49,9 +49,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-1143.60546875, -368.22916666666669}</string>
+				<string>{-1480.8954377905432, -393.5724013817042}</string>
 				<key>nodeID</key>
-				<string>0ED1CD50-3DFA-42D7-A18B-EC1A9592D974</string>
+				<string>D32FFEE5-D43E-4C32-BA09-59CCA2507799</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -72,9 +72,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-976.60546875, -385.72916666666669}</string>
+						<string>{-1313.8954377905432, -411.07240138170414}</string>
 						<key>nodeID</key>
-						<string>C87DB1D3-98F0-4431-90C7-5A212C355E47</string>
+						<string>2DF68C0B-DB91-473A-BDAD-49ED92568F02</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -95,9 +95,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-842.60546875, -493.72916666666669}</string>
+								<string>{-1179.8954377905432, -519.07240138170414}</string>
 								<key>nodeID</key>
-								<string>7DF7284D-BCCB-490C-9CC4-030FB9787EDC</string>
+								<string>851AFC5E-F746-45E8-8FB6-4D0262A53EAB</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -367,9 +367,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-842.60546875, -372.22916666666669}</string>
+								<string>{-1179.8954377905432, -397.57240138170414}</string>
 								<key>nodeID</key>
-								<string>758C508E-1690-4B13-98D2-4ED7E144BDEC</string>
+								<string>82787BF9-E345-4B2B-8A4E-B744C51358CA</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -390,9 +390,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-611.60546875, -372.22916666666669}</string>
+										<string>{-948.89543779054316, -397.57240138170414}</string>
 										<key>nodeID</key>
-										<string>D6439309-498C-4129-AD46-DFFD29E6294D</string>
+										<string>67C80B1D-BB95-439C-9EB8-0A85909AE237</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.800, 0.400, 1.000}</string>
 										<key>strokeStyle</key>
@@ -413,9 +413,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-487.60546875, -466.72916666666669}</string>
+												<string>{-824.89543779054316, -492.07240138170414}</string>
 												<key>nodeID</key>
-												<string>A4E3F182-A441-4833-9074-D8C895CFF2B9</string>
+												<string>32EC40F2-ECE5-448A-821B-EA1427BD3A65</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -570,9 +570,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-487.60546875, -439.72916666666669}</string>
+												<string>{-824.89543779054316, -465.07240138170414}</string>
 												<key>nodeID</key>
-												<string>CD14B25D-0C94-48F2-BA56-EB0F645AF5E1</string>
+												<string>75DB3C18-83CD-475E-BBB4-B6B7BAD9517A</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -727,9 +727,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-487.60546875, -412.72916666666669}</string>
+												<string>{-824.89543779054316, -438.07240138170414}</string>
 												<key>nodeID</key>
-												<string>0B1EC416-083B-4760-9C1C-2D7C6A98DA22</string>
+												<string>3B950F1B-A5BD-4F9C-8F96-732102432A7A</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -886,9 +886,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-487.60546875, -385.72916666666669}</string>
+												<string>{-824.89543779054316, -411.07240138170414}</string>
 												<key>nodeID</key>
-												<string>08BEB5B7-2863-49BB-935A-A8507C1EF046</string>
+												<string>22B86AC3-8992-48D6-8509-EFF8DF113AF6</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -896,7 +896,282 @@
 												<key>strokeWidth</key>
 												<real>3</real>
 												<key>subnodes</key>
-												<array/>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{-522.89543779054316, -411.07240138170414}</string>
+														<key>nodeID</key>
+														<string>BD77F6BE-CAE9-4773-A8F1-9DA9E29F8746</string>
+														<key>strokeColor</key>
+														<string>{0.511, 0.409, 0.206, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>attributedText</key>
+															<data>
+								YnBsaXN0MDDU
+								AQIDBAUG5OVY
+								JHZlcnNpb25Y
+								JG9iamVjdHNZ
+								JGFyY2hpdmVy
+								VCR0b3ASAAGG
+								oK8QLQcIDxAX
+								ICEiIycxODxA
+								SElndn1+goeM
+								kZaboKWqr7S5
+								vL2+wsrL19jZ
+								2tvc4FUkbnVs
+								bNMJCgsMDQ5W
+								c3RyaW5nWmF0
+								dHJpYnV0ZXNW
+								JGNsYXNzgAKA
+								A4AsXxAgRlVO
+								Q19JRF9TRVJJ
+								QUxfQVBJX0dF
+								VF9JTklUX0RB
+								VEHSEQsSFlpO
+								Uy5vYmplY3Rz
+								oxMUFYAEgA2A
+								I4Af0xgRCxkc
+								H1dOUy5rZXlz
+								ohobgAWABqId
+								HoAHgAiADF8Q
+								JGtNTkF0dHJp
+								YnV0ZWRTdHJp
+								bmdBdHRyaWJ1
+								dGVSYW5nZUtl
+								eV8QKGtNTkF0
+								dHJpYnV0ZWRT
+								dHJpbmdBdHRy
+								aWJ1dGVBdHRy
+								aWJ1dGVLZXlX
+								ezAsIDMyfdIk
+								CyUmVWNvbG9y
+								gAmAC9ULKCkq
+								KywtLi8wU3Jl
+								ZFVhbHBoYVRi
+								bHVlVWdyZWVu
+								gAoiAAAAACI/
+								gAAAIgAAAAAi
+								AAAAANIyMzQ1
+								WiRjbGFzc25h
+								bWVYJGNsYXNz
+								ZXNYTU5DQ29s
+								b3KiNjdYTU5D
+								Q29sb3JYTlNP
+								YmplY3TSMjM5
+								Ol8QE01OQVNG
+								b3JlZ3JvdW5k
+								Q29sb3KiOzdf
+								EBNNTkFTRm9y
+								ZWdyb3VuZENv
+								bG9y0jIzPT5f
+								EBNOU011dGFi
+								bGVEaWN0aW9u
+								YXJ5oz0/N1xO
+								U0RpY3Rpb25h
+								cnnTGBELQUQf
+								ohobgAWABqJF
+								RoAOgA+ADFd7
+								MCwgMzJ93xAP
+								SktMTU4LT1BR
+								UlNUVVZXWFla
+								W1xdXl9gYWJj
+								ZGVmXxARbWF4
+								aW11bUxpbmVI
+								ZWlnaHRYdGFi
+								U3RvcHNfEBBw
+								YXJhZ3JhcGhT
+								cGFjaW5nWmhl
+								YWRJbmRlbnRd
+								bGluZUJyZWFr
+								TW9kZVtsaW5l
+								U3BhY2luZ1lh
+								bGlnbm1lbnRa
+								dGFpbEluZGVu
+								dF8QEW1pbmlt
+								dW1MaW5lSGVp
+								Z2h0XxAWcGFy
+								YWdyYXBoU3Bh
+								Y2luZ0JlZm9y
+								ZV8QEmRlZmF1
+								bHRUYWJJbnRl
+								cnZhbF8QEmZp
+								cnN0TGluZUhl
+								YWRJZGVudF8Q
+								FGJhc2VXcml0
+								aW5nRGlyZWN0
+								aW9uXxASbGlu
+								ZUhlaWdodE11
+								bHRpcGxlIgAA
+								AACAECIAAAAA
+								IgAAAACAEoAi
+								IgAAAACAICIA
+								AAAAIgAAAAAi
+								AAAAACIAAAAA
+								IgAAAACAISIA
+								AAAA0hELaBas
+								aWprbG1ub3Bx
+								cnN0gBGAFIAV
+								gBaAF4AYgBmA
+								GoAbgByAHYAe
+								gB/UUHd4C1x6
+								e3xXb3B0aW9u
+								c1hsb2NhdGlv
+								boASgAAiQeAA
+								AIATEADSMjN/
+								gFtNTkFTVGV4
+								dFRhYqKBN1tN
+								TkFTVGV4dFRh
+								YtRQd3gLXHqF
+								fIASgAAiQmAA
+								AIAT1FB3eAtc
+								eop8gBKAACJC
+								qAAAgBPUUHd4
+								C1x6j3yAEoAA
+								IkLgAACAE9RQ
+								d3gLXHqUfIAS
+								gAAiQwwAAIAT
+								1FB3eAtcepl8
+								gBKAACJDKAAA
+								gBPUUHd4C1x6
+								nnyAEoAAIkNE
+								AACAE9RQd3gL
+								XHqjfIASgAAi
+								Q2AAAIAT1FB3
+								eAtceqh8gBKA
+								ACJDfAAAgBPU
+								UHd4C1x6rXyA
+								EoAAIkOMAACA
+								E9RQd3gLXHqy
+								fIASgAAiQ5oA
+								AIAT1FB3eAtc
+								erd8gBKAACJD
+								qAAAgBPSMjO6
+								u1dOU0FycmF5
+								oro3EAQUAAAA
+								AAAAAAD/////
+								/////9IyM7/A
+								XxATTU5BU1Bh
+								cmFncmFwaHlT
+								dHlsZaLBN18Q
+								E01OQVNQYXJh
+								Z3JhcGh5U3R5
+								bGXTGBELw8Yf
+								ohobgAWABqLH
+								yIAkgCWADFd7
+								MCwgMzJ91szN
+								zs/QC9HS09TV
+								1lRzaXplWGZv
+								bnROYW1lWWV4
+								cGFuc2lvbltv
+								YmxpcXVlbmVz
+								c18QEmJhc2Vs
+								aW5lQWRqdXN0
+								bWVudIAngCaA
+								KoApgCiAK1xM
+								dWNpZGFHcmFu
+								ZGUiQUAAACIA
+								AAAAIgAAAAAi
+								AAAAANIyM93e
+								WE1OQVNGb250
+								ot83WE1OQVNG
+								b2500jIz4eJf
+								EBNNTkNBdHRy
+								aWJ1dGVkU3Ry
+								aW5nouM3XxAT
+								TU5DQXR0cmli
+								dXRlZFN0cmlu
+								Z18QD05TS2V5
+								ZWRBcmNoaXZl
+								ctHm518QEU1O
+								QzBkZXJSb290
+								T2JqZWN0gAEA
+								CAARABoAIwAt
+								ADIANwBnAG0A
+								dAB7AIYAjQCP
+								AJEAkwC2ALsA
+								xgDKAMwAzgDQ
+								ANIA2QDhAOQA
+								5gDoAOsA7QDv
+								APEBGAFDAUsB
+								UAFWAVgBWgFl
+								AWkBbwF0AXoB
+								fAGBAYYBiwGQ
+								AZUBoAGpAbIB
+								tQG+AccBzAHi
+								AeUB+wIAAhYC
+								GgInAi4CMQIz
+								AjUCOAI6AjwC
+								PgJGAmcCewKE
+								ApcCogKwArwC
+								xgLRAuUC/gMT
+								AygDPwNUA1kD
+								WwNgA2UDZwNp
+								A24DcAN1A3oD
+								fwOEA4kDiwOQ
+								A5UDogOkA6YD
+								qAOqA6wDrgOw
+								A7IDtAO2A7gD
+								ugO8A8UDzQPW
+								A9gD2gPfA+ED
+								4wPoA/QD9wQD
+								BAwEDgQQBBUE
+								FwQgBCIEJAQp
+								BCsENAQ2BDgE
+								PQQ/BEgESgRM
+								BFEEUwRcBF4E
+								YARlBGcEcARy
+								BHQEeQR7BIQE
+								hgSIBI0EjwSY
+								BJoEnAShBKME
+								rASuBLAEtQS3
+								BMAEwgTEBMkE
+								ywTUBNYE2ATd
+								BN8E5ATsBO8E
+								8QUCBQcFHQUg
+								BTYFPQVABUIF
+								RAVHBUkFSwVN
+								BVUFYgVnBXAF
+								egWGBZsFnQWf
+								BaEFowWlBacF
+								tAW5Bb4FwwXI
+								Bc0F1gXZBeIF
+								5wX9BgAGFgYo
+								BisGPwAAAAAA
+								AAIBAAAAAAAA
+								AOgAAAAAAAAA
+								AAAAAAAAAAZB
+															</data>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 FUNC_ID_SERIAL_API_GET_INIT_DATA}</string>
+														</dict>
+													</dict>
+												</array>
 												<key>title</key>
 												<dict>
 													<key>attributedText</key>
@@ -1044,9 +1319,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-487.60546875, -358.72916666666669}</string>
+												<string>{-824.89543779054316, -384.07240138170414}</string>
 												<key>nodeID</key>
-												<string>0374E62B-7165-47A2-82CA-995A7E5B3012</string>
+												<string>FF417682-56E4-4E58-91C1-0E660CEAD492</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1201,9 +1476,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-487.60546875, -331.72916666666669}</string>
+												<string>{-824.89543779054316, -357.07240138170414}</string>
 												<key>nodeID</key>
-												<string>396BFBAA-FC32-4A9E-A9FC-3419176BECF1</string>
+												<string>08F24B93-2174-4310-B5B6-92D3A30BB81B</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.800, 0.400, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1474,9 +1749,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-487.60546875, -304.72916666666669}</string>
+												<string>{-824.89543779054316, -330.07240138170414}</string>
 												<key>nodeID</key>
-												<string>C7660B7A-D12F-44B8-9CA6-E387A412D583</string>
+												<string>FE3C5B02-47E7-4822-88E3-6DC17CDAA161</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.800, 0.400, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1748,9 +2023,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-487.60546875, -277.72916666666669}</string>
+												<string>{-824.89543779054316, -303.07240138170414}</string>
 												<key>nodeID</key>
-												<string>2CA54437-5EC4-42C1-A0EB-79CA0B0288FA</string>
+												<string>61A49830-AE5C-4273-8515-EA0426C93C2F</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.800, 0.400, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2681,9 +2956,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-976.60546875, -250.72916666666669}</string>
+						<string>{-1313.8954377905432, -276.07240138170414}</string>
 						<key>nodeID</key>
-						<string>F4930FA8-A3E0-4A06-89CC-8153666E634C</string>
+						<string>FBE93945-DD14-4ABB-8DFB-4CB06C31DAFC</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2704,9 +2979,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-802.60546875, -250.72916666666669}</string>
+								<string>{-1139.8954377905432, -276.07240138170414}</string>
 								<key>nodeID</key>
-								<string>803AA046-4C2F-483D-A105-6FED0E07CDB3</string>
+								<string>65BF0763-03D1-42BB-9A3D-90BBB36DE37F</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3134,9 +3409,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-976.60546875, -223.72916666666669}</string>
+						<string>{-1313.8954377905432, -249.07240138170414}</string>
 						<key>nodeID</key>
-						<string>D17A013E-5080-4553-B20D-C0D9B7809A45</string>
+						<string>5EAD835B-E9F8-4BF7-B95B-DC91896BB801</string>
 						<key>strokeColor</key>
 						<string>{0.400, 1.000, 0.800, 1.000}</string>
 						<key>strokeStyle</key>
@@ -3157,9 +3432,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-808.60546875, -223.72916666666669}</string>
+								<string>{-1145.8954377905432, -249.07240138170414}</string>
 								<key>nodeID</key>
-								<string>B5638F53-167C-47EE-90D3-9EF6A57CF0AF</string>
+								<string>D3689FD2-C1FF-4A37-99F4-48E5ECBCB318</string>
 								<key>strokeColor</key>
 								<string>{0.400, 1.000, 0.800, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3683,9 +3958,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-42.302083333333258, -361.04687499999983}</string>
+				<string>{-712.94670095603101, -889.39607716974524}</string>
 				<key>nodeID</key>
-				<string>F37C36DB-833B-4008-90E5-09B70D8751D1</string>
+				<string>AC99CD13-6876-4668-9E94-F144BEC265A1</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -3706,9 +3981,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{150.69791666666674, -432.54687499999983}</string>
+						<string>{-519.94670095603101, -960.89607716974524}</string>
 						<key>nodeID</key>
-						<string>3EB8499E-1078-4288-893B-0DBF20E51DE1</string>
+						<string>20422161-D8BD-4B15-B31A-9E93FA6A453E</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -3729,9 +4004,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{306.69791666666674, -500.04687499999983}</string>
+								<string>{-363.94670095603101, -1028.3960771697452}</string>
 								<key>nodeID</key>
-								<string>6423ECED-589F-476A-8DC2-1E676E5D0BE0</string>
+								<string>3C4D2DBC-A72F-469B-B578-2AC9243DE525</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4000,9 +4275,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{306.69791666666674, -473.04687499999983}</string>
+								<string>{-363.94670095603101, -1001.3960771697452}</string>
 								<key>nodeID</key>
-								<string>A0472FC8-2D69-4FED-AB7D-64E0566748B8</string>
+								<string>8D5B1A1C-6067-41DF-9F20-50DBC29EBEDB</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4271,9 +4546,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{306.69791666666674, -446.04687499999983}</string>
+								<string>{-363.94670095603101, -974.39607716974524}</string>
 								<key>nodeID</key>
-								<string>E7ADA7FD-83BE-4685-9EEE-3B9F3C89FE80</string>
+								<string>93D95BF4-34C1-4FC5-B0F8-27F6EA61B57E</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4545,9 +4820,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{306.69791666666674, -419.04687499999983}</string>
+								<string>{-363.94670095603101, -947.39607716974524}</string>
 								<key>nodeID</key>
-								<string>4DF9D1FB-D27C-4B2A-9E94-0191D96E1E5C</string>
+								<string>146F9572-59D5-4751-820A-421EDA31E34C</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4816,9 +5091,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{306.69791666666674, -392.04687499999983}</string>
+								<string>{-363.94670095603101, -920.39607716974524}</string>
 								<key>nodeID</key>
-								<string>FEC0911D-EE7A-4183-A545-3A940C7D6A38</string>
+								<string>787EE54C-9118-4D53-8E14-39BC910024CF</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5087,9 +5362,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{306.69791666666674, -365.04687499999983}</string>
+								<string>{-363.94670095603101, -893.39607716974524}</string>
 								<key>nodeID</key>
-								<string>02EC1E59-71EB-4435-84C1-24A2988816A5</string>
+								<string>A53CC8A7-0D06-42EA-9DFB-B429A91AF844</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5110,9 +5385,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{437.69791666666674, -365.04687499999983}</string>
+										<string>{-232.94670095603101, -893.39607716974524}</string>
 										<key>nodeID</key>
-										<string>9ACE39E6-ED8F-45E1-8D7A-D9C791A0383B</string>
+										<string>FED2496C-0674-4DE4-8D30-B6E3889F61A1</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.800, 0.400, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5789,9 +6064,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{150.69791666666674, -270.54687499999983}</string>
+						<string>{-519.94670095603101, -798.89607716974524}</string>
 						<key>nodeID</key>
-						<string>A415AC2C-A616-4789-8EFE-A7B700491105</string>
+						<string>615EF4FF-17DF-4FE1-ABCE-129BF1F9E470</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -5812,9 +6087,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{311.69791666666674, -338.04687499999983}</string>
+								<string>{-358.94670095603101, -866.39607716974524}</string>
 								<key>nodeID</key>
-								<string>9FE25F29-4946-4D10-81E9-0618C7B30DC1</string>
+								<string>0E6E34CC-78C7-40D2-B41C-67ED6FF61EB6</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6083,9 +6358,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{311.69791666666674, -311.04687499999983}</string>
+								<string>{-358.94670095603101, -839.39607716974524}</string>
 								<key>nodeID</key>
-								<string>1CFFA1F2-7444-4626-8C09-8EE16828DEE1</string>
+								<string>2FC1EF2C-E17C-403E-A970-C40A45EA1EE7</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6354,9 +6629,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{311.69791666666674, -284.04687499999983}</string>
+								<string>{-358.94670095603101, -812.39607716974524}</string>
 								<key>nodeID</key>
-								<string>CF0F34F0-8732-492D-B629-CC3FE634D26A</string>
+								<string>212FF97F-4572-424F-8CA4-233FA1404E3A</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6628,9 +6903,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{311.69791666666674, -257.04687499999983}</string>
+								<string>{-358.94670095603101, -785.39607716974524}</string>
 								<key>nodeID</key>
-								<string>73B718C3-A80C-4878-B131-E836FE8F0DA4</string>
+								<string>32BF5CAC-1973-42AE-9564-7DB6BFA93AD5</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6899,9 +7174,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{311.69791666666674, -230.04687499999983}</string>
+								<string>{-358.94670095603101, -758.39607716974524}</string>
 								<key>nodeID</key>
-								<string>D37D1BDE-8116-474D-B82A-73769E7FD907</string>
+								<string>3B7FD5D8-CD6E-41D2-A5AD-7C794523CE57</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -7172,9 +7447,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{311.69791666666674, -203.04687499999983}</string>
+								<string>{-358.94670095603101, -731.39607716974524}</string>
 								<key>nodeID</key>
-								<string>513DB4CD-19F9-4386-BB53-527A7C68CE51</string>
+								<string>51866129-21C3-4834-AC40-2EB20EE4DFEF</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -7195,9 +7470,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{442.69791666666674, -203.04687499999983}</string>
+										<string>{-227.94670095603101, -731.39607716974524}</string>
 										<key>nodeID</key>
-										<string>0BB7E897-9FD3-4319-8113-92AFB2988BC4</string>
+										<string>A49D5F79-A979-428F-8946-F998BAD2A883</string>
 										<key>strokeColor</key>
 										<string>{0.800, 1.000, 0.400, 1.000}</string>
 										<key>strokeStyle</key>
@@ -7971,9 +8246,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-578.82291666666663, -709.77604166666674}</string>
+				<string>{-1485.2860054516516, -989.147228693187}</string>
 				<key>nodeID</key>
-				<string>F50F74A6-86E6-4082-A68A-8D796634E728</string>
+				<string>94704CC0-098D-43C3-B901-0954D1559910</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -7994,9 +8269,575 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-448.82291666666663, -791.77604166666674}</string>
+						<string>{-1355.2860054516516, -1084.6472286931871}</string>
 						<key>nodeID</key>
-						<string>3D268AD2-6C74-418D-B83B-56DF5DF364FE</string>
+						<string>EDFA549A-674A-4679-B68A-F4DCD410A313</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.800, 0.400, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAQIDBAUG
+							+PlYJHZlcnNpb25YJG9i
+							amVjdHNZJGFyY2hpdmVy
+							VCR0b3ASAAGGoK8QMwcI
+							DxAYISIjJEJRWFlgZWpv
+							dHl+g4iNkpeam5ygpKyt
+							s7S1t7/AzM3Oz9DR1d3e
+							4uzw9FUkbnVsbNMJCgsM
+							DQ5Wc3RyaW5nWmF0dHJp
+							YnV0ZXNWJGNsYXNzgAKA
+							A4AyXxA/Q2hhbmdlIGFs
+							bCBoYW5kbGVyIGNsYXNz
+							ZXMgdG8gY29tbWFuZCBj
+							bGFzc2VzIHcvbmV3IGFi
+							c3RyYWN0aW9u0hELEhda
+							TlMub2JqZWN0c6QTFBUW
+							gASAHYAjgCyAGNMZEQsa
+							HSBXTlMua2V5c6IbHIAF
+							gAaiHh+AB4AIgBxfECRr
+							TU5BdHRyaWJ1dGVkU3Ry
+							aW5nQXR0cmlidXRlUmFu
+							Z2VLZXlfEChrTU5BdHRy
+							aWJ1dGVkU3RyaW5nQXR0
+							cmlidXRlQXR0cmlidXRl
+							S2V5V3swLCA2M33fEA8l
+							JicoKQsqKywtLi8wMTIz
+							NDU2Nzg5Ojs8PT4/QEFf
+							EBFtYXhpbXVtTGluZUhl
+							aWdodFh0YWJTdG9wc18Q
+							EHBhcmFncmFwaFNwYWNp
+							bmdaaGVhZEluZGVudF1s
+							aW5lQnJlYWtNb2RlW2xp
+							bmVTcGFjaW5nWWFsaWdu
+							bWVudFp0YWlsSW5kZW50
+							XxARbWluaW11bUxpbmVI
+							ZWlnaHRfEBZwYXJhZ3Jh
+							cGhTcGFjaW5nQmVmb3Jl
+							XxASZGVmYXVsdFRhYklu
+							dGVydmFsXxASZmlyc3RM
+							aW5lSGVhZElkZW50XxAU
+							YmFzZVdyaXRpbmdEaXJl
+							Y3Rpb25fEBJsaW5lSGVp
+							Z2h0TXVsdGlwbGUiAAAA
+							AIAJIgAAAAAiAAAAAIAL
+							gBsiAAAAAIAZIgAAAAAi
+							AAAAACIAAAAAIgAAAAAi
+							AAAAAIAaIgAAAADSEQtD
+							F6xERUZHSElKS0xNTk+A
+							CoANgA6AD4AQgBGAEoAT
+							gBSAFYAWgBeAGNQrUlML
+							N1VWV1dvcHRpb25zWGxv
+							Y2F0aW9ugAuAACJB4AAA
+							gAwQANJaW1xdWiRjbGFz
+							c25hbWVYJGNsYXNzZXNb
+							TU5BU1RleHRUYWKiXl9b
+							TU5BU1RleHRUYWJYTlNP
+							YmplY3TUK1JTCzdVY1eA
+							C4AAIkJgAACADNQrUlML
+							N1VoV4ALgAAiQqgAAIAM
+							1CtSUws3VW1XgAuAACJC
+							4AAAgAzUK1JTCzdVcleA
+							C4AAIkMMAACADNQrUlML
+							N1V3V4ALgAAiQygAAIAM
+							1CtSUws3VXxXgAuAACJD
+							RAAAgAzUK1JTCzdVgVeA
+							C4AAIkNgAACADNQrUlML
+							N1WGV4ALgAAiQ3wAAIAM
+							1CtSUws3VYtXgAuAACJD
+							jAAAgAzUK1JTCzdVkFeA
+							C4AAIkOaAACADNQrUlML
+							N1WVV4ALgAAiQ6gAAIAM
+							0lpbmJlXTlNBcnJheaKY
+							XxAEFAAAAAAAAAAA////
+							///////SWludnl8QE01O
+							QVNQYXJhZ3JhcGh5U3R5
+							bGWin19fEBNNTkFTUGFy
+							YWdyYXBoeVN0eWxl0lpb
+							oaJfEBNOU011dGFibGVE
+							aWN0aW9uYXJ5o6GjX1xO
+							U0RpY3Rpb25hcnnTGREL
+							paggohscgAWABqKpqoAe
+							gB+AHFd7MCwgNjN90xkR
+							C66wsqGvgCChsYAhgCJf
+							EA9OU1N0cmlrZXRocm91
+							Z2gQAdJaW6O2oqNf0xkR
+							C7i7IKIbHIAFgAaivL2A
+							JIAlgBxXezAsIDYzfdbB
+							wsPExQvGx8jJystUc2l6
+							ZVhmb250TmFtZVlleHBh
+							bnNpb25bb2JsaXF1ZW5l
+							c3NfEBJiYXNlbGluZUFk
+							anVzdG1lbnSAJ4AmgCqA
+							KYAogCtcTHVjaWRhR3Jh
+							bmRlIkFAAAAiAAAAACIA
+							AAAAIgAAAADSWlvS01hN
+							TkFTRm9udKLUX1hNTkFT
+							Rm9udNMZEQvW2SCiGxyA
+							BYAGotrbgC2ALoAcV3sw
+							LCA2M33S3wvg4VVjb2xv
+							coAvgDHVC+Pk5ebn6Onq
+							61NyZWRVYWxwaGFUYmx1
+							ZVVncmVlboAwIgAAAAAi
+							P4AAACIAAAAAIgAAAADS
+							Wlvt7lhNTkNDb2xvcqLv
+							X1hNTkNDb2xvctJaW/Hy
+							XxATTU5BU0ZvcmVncm91
+							bmRDb2xvcqLzX18QE01O
+							QVNGb3JlZ3JvdW5kQ29s
+							b3LSWlv19l8QE01OQ0F0
+							dHJpYnV0ZWRTdHJpbmei
+							919fEBNNTkNBdHRyaWJ1
+							dGVkU3RyaW5nXxAPTlNL
+							ZXllZEFyY2hpdmVy0fr7
+							XxARTU5DMGRlclJvb3RP
+							YmplY3SAAQAIABEAGgAj
+							AC0AMgA3AG0AcwB6AIEA
+							jACTAJUAlwCZANsA4ADr
+							APAA8gD0APYA+AD6AQEB
+							CQEMAQ4BEAETARUBFwEZ
+							AUABawFzAZQBqAGxAcQB
+							zwHdAekB8wH+AhICKwJA
+							AlUCbAKBAoYCiAKNApIC
+							lAKWApsCnQKiAqcCrAKx
+							ArYCuAK9AsICzwLRAtMC
+							1QLXAtkC2wLdAt8C4QLj
+							AuUC5wLpAvIC+gMDAwUD
+							BwMMAw4DEAMVAyADKQM1
+							AzgDRANNA1YDWANaA18D
+							YQNqA2wDbgNzA3UDfgOA
+							A4IDhwOJA5IDlAOWA5sD
+							nQOmA6gDqgOvA7EDugO8
+							A74DwwPFA84D0APSA9cD
+							2QPiA+QD5gPrA+0D9gP4
+							A/oD/wQBBAoEDAQOBBME
+							FQQeBCAEIgQnBCkELgQ2
+							BDkEOwRMBFEEZwRqBIAE
+							hQSbBJ8ErASzBLYEuAS6
+							BL0EvwTBBMMEywTSBNQE
+							1gTYBNoE3ATuBPAE9QT4
+							BP8FAgUEBQYFCQULBQ0F
+							DwUXBSQFKQUyBTwFSAVd
+							BV8FYQVjBWUFZwVpBXYF
+							ewWABYUFigWPBZgFmwWk
+							BasFrgWwBbIFtQW3BbkF
+							uwXDBcgFzgXQBdIF3QXh
+							BecF7AXyBfQF+QX+BgMG
+							CAYNBhYGGQYiBicGPQZA
+							BlYGWwZxBnQGigacBp8G
+							swAAAAAAAAIBAAAAAAAA
+							APwAAAAAAAAAAAAAAAAA
+							AAa1
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \strike \strikec0 Change all handler classes to command classes w/new abstraction}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1355.2860054516516, -1042.6472286931871}</string>
+						<key>nodeID</key>
+						<string>5A257B32-055A-4A35-AD40-272E338AC60C</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.900, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAQIDBAUG
+							+PlYJHZlcnNpb25YJG9i
+							amVjdHNZJGFyY2hpdmVy
+							VCR0b3ASAAGGoK8QMwcI
+							DxAYISIjJEJRWFlgZWpv
+							dHl+g4iNkpeam5ygpKyt
+							s7S1t7/AzM3Oz9DR1d3e
+							4uzw9FUkbnVsbNMJCgsM
+							DQ5Wc3RyaW5nWmF0dHJp
+							YnV0ZXNWJGNsYXNzgAKA
+							A4AyXxBHU3RvcmUgY3Vy
+							cmVudCBtZXNzYWdlIGZv
+							ciB2ZXJpZmljYXRpb24g
+							dGhhdCBpdCBnZXRzIGEg
+							bWF0Y2hpbmcgcmVzcG9u
+							c2XSEQsSF1pOUy5vYmpl
+							Y3RzpBMUFRaABIAdgCOA
+							LIAY0xkRCxodIFdOUy5r
+							ZXlzohscgAWABqIeH4AH
+							gAiAHF8QJGtNTkF0dHJp
+							YnV0ZWRTdHJpbmdBdHRy
+							aWJ1dGVSYW5nZUtleV8Q
+							KGtNTkF0dHJpYnV0ZWRT
+							dHJpbmdBdHRyaWJ1dGVB
+							dHRyaWJ1dGVLZXlXezAs
+							IDcxfd8QDyUmJygpCyor
+							LC0uLzAxMjM0NTY3ODk6
+							Ozw9Pj9AQV8QEW1heGlt
+							dW1MaW5lSGVpZ2h0WHRh
+							YlN0b3BzXxAQcGFyYWdy
+							YXBoU3BhY2luZ1poZWFk
+							SW5kZW50XWxpbmVCcmVh
+							a01vZGVbbGluZVNwYWNp
+							bmdZYWxpZ25tZW50WnRh
+							aWxJbmRlbnRfEBFtaW5p
+							bXVtTGluZUhlaWdodF8Q
+							FnBhcmFncmFwaFNwYWNp
+							bmdCZWZvcmVfEBJkZWZh
+							dWx0VGFiSW50ZXJ2YWxf
+							EBJmaXJzdExpbmVIZWFk
+							SWRlbnRfEBRiYXNlV3Jp
+							dGluZ0RpcmVjdGlvbl8Q
+							EmxpbmVIZWlnaHRNdWx0
+							aXBsZSIAAAAAgAkiAAAA
+							ACIAAAAAgAuAGyIAAAAA
+							gBkiAAAAACIAAAAAIgAA
+							AAAiAAAAACIAAAAAgBoi
+							AAAAANIRC0MXrERFRkdI
+							SUpLTE1OT4AKgA2ADoAP
+							gBCAEYASgBOAFIAVgBaA
+							F4AY1CtSUws3VVZXV29w
+							dGlvbnNYbG9jYXRpb26A
+							C4AAIkHgAACADBAA0lpb
+							XF1aJGNsYXNzbmFtZVgk
+							Y2xhc3Nlc1tNTkFTVGV4
+							dFRhYqJeX1tNTkFTVGV4
+							dFRhYlhOU09iamVjdNQr
+							UlMLN1VjV4ALgAAiQmAA
+							AIAM1CtSUws3VWhXgAuA
+							ACJCqAAAgAzUK1JTCzdV
+							bVeAC4AAIkLgAACADNQr
+							UlMLN1VyV4ALgAAiQwwA
+							AIAM1CtSUws3VXdXgAuA
+							ACJDKAAAgAzUK1JTCzdV
+							fFeAC4AAIkNEAACADNQr
+							UlMLN1WBV4ALgAAiQ2AA
+							AIAM1CtSUws3VYZXgAuA
+							ACJDfAAAgAzUK1JTCzdV
+							i1eAC4AAIkOMAACADNQr
+							UlMLN1WQV4ALgAAiQ5oA
+							AIAM1CtSUws3VZVXgAuA
+							ACJDqAAAgAzSWluYmVdO
+							U0FycmF5ophfEAQUAAAA
+							AAAAAAD//////////9Ja
+							W52eXxATTU5BU1BhcmFn
+							cmFwaHlTdHlsZaKfX18Q
+							E01OQVNQYXJhZ3JhcGh5
+							U3R5bGXSWluhol8QE05T
+							TXV0YWJsZURpY3Rpb25h
+							cnmjoaNfXE5TRGljdGlv
+							bmFyedMZEQulqCCiGxyA
+							BYAGoqmqgB6AH4AcV3sw
+							LCA3MX3TGRELrrCyoa+A
+							IKGxgCGAIl8QD05TU3Ry
+							aWtldGhyb3VnaBAB0lpb
+							o7aio1/TGRELuLsgohsc
+							gAWABqK8vYAkgCWAHFd7
+							MCwgNzF91sHCw8TFC8bH
+							yMnKy1RzaXplWGZvbnRO
+							YW1lWWV4cGFuc2lvbltv
+							YmxpcXVlbmVzc18QEmJh
+							c2VsaW5lQWRqdXN0bWVu
+							dIAngCaAKoApgCiAK1xM
+							dWNpZGFHcmFuZGUiQUAA
+							ACIAAAAAIgAAAAAiAAAA
+							ANJaW9LTWE1OQVNGb250
+							otRfWE1OQVNGb2500xkR
+							C9bZIKIbHIAFgAai2tuA
+							LYAugBxXezAsIDcxfdLf
+							C+DhVWNvbG9ygC+AMdUL
+							4+Tl5ufo6errU3JlZFVh
+							bHBoYVRibHVlVWdyZWVu
+							gDAiAAAAACI/gAAAIgAA
+							AAAiAAAAANJaW+3uWE1O
+							Q0NvbG9you9fWE1OQ0Nv
+							bG9y0lpb8fJfEBNNTkFT
+							Rm9yZWdyb3VuZENvbG9y
+							ovNfXxATTU5BU0ZvcmVn
+							cm91bmRDb2xvctJaW/X2
+							XxATTU5DQXR0cmlidXRl
+							ZFN0cmluZ6L3X18QE01O
+							Q0F0dHJpYnV0ZWRTdHJp
+							bmdfEA9OU0tleWVkQXJj
+							aGl2ZXLR+vtfEBFNTkMw
+							ZGVyUm9vdE9iamVjdIAB
+							AAgAEQAaACMALQAyADcA
+							bQBzAHoAgQCMAJMAlQCX
+							AJkA4wDoAPMA+AD6APwA
+							/gEAAQIBCQERARQBFgEY
+							ARsBHQEfASEBSAFzAXsB
+							nAGwAbkBzAHXAeUB8QH7
+							AgYCGgIzAkgCXQJ0AokC
+							jgKQApUCmgKcAp4CowKl
+							AqoCrwK0ArkCvgLAAsUC
+							ygLXAtkC2wLdAt8C4QLj
+							AuUC5wLpAusC7QLvAvEC
+							+gMCAwsDDQMPAxQDFgMY
+							Ax0DKAMxAz0DQANMA1UD
+							XgNgA2IDZwNpA3IDdAN2
+							A3sDfQOGA4gDigOPA5ED
+							mgOcA54DowOlA64DsAOy
+							A7cDuQPCA8QDxgPLA80D
+							1gPYA9oD3wPhA+oD7APu
+							A/MD9QP+BAAEAgQHBAkE
+							EgQUBBYEGwQdBCYEKAQq
+							BC8EMQQ2BD4EQQRDBFQE
+							WQRvBHIEiASNBKMEpwS0
+							BLsEvgTABMIExQTHBMkE
+							ywTTBNoE3ATeBOAE4gTk
+							BPYE+AT9BQAFBwUKBQwF
+							DgURBRMFFQUXBR8FLAUx
+							BToFRAVQBWUFZwVpBWsF
+							bQVvBXEFfgWDBYgFjQWS
+							BZcFoAWjBawFswW2BbgF
+							ugW9Bb8FwQXDBcsF0AXW
+							BdgF2gXlBekF7wX0BfoF
+							/AYBBgYGCwYQBhUGHgYh
+							BioGLwZFBkgGXgZjBnkG
+							fAaSBqQGpwa7AAAAAAAA
+							AgEAAAAAAAAA/AAAAAAA
+							AAAAAAAAAAAABr0=
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \strike \strikec0 Store current message for verification that it gets a matching response}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1355.2860054516516, -1000.6472286931871}</string>
+						<key>nodeID</key>
+						<string>0B9DDA18-ACBE-4DB5-A535-8E56B196E3DB</string>
+						<key>strokeColor</key>
+						<string>{0.800, 0.400, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAQIDBAUG
+							5OVYJHZlcnNpb25YJG9i
+							amVjdHNZJGFyY2hpdmVy
+							VCR0b3ASAAGGoK8QLQcI
+							DxAXICEiIycxODxASEln
+							dn1+goeMkZaboKWqr7S5
+							vL2+wsrL19jZ2tvc4FUk
+							bnVsbNMJCgsMDQ5Wc3Ry
+							aW5nWmF0dHJpYnV0ZXNW
+							JGNsYXNzgAKAA4AsXxAu
+							Q3JlYXRlIGEgbmV3IG1l
+							c3NhZ2UgZnJvbSBpbmNv
+							bWluZyBkYXRhIGJ1ZmZl
+							ctIRCxIWWk5TLm9iamVj
+							dHOjExQVgASADYAjgB/T
+							GBELGRwfV05TLmtleXOi
+							GhuABYAGoh0egAeACIAM
+							XxAka01OQXR0cmlidXRl
+							ZFN0cmluZ0F0dHJpYnV0
+							ZVJhbmdlS2V5XxAoa01O
+							QXR0cmlidXRlZFN0cmlu
+							Z0F0dHJpYnV0ZUF0dHJp
+							YnV0ZUtleVd7MCwgNDZ9
+							0iQLJSZVY29sb3KACYAL
+							1QsoKSorLC0uLzBTcmVk
+							VWFscGhhVGJsdWVVZ3Jl
+							ZW6ACiIAAAAAIj+AAAAi
+							AAAAACIAAAAA0jIzNDVa
+							JGNsYXNzbmFtZVgkY2xh
+							c3Nlc1hNTkNDb2xvcqI2
+							N1hNTkNDb2xvclhOU09i
+							amVjdNIyMzk6XxATTU5B
+							U0ZvcmVncm91bmRDb2xv
+							cqI7N18QE01OQVNGb3Jl
+							Z3JvdW5kQ29sb3LSMjM9
+							Pl8QE05TTXV0YWJsZURp
+							Y3Rpb25hcnmjPT83XE5T
+							RGljdGlvbmFyedMYEQtB
+							RB+iGhuABYAGokVGgA6A
+							D4AMV3swLCA0Nn3fEA9K
+							S0xNTgtPUFFSU1RVVldY
+							WVpbXF1eX2BhYmNkZWZf
+							EBFtYXhpbXVtTGluZUhl
+							aWdodFh0YWJTdG9wc18Q
+							EHBhcmFncmFwaFNwYWNp
+							bmdaaGVhZEluZGVudF1s
+							aW5lQnJlYWtNb2RlW2xp
+							bmVTcGFjaW5nWWFsaWdu
+							bWVudFp0YWlsSW5kZW50
+							XxARbWluaW11bUxpbmVI
+							ZWlnaHRfEBZwYXJhZ3Jh
+							cGhTcGFjaW5nQmVmb3Jl
+							XxASZGVmYXVsdFRhYklu
+							dGVydmFsXxASZmlyc3RM
+							aW5lSGVhZElkZW50XxAU
+							YmFzZVdyaXRpbmdEaXJl
+							Y3Rpb25fEBJsaW5lSGVp
+							Z2h0TXVsdGlwbGUiAAAA
+							AIAQIgAAAAAiAAAAAIAS
+							gCIiAAAAAIAgIgAAAAAi
+							AAAAACIAAAAAIgAAAAAi
+							AAAAAIAhIgAAAADSEQto
+							FqxpamtsbW5vcHFyc3SA
+							EYAUgBWAFoAXgBiAGYAa
+							gBuAHIAdgB6AH9RQd3gL
+							XHp7fFdvcHRpb25zWGxv
+							Y2F0aW9ugBKAACJB4AAA
+							gBMQANIyM3+AW01OQVNU
+							ZXh0VGFiooE3W01OQVNU
+							ZXh0VGFi1FB3eAtceoV8
+							gBKAACJCYAAAgBPUUHd4
+							C1x6inyAEoAAIkKoAACA
+							E9RQd3gLXHqPfIASgAAi
+							QuAAAIAT1FB3eAtcepR8
+							gBKAACJDDAAAgBPUUHd4
+							C1x6mXyAEoAAIkMoAACA
+							E9RQd3gLXHqefIASgAAi
+							Q0QAAIAT1FB3eAtceqN8
+							gBKAACJDYAAAgBPUUHd4
+							C1x6qHyAEoAAIkN8AACA
+							E9RQd3gLXHqtfIASgAAi
+							Q4wAAIAT1FB3eAtcerJ8
+							gBKAACJDmgAAgBPUUHd4
+							C1x6t3yAEoAAIkOoAACA
+							E9IyM7q7V05TQXJyYXmi
+							ujcQBBQAAAAAAAAAAP//
+							////////0jIzv8BfEBNN
+							TkFTUGFyYWdyYXBoeVN0
+							eWxlosE3XxATTU5BU1Bh
+							cmFncmFwaHlTdHlsZdMY
+							EQvDxh+iGhuABYAGosfI
+							gCSAJYAMV3swLCA0Nn3W
+							zM3Oz9AL0dLT1NXWVHNp
+							emVYZm9udE5hbWVZZXhw
+							YW5zaW9uW29ibGlxdWVu
+							ZXNzXxASYmFzZWxpbmVB
+							ZGp1c3RtZW50gCeAJoAq
+							gCmAKIArXEx1Y2lkYUdy
+							YW5kZSJBQAAAIgAAAAAi
+							AAAAACIAAAAA0jIz3d5Y
+							TU5BU0ZvbnSi3zdYTU5B
+							U0ZvbnTSMjPh4l8QE01O
+							Q0F0dHJpYnV0ZWRTdHJp
+							bmei4zdfEBNNTkNBdHRy
+							aWJ1dGVkU3RyaW5nXxAP
+							TlNLZXllZEFyY2hpdmVy
+							0ebnXxARTU5DMGRlclJv
+							b3RPYmplY3SAAQAIABEA
+							GgAjAC0AMgA3AGcAbQB0
+							AHsAhgCNAI8AkQCTAMQA
+							yQDUANgA2gDcAN4A4ADn
+							AO8A8gD0APYA+QD7AP0A
+							/wEmAVEBWQFeAWQBZgFo
+							AXMBdwF9AYIBiAGKAY8B
+							lAGZAZ4BowGuAbcBwAHD
+							AcwB1QHaAfAB8wIJAg4C
+							JAIoAjUCPAI/AkECQwJG
+							AkgCSgJMAlQCdQKJApIC
+							pQKwAr4CygLUAt8C8wMM
+							AyEDNgNNA2IDZwNpA24D
+							cwN1A3cDfAN+A4MDiAON
+							A5IDlwOZA54DowOwA7ID
+							tAO2A7gDugO8A74DwAPC
+							A8QDxgPIA8oD0wPbA+QD
+							5gPoA+0D7wPxA/YEAgQF
+							BBEEGgQcBB4EIwQlBC4E
+							MAQyBDcEOQRCBEQERgRL
+							BE0EVgRYBFoEXwRhBGoE
+							bARuBHMEdQR+BIAEggSH
+							BIkEkgSUBJYEmwSdBKYE
+							qASqBK8EsQS6BLwEvgTD
+							BMUEzgTQBNIE1wTZBOIE
+							5ATmBOsE7QTyBPoE/QT/
+							BRAFFQUrBS4FRAVLBU4F
+							UAVSBVUFVwVZBVsFYwVw
+							BXUFfgWIBZQFqQWrBa0F
+							rwWxBbMFtQXCBccFzAXR
+							BdYF2wXkBecF8AX1BgsG
+							DgYkBjYGOQZNAAAAAAAA
+							AgEAAAAAAAAA6AAAAAAA
+							AAAAAAAAAAAABk8=
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 Create a new message from incoming data buffer}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1355.2860054516516, -973.64722869318712}</string>
+						<key>nodeID</key>
+						<string>128E9B9B-16B0-457E-9CD1-6EF360C55033</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -8177,377 +9018,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-448.82291666666663, -749.77604166666674}</string>
+						<string>{-1355.2860054516516, -931.64722869318712}</string>
 						<key>nodeID</key>
-						<string>0F061A24-8FF5-452A-96D1-ED7ED724ACCF</string>
-						<key>strokeColor</key>
-						<string>{1.000, 0.800, 0.400, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							5OVYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLQcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL2+wsrL19jZ2tvc4FUk
-							bnVsbNMJCgsMDQ5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxA/
-							Q2hhbmdlIGFsbCBoYW5k
-							bGVyIGNsYXNzZXMgdG8g
-							Y29tbWFuZCBjbGFzc2Vz
-							IHcvbmV3IGFic3RyYWN0
-							aW9u0hELEhZaTlMub2Jq
-							ZWN0c6MTFBWABIANgCOA
-							H9MYEQsZHB9XTlMua2V5
-							c6IaG4AFgAaiHR6AB4AI
-							gAxfECRrTU5BdHRyaWJ1
-							dGVkU3RyaW5nQXR0cmli
-							dXRlUmFuZ2VLZXlfEChr
-							TU5BdHRyaWJ1dGVkU3Ry
-							aW5nQXR0cmlidXRlQXR0
-							cmlidXRlS2V5V3swLCA2
-							M33SJAslJlVjb2xvcoAJ
-							gAvVCygpKissLS4vMFNy
-							ZWRVYWxwaGFUYmx1ZVVn
-							cmVlboAKIgAAAAAiP4AA
-							ACIAAAAAIgAAAADSMjM0
-							NVokY2xhc3NuYW1lWCRj
-							bGFzc2VzWE1OQ0NvbG9y
-							ojY3WE1OQ0NvbG9yWE5T
-							T2JqZWN00jIzOTpfEBNN
-							TkFTRm9yZWdyb3VuZENv
-							bG9yojs3XxATTU5BU0Zv
-							cmVncm91bmRDb2xvctIy
-							Mz0+XxATTlNNdXRhYmxl
-							RGljdGlvbmFyeaM9Pzdc
-							TlNEaWN0aW9uYXJ50xgR
-							C0FEH6IaG4AFgAaiRUaA
-							DoAPgAxXezAsIDYzfd8Q
-							D0pLTE1OC09QUVJTVFVW
-							V1hZWltcXV5fYGFiY2Rl
-							Zl8QEW1heGltdW1MaW5l
-							SGVpZ2h0WHRhYlN0b3Bz
-							XxAQcGFyYWdyYXBoU3Bh
-							Y2luZ1poZWFkSW5kZW50
-							XWxpbmVCcmVha01vZGVb
-							bGluZVNwYWNpbmdZYWxp
-							Z25tZW50WnRhaWxJbmRl
-							bnRfEBFtaW5pbXVtTGlu
-							ZUhlaWdodF8QFnBhcmFn
-							cmFwaFNwYWNpbmdCZWZv
-							cmVfEBJkZWZhdWx0VGFi
-							SW50ZXJ2YWxfEBJmaXJz
-							dExpbmVIZWFkSWRlbnRf
-							EBRiYXNlV3JpdGluZ0Rp
-							cmVjdGlvbl8QEmxpbmVI
-							ZWlnaHRNdWx0aXBsZSIA
-							AAAAgBAiAAAAACIAAAAA
-							gBKAIiIAAAAAgCAiAAAA
-							ACIAAAAAIgAAAAAiAAAA
-							ACIAAAAAgCEiAAAAANIR
-							C2gWrGlqa2xtbm9wcXJz
-							dIARgBSAFYAWgBeAGIAZ
-							gBqAG4AcgB2AHoAf1FB3
-							eAtcent8V29wdGlvbnNY
-							bG9jYXRpb26AEoAAIkHg
-							AACAExAA0jIzf4BbTU5B
-							U1RleHRUYWKigTdbTU5B
-							U1RleHRUYWLUUHd4C1x6
-							hXyAEoAAIkJgAACAE9RQ
-							d3gLXHqKfIASgAAiQqgA
-							AIAT1FB3eAtceo98gBKA
-							ACJC4AAAgBPUUHd4C1x6
-							lHyAEoAAIkMMAACAE9RQ
-							d3gLXHqZfIASgAAiQygA
-							AIAT1FB3eAtcep58gBKA
-							ACJDRAAAgBPUUHd4C1x6
-							o3yAEoAAIkNgAACAE9RQ
-							d3gLXHqofIASgAAiQ3wA
-							AIAT1FB3eAtceq18gBKA
-							ACJDjAAAgBPUUHd4C1x6
-							snyAEoAAIkOaAACAE9RQ
-							d3gLXHq3fIASgAAiQ6gA
-							AIAT0jIzurtXTlNBcnJh
-							eaK6NxAEFAAAAAAAAAAA
-							///////////SMjO/wF8Q
-							E01OQVNQYXJhZ3JhcGh5
-							U3R5bGWiwTdfEBNNTkFT
-							UGFyYWdyYXBoeVN0eWxl
-							0xgRC8PGH6IaG4AFgAai
-							x8iAJIAlgAxXezAsIDYz
-							fdbMzc7P0AvR0tPU1dZU
-							c2l6ZVhmb250TmFtZVll
-							eHBhbnNpb25bb2JsaXF1
-							ZW5lc3NfEBJiYXNlbGlu
-							ZUFkanVzdG1lbnSAJ4Am
-							gCqAKYAogCtcTHVjaWRh
-							R3JhbmRlIkFAAAAiAAAA
-							ACIAAAAAIgAAAADSMjPd
-							3lhNTkFTRm9udKLfN1hN
-							TkFTRm9udNIyM+HiXxAT
-							TU5DQXR0cmlidXRlZFN0
-							cmluZ6LjN18QE01OQ0F0
-							dHJpYnV0ZWRTdHJpbmdf
-							EA9OU0tleWVkQXJjaGl2
-							ZXLR5udfEBFNTkMwZGVy
-							Um9vdE9iamVjdIABAAgA
-							EQAaACMALQAyADcAZwBt
-							AHQAewCGAI0AjwCRAJMA
-							1QDaAOUA6QDrAO0A7wDx
-							APgBAAEDAQUBBwEKAQwB
-							DgEQATcBYgFqAW8BdQF3
-							AXkBhAGIAY4BkwGZAZsB
-							oAGlAaoBrwG0Ab8ByAHR
-							AdQB3QHmAesCAQIEAhoC
-							HwI1AjkCRgJNAlACUgJU
-							AlcCWQJbAl0CZQKGApoC
-							owK2AsECzwLbAuUC8AME
-							Ax0DMgNHA14DcwN4A3oD
-							fwOEA4YDiAONA48DlAOZ
-							A54DowOoA6oDrwO0A8ED
-							wwPFA8cDyQPLA80DzwPR
-							A9MD1QPXA9kD2wPkA+wD
-							9QP3A/kD/gQABAIEBwQT
-							BBYEIgQrBC0ELwQ0BDYE
-							PwRBBEMESARKBFMEVQRX
-							BFwEXgRnBGkEawRwBHIE
-							ewR9BH8EhASGBI8EkQST
-							BJgEmgSjBKUEpwSsBK4E
-							twS5BLsEwATCBMsEzQTP
-							BNQE1gTfBOEE4wToBOoE
-							8wT1BPcE/AT+BQMFCwUO
-							BRAFIQUmBTwFPwVVBVwF
-							XwVhBWMFZgVoBWoFbAV0
-							BYEFhgWPBZkFpQW6BbwF
-							vgXABcIFxAXGBdMF2AXd
-							BeIF5wXsBfUF+AYBBgYG
-							HAYfBjUGRwZKBl4AAAAA
-							AAACAQAAAAAAAADoAAAA
-							AAAAAAAAAAAAAAAGYA==
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 Change all handler classes to command classes w/new abstraction}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-448.82291666666663, -707.77604166666674}</string>
-						<key>nodeID</key>
-						<string>FAAD0651-F687-4DE7-B639-3236BFC4200C</string>
-						<key>strokeColor</key>
-						<string>{0.400, 1.000, 0.800, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							5OVYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLQcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL2+wsrL19jZ2tvc4FUk
-							bnVsbNMJCgsMDQ5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxBZ
-							Q3JlYXRlIGEgcXVldWUg
-							Zm9yIG5vbi1BQ0snZCBv
-							dXRnb2luZyBtZXNzYWdl
-							cywgc28gdGhleSBjYW4g
-							YmUgcmVwbGF5ZWQgaWYg
-							YSBDQU4gaXMgc2VudC7S
-							EQsSFlpOUy5vYmplY3Rz
-							oxMUFYAEgA2AI4Af0xgR
-							CxkcH1dOUy5rZXlzohob
-							gAWABqIdHoAHgAiADF8Q
-							JGtNTkF0dHJpYnV0ZWRT
-							dHJpbmdBdHRyaWJ1dGVS
-							YW5nZUtleV8QKGtNTkF0
-							dHJpYnV0ZWRTdHJpbmdB
-							dHRyaWJ1dGVBdHRyaWJ1
-							dGVLZXlXezAsIDg5fdIk
-							CyUmVWNvbG9ygAmAC9UL
-							KCkqKywtLi8wU3JlZFVh
-							bHBoYVRibHVlVWdyZWVu
-							gAoiAAAAACI/gAAAIgAA
-							AAAiAAAAANIyMzQ1WiRj
-							bGFzc25hbWVYJGNsYXNz
-							ZXNYTU5DQ29sb3KiNjdY
-							TU5DQ29sb3JYTlNPYmpl
-							Y3TSMjM5Ol8QE01OQVNG
-							b3JlZ3JvdW5kQ29sb3Ki
-							OzdfEBNNTkFTRm9yZWdy
-							b3VuZENvbG9y0jIzPT5f
-							EBNOU011dGFibGVEaWN0
-							aW9uYXJ5oz0/N1xOU0Rp
-							Y3Rpb25hcnnTGBELQUQf
-							ohobgAWABqJFRoAOgA+A
-							DFd7MCwgODl93xAPSktM
-							TU4LT1BRUlNUVVZXWFla
-							W1xdXl9gYWJjZGVmXxAR
-							bWF4aW11bUxpbmVIZWln
-							aHRYdGFiU3RvcHNfEBBw
-							YXJhZ3JhcGhTcGFjaW5n
-							WmhlYWRJbmRlbnRdbGlu
-							ZUJyZWFrTW9kZVtsaW5l
-							U3BhY2luZ1lhbGlnbm1l
-							bnRadGFpbEluZGVudF8Q
-							EW1pbmltdW1MaW5lSGVp
-							Z2h0XxAWcGFyYWdyYXBo
-							U3BhY2luZ0JlZm9yZV8Q
-							EmRlZmF1bHRUYWJJbnRl
-							cnZhbF8QEmZpcnN0TGlu
-							ZUhlYWRJZGVudF8QFGJh
-							c2VXcml0aW5nRGlyZWN0
-							aW9uXxASbGluZUhlaWdo
-							dE11bHRpcGxlIgAAAACA
-							ECIAAAAAIgAAAACAEoAi
-							IgAAAACAICIAAAAAIgAA
-							AAAiAAAAACIAAAAAIgAA
-							AACAISIAAAAA0hELaBas
-							aWprbG1ub3BxcnN0gBGA
-							FIAVgBaAF4AYgBmAGoAb
-							gByAHYAegB/UUHd4C1x6
-							e3xXb3B0aW9uc1hsb2Nh
-							dGlvboASgAAiQeAAAIAT
-							EADSMjN/gFtNTkFTVGV4
-							dFRhYqKBN1tNTkFTVGV4
-							dFRhYtRQd3gLXHqFfIAS
-							gAAiQmAAAIAT1FB3eAtc
-							eop8gBKAACJCqAAAgBPU
-							UHd4C1x6j3yAEoAAIkLg
-							AACAE9RQd3gLXHqUfIAS
-							gAAiQwwAAIAT1FB3eAtc
-							epl8gBKAACJDKAAAgBPU
-							UHd4C1x6nnyAEoAAIkNE
-							AACAE9RQd3gLXHqjfIAS
-							gAAiQ2AAAIAT1FB3eAtc
-							eqh8gBKAACJDfAAAgBPU
-							UHd4C1x6rXyAEoAAIkOM
-							AACAE9RQd3gLXHqyfIAS
-							gAAiQ5oAAIAT1FB3eAtc
-							erd8gBKAACJDqAAAgBPS
-							MjO6u1dOU0FycmF5oro3
-							EAQUAAAAAAAAAAD/////
-							/////9IyM7/AXxATTU5B
-							U1BhcmFncmFwaHlTdHls
-							ZaLBN18QE01OQVNQYXJh
-							Z3JhcGh5U3R5bGXTGBEL
-							w8YfohobgAWABqLHyIAk
-							gCWADFd7MCwgODl91szN
-							zs/QC9HS09TV1lRzaXpl
-							WGZvbnROYW1lWWV4cGFu
-							c2lvbltvYmxpcXVlbmVz
-							c18QEmJhc2VsaW5lQWRq
-							dXN0bWVudIAngCaAKoAp
-							gCiAK1xMdWNpZGFHcmFu
-							ZGUiQUAAACIAAAAAIgAA
-							AAAiAAAAANIyM93eWE1O
-							QVNGb250ot83WE1OQVNG
-							b2500jIz4eJfEBNNTkNB
-							dHRyaWJ1dGVkU3RyaW5n
-							ouM3XxATTU5DQXR0cmli
-							dXRlZFN0cmluZ18QD05T
-							S2V5ZWRBcmNoaXZlctHm
-							518QEU1OQzBkZXJSb290
-							T2JqZWN0gAEACAARABoA
-							IwAtADIANwBnAG0AdAB7
-							AIYAjQCPAJEAkwDvAPQA
-							/wEDAQUBBwEJAQsBEgEa
-							AR0BHwEhASQBJgEoASoB
-							UQF8AYQBiQGPAZEBkwGe
-							AaIBqAGtAbMBtQG6Ab8B
-							xAHJAc4B2QHiAesB7gH3
-							AgACBQIbAh4CNAI5Ak8C
-							UwJgAmcCagJsAm4CcQJz
-							AnUCdwJ/AqACtAK9AtAC
-							2wLpAvUC/wMKAx4DNwNM
-							A2EDeAONA5IDlAOZA54D
-							oAOiA6cDqQOuA7MDuAO9
-							A8IDxAPJA84D2wPdA98D
-							4QPjA+UD5wPpA+sD7QPv
-							A/ED8wP1A/4EBgQPBBEE
-							EwQYBBoEHAQhBC0EMAQ8
-							BEUERwRJBE4EUARZBFsE
-							XQRiBGQEbQRvBHEEdgR4
-							BIEEgwSFBIoEjASVBJcE
-							mQSeBKAEqQSrBK0EsgS0
-							BL0EvwTBBMYEyATRBNME
-							1QTaBNwE5QTnBOkE7gTw
-							BPkE+wT9BQIFBAUNBQ8F
-							EQUWBRgFHQUlBSgFKgU7
-							BUAFVgVZBW8FdgV5BXsF
-							fQWABYIFhAWGBY4FmwWg
-							BakFswW/BdQF1gXYBdoF
-							3AXeBeAF7QXyBfcF/AYB
-							BgYGDwYSBhsGIAY2BjkG
-							TwZhBmQGeAAAAAAAAAIB
-							AAAAAAAAAOgAAAAAAAAA
-							AAAAAAAAAAZ6
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 Create a queue for non-ACK'd outgoing messages, so they can be replayed if a CAN is sent.}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-448.82291666666663, -650.77604166666674}</string>
-						<key>nodeID</key>
-						<string>406317A3-38D4-44E4-AA81-C6AEFEE702FE</string>
+						<string>C9AA4D03-6AD2-47CA-AAF0-647020EC0824</string>
 						<key>strokeColor</key>
 						<string>{0.400, 0.800, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -8727,11 +9200,11 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-448.82291666666663, -623.77604166666674}</string>
+						<string>{-1355.2860054516516, -904.64722869318712}</string>
 						<key>nodeID</key>
-						<string>BFA1D46F-71A2-451C-AA9B-EFE42F711885</string>
+						<string>3370A353-B9DC-4B19-8523-7CD0AE948C4D</string>
 						<key>strokeColor</key>
-						<string>{0.800, 0.400, 1.000, 1.000}</string>
+						<string>{0.400, 1.000, 0.800, 1.000}</string>
 						<key>strokeStyle</key>
 						<integer>0</integer>
 						<key>strokeWidth</key>
@@ -8751,138 +9224,141 @@
 							vL2+wsrL19jZ2tvc4FUk
 							bnVsbNMJCgsMDQ5Wc3Ry
 							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxAv
-							Q3JlYXRlIGEgbmV3IG1l
-							c3NhZ2UgZnJvbSBpbmNv
-							bWluZyBkYXRhIGJ1ZmZl
-							cj/SEQsSFlpOUy5vYmpl
-							Y3RzoxMUFYAEgA2AI4Af
-							0xgRCxkcH1dOUy5rZXlz
-							ohobgAWABqIdHoAHgAiA
-							DF8QJGtNTkF0dHJpYnV0
-							ZWRTdHJpbmdBdHRyaWJ1
-							dGVSYW5nZUtleV8QKGtN
-							TkF0dHJpYnV0ZWRTdHJp
-							bmdBdHRyaWJ1dGVBdHRy
-							aWJ1dGVLZXlXezAsIDQ3
-							fdIkCyUmVWNvbG9ygAmA
-							C9ULKCkqKywtLi8wU3Jl
-							ZFVhbHBoYVRibHVlVWdy
-							ZWVugAoiAAAAACI/gAAA
-							IgAAAAAiAAAAANIyMzQ1
-							WiRjbGFzc25hbWVYJGNs
-							YXNzZXNYTU5DQ29sb3Ki
-							NjdYTU5DQ29sb3JYTlNP
-							YmplY3TSMjM5Ol8QE01O
-							QVNGb3JlZ3JvdW5kQ29s
-							b3KiOzdfEBNNTkFTRm9y
-							ZWdyb3VuZENvbG9y0jIz
-							PT5fEBNOU011dGFibGVE
-							aWN0aW9uYXJ5oz0/N1xO
-							U0RpY3Rpb25hcnnTGBEL
-							QUQfohobgAWABqJFRoAO
-							gA+ADFd7MCwgNDd93xAP
-							SktMTU4LT1BRUlNUVVZX
-							WFlaW1xdXl9gYWJjZGVm
-							XxARbWF4aW11bUxpbmVI
-							ZWlnaHRYdGFiU3RvcHNf
-							EBBwYXJhZ3JhcGhTcGFj
-							aW5nWmhlYWRJbmRlbnRd
-							bGluZUJyZWFrTW9kZVts
-							aW5lU3BhY2luZ1lhbGln
-							bm1lbnRadGFpbEluZGVu
-							dF8QEW1pbmltdW1MaW5l
-							SGVpZ2h0XxAWcGFyYWdy
-							YXBoU3BhY2luZ0JlZm9y
-							ZV8QEmRlZmF1bHRUYWJJ
-							bnRlcnZhbF8QEmZpcnN0
-							TGluZUhlYWRJZGVudF8Q
-							FGJhc2VXcml0aW5nRGly
-							ZWN0aW9uXxASbGluZUhl
-							aWdodE11bHRpcGxlIgAA
-							AACAECIAAAAAIgAAAACA
-							EoAiIgAAAACAICIAAAAA
-							IgAAAAAiAAAAACIAAAAA
-							IgAAAACAISIAAAAA0hEL
-							aBasaWprbG1ub3BxcnN0
-							gBGAFIAVgBaAF4AYgBmA
-							GoAbgByAHYAegB/UUHd4
-							C1x6e3xXb3B0aW9uc1hs
-							b2NhdGlvboASgAAiQeAA
-							AIATEADSMjN/gFtNTkFT
-							VGV4dFRhYqKBN1tNTkFT
-							VGV4dFRhYtRQd3gLXHqF
-							fIASgAAiQmAAAIAT1FB3
-							eAtceop8gBKAACJCqAAA
-							gBPUUHd4C1x6j3yAEoAA
-							IkLgAACAE9RQd3gLXHqU
-							fIASgAAiQwwAAIAT1FB3
-							eAtcepl8gBKAACJDKAAA
-							gBPUUHd4C1x6nnyAEoAA
-							IkNEAACAE9RQd3gLXHqj
-							fIASgAAiQ2AAAIAT1FB3
-							eAtceqh8gBKAACJDfAAA
-							gBPUUHd4C1x6rXyAEoAA
-							IkOMAACAE9RQd3gLXHqy
-							fIASgAAiQ5oAAIAT1FB3
-							eAtcerd8gBKAACJDqAAA
-							gBPSMjO6u1dOU0FycmF5
-							oro3EAQUAAAAAAAAAAD/
-							/////////9IyM7/AXxAT
-							TU5BU1BhcmFncmFwaHlT
-							dHlsZaLBN18QE01OQVNQ
-							YXJhZ3JhcGh5U3R5bGXT
-							GBELw8YfohobgAWABqLH
-							yIAkgCWADFd7MCwgNDd9
-							1szNzs/QC9HS09TV1lRz
-							aXplWGZvbnROYW1lWWV4
-							cGFuc2lvbltvYmxpcXVl
-							bmVzc18QEmJhc2VsaW5l
-							QWRqdXN0bWVudIAngCaA
-							KoApgCiAK1xMdWNpZGFH
-							cmFuZGUiQUAAACIAAAAA
-							IgAAAAAiAAAAANIyM93e
-							WE1OQVNGb250ot83WE1O
-							QVNGb2500jIz4eJfEBNN
-							TkNBdHRyaWJ1dGVkU3Ry
-							aW5nouM3XxATTU5DQXR0
-							cmlidXRlZFN0cmluZ18Q
-							D05TS2V5ZWRBcmNoaXZl
-							ctHm518QEU1OQzBkZXJS
-							b290T2JqZWN0gAEACAAR
-							ABoAIwAtADIANwBnAG0A
-							dAB7AIYAjQCPAJEAkwDF
-							AMoA1QDZANsA3QDfAOEA
-							6ADwAPMA9QD3APoA/AD+
-							AQABJwFSAVoBXwFlAWcB
-							aQF0AXgBfgGDAYkBiwGQ
-							AZUBmgGfAaQBrwG4AcEB
-							xAHNAdYB2wHxAfQCCgIP
-							AiUCKQI2Aj0CQAJCAkQC
-							RwJJAksCTQJVAnYCigKT
-							AqYCsQK/AssC1QLgAvQD
-							DQMiAzcDTgNjA2gDagNv
-							A3QDdgN4A30DfwOEA4kD
-							jgOTA5gDmgOfA6QDsQOz
-							A7UDtwO5A7sDvQO/A8ED
-							wwPFA8cDyQPLA9QD3APl
-							A+cD6QPuA/AD8gP3BAME
-							BgQSBBsEHQQfBCQEJgQv
-							BDEEMwQ4BDoEQwRFBEcE
-							TAROBFcEWQRbBGAEYgRr
-							BG0EbwR0BHYEfwSBBIME
-							iASKBJMElQSXBJwEngSn
-							BKkEqwSwBLIEuwS9BL8E
-							xATGBM8E0QTTBNgE2gTj
-							BOUE5wTsBO4E8wT7BP4F
-							AAURBRYFLAUvBUUFTAVP
-							BVEFUwVWBVgFWgVcBWQF
-							cQV2BX8FiQWVBaoFrAWu
-							BbAFsgW0BbYFwwXIBc0F
-							0gXXBdwF5QXoBfEF9gYM
-							Bg8GJQY3BjoGTgAAAAAA
-							AAIBAAAAAAAAAOgAAAAA
-							AAAAAAAAAAAAAAZQ
+							JGNsYXNzgAKAA4AsXxBZ
+							Q3JlYXRlIGEgcXVldWUg
+							Zm9yIG5vbi1BQ0snZCBv
+							dXRnb2luZyBtZXNzYWdl
+							cywgc28gdGhleSBjYW4g
+							YmUgcmVwbGF5ZWQgaWYg
+							YSBDQU4gaXMgc2VudC7S
+							EQsSFlpOUy5vYmplY3Rz
+							oxMUFYAEgA2AI4Af0xgR
+							CxkcH1dOUy5rZXlzohob
+							gAWABqIdHoAHgAiADF8Q
+							JGtNTkF0dHJpYnV0ZWRT
+							dHJpbmdBdHRyaWJ1dGVS
+							YW5nZUtleV8QKGtNTkF0
+							dHJpYnV0ZWRTdHJpbmdB
+							dHRyaWJ1dGVBdHRyaWJ1
+							dGVLZXlXezAsIDg5fdIk
+							CyUmVWNvbG9ygAmAC9UL
+							KCkqKywtLi8wU3JlZFVh
+							bHBoYVRibHVlVWdyZWVu
+							gAoiAAAAACI/gAAAIgAA
+							AAAiAAAAANIyMzQ1WiRj
+							bGFzc25hbWVYJGNsYXNz
+							ZXNYTU5DQ29sb3KiNjdY
+							TU5DQ29sb3JYTlNPYmpl
+							Y3TSMjM5Ol8QE01OQVNG
+							b3JlZ3JvdW5kQ29sb3Ki
+							OzdfEBNNTkFTRm9yZWdy
+							b3VuZENvbG9y0jIzPT5f
+							EBNOU011dGFibGVEaWN0
+							aW9uYXJ5oz0/N1xOU0Rp
+							Y3Rpb25hcnnTGBELQUQf
+							ohobgAWABqJFRoAOgA+A
+							DFd7MCwgODl93xAPSktM
+							TU4LT1BRUlNUVVZXWFla
+							W1xdXl9gYWJjZGVmXxAR
+							bWF4aW11bUxpbmVIZWln
+							aHRYdGFiU3RvcHNfEBBw
+							YXJhZ3JhcGhTcGFjaW5n
+							WmhlYWRJbmRlbnRdbGlu
+							ZUJyZWFrTW9kZVtsaW5l
+							U3BhY2luZ1lhbGlnbm1l
+							bnRadGFpbEluZGVudF8Q
+							EW1pbmltdW1MaW5lSGVp
+							Z2h0XxAWcGFyYWdyYXBo
+							U3BhY2luZ0JlZm9yZV8Q
+							EmRlZmF1bHRUYWJJbnRl
+							cnZhbF8QEmZpcnN0TGlu
+							ZUhlYWRJZGVudF8QFGJh
+							c2VXcml0aW5nRGlyZWN0
+							aW9uXxASbGluZUhlaWdo
+							dE11bHRpcGxlIgAAAACA
+							ECIAAAAAIgAAAACAEoAi
+							IgAAAACAICIAAAAAIgAA
+							AAAiAAAAACIAAAAAIgAA
+							AACAISIAAAAA0hELaBas
+							aWprbG1ub3BxcnN0gBGA
+							FIAVgBaAF4AYgBmAGoAb
+							gByAHYAegB/UUHd4C1x6
+							e3xXb3B0aW9uc1hsb2Nh
+							dGlvboASgAAiQeAAAIAT
+							EADSMjN/gFtNTkFTVGV4
+							dFRhYqKBN1tNTkFTVGV4
+							dFRhYtRQd3gLXHqFfIAS
+							gAAiQmAAAIAT1FB3eAtc
+							eop8gBKAACJCqAAAgBPU
+							UHd4C1x6j3yAEoAAIkLg
+							AACAE9RQd3gLXHqUfIAS
+							gAAiQwwAAIAT1FB3eAtc
+							epl8gBKAACJDKAAAgBPU
+							UHd4C1x6nnyAEoAAIkNE
+							AACAE9RQd3gLXHqjfIAS
+							gAAiQ2AAAIAT1FB3eAtc
+							eqh8gBKAACJDfAAAgBPU
+							UHd4C1x6rXyAEoAAIkOM
+							AACAE9RQd3gLXHqyfIAS
+							gAAiQ5oAAIAT1FB3eAtc
+							erd8gBKAACJDqAAAgBPS
+							MjO6u1dOU0FycmF5oro3
+							EAQUAAAAAAAAAAD/////
+							/////9IyM7/AXxATTU5B
+							U1BhcmFncmFwaHlTdHls
+							ZaLBN18QE01OQVNQYXJh
+							Z3JhcGh5U3R5bGXTGBEL
+							w8YfohobgAWABqLHyIAk
+							gCWADFd7MCwgODl91szN
+							zs/QC9HS09TV1lRzaXpl
+							WGZvbnROYW1lWWV4cGFu
+							c2lvbltvYmxpcXVlbmVz
+							c18QEmJhc2VsaW5lQWRq
+							dXN0bWVudIAngCaAKoAp
+							gCiAK1xMdWNpZGFHcmFu
+							ZGUiQUAAACIAAAAAIgAA
+							AAAiAAAAANIyM93eWE1O
+							QVNGb250ot83WE1OQVNG
+							b2500jIz4eJfEBNNTkNB
+							dHRyaWJ1dGVkU3RyaW5n
+							ouM3XxATTU5DQXR0cmli
+							dXRlZFN0cmluZ18QD05T
+							S2V5ZWRBcmNoaXZlctHm
+							518QEU1OQzBkZXJSb290
+							T2JqZWN0gAEACAARABoA
+							IwAtADIANwBnAG0AdAB7
+							AIYAjQCPAJEAkwDvAPQA
+							/wEDAQUBBwEJAQsBEgEa
+							AR0BHwEhASQBJgEoASoB
+							UQF8AYQBiQGPAZEBkwGe
+							AaIBqAGtAbMBtQG6Ab8B
+							xAHJAc4B2QHiAesB7gH3
+							AgACBQIbAh4CNAI5Ak8C
+							UwJgAmcCagJsAm4CcQJz
+							AnUCdwJ/AqACtAK9AtAC
+							2wLpAvUC/wMKAx4DNwNM
+							A2EDeAONA5IDlAOZA54D
+							oAOiA6cDqQOuA7MDuAO9
+							A8IDxAPJA84D2wPdA98D
+							4QPjA+UD5wPpA+sD7QPv
+							A/ED8wP1A/4EBgQPBBEE
+							EwQYBBoEHAQhBC0EMAQ8
+							BEUERwRJBE4EUARZBFsE
+							XQRiBGQEbQRvBHEEdgR4
+							BIEEgwSFBIoEjASVBJcE
+							mQSeBKAEqQSrBK0EsgS0
+							BL0EvwTBBMYEyATRBNME
+							1QTaBNwE5QTnBOkE7gTw
+							BPkE+wT9BQIFBAUNBQ8F
+							EQUWBRgFHQUlBSgFKgU7
+							BUAFVgVZBW8FdgV5BXsF
+							fQWABYIFhAWGBY4FmwWg
+							BakFswW/BdQF1gXYBdoF
+							3AXeBeAF7QXyBfcF/AYB
+							BgYGDwYSBhsGIAY2BjkG
+							TwZhBmQGeAAAAAAAAAIB
+							AAAAAAAAAOgAAAAAAAAA
+							AAAAAAAAAAZ6
 							</data>
 							<key>constrainedWidth</key>
 							<integer>300</integer>
@@ -8894,7 +9370,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf0 Create a new message from incoming data buffer?}</string>
+\f0\fs24 \cf0 Create a queue for non-ACK'd outgoing messages, so they can be replayed if a CAN is sent.}</string>
 						</dict>
 					</dict>
 				</array>
@@ -8991,6 +9467,1303 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs26 \cf0 TODO}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-1484.1884321058058, -724.14769051977407}</string>
+				<key>nodeID</key>
+				<string>25A170E4-43FC-46BC-910D-F0C8C5772100</string>
+				<key>strokeColor</key>
+				<string>{0.500, 0.500, 0.500, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1325.1884321058058, -792.64769051977407}</string>
+						<key>nodeID</key>
+						<string>CD9E30D4-07E7-491D-BB85-928D7E2C602A</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.800, 0.400, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAAEAAgAD
+							AAQABQAGAYoBi1gkdmVy
+							c2lvblgkb2JqZWN0c1kk
+							YXJjaGl2ZXJUJHRvcBIA
+							AYagrxBQAAcACAAPABAA
+							GwAkACUAJgAnAEUAVABb
+							AFwAYwBoAG0AcgB3AHwA
+							gQCGAIsAkACVAJoAnQCe
+							AJ8AowCnAK8AsAC2ALcA
+							vQC+AMIAxADMAM0A2QDa
+							ANsA3ADdAN4A4gDqAOsA
+							7wD5AP0BAQEJAQoBDQEV
+							ARYBJgE1AToBPwFEAUkB
+							TgFTAVgBXQFiAWcBbAFx
+							AXIBegF7AYIBgwGEAYUB
+							hlUkbnVsbNMACQAKAAsA
+							DAANAA5Wc3RyaW5nWmF0
+							dHJpYnV0ZXNWJGNsYXNz
+							gAKAA4BPXxAzei13YXZl
+							IGluaXQgc2VxdWVuY2U6
+							IGh0dHA6Ly9idXp6ZGF2
+							aWRzb24uY29tLz9wPTY4
+							0gARAAsAEgAaWk5TLm9i
+							amVjdHOnABMAFAAVABYA
+							FwAYABmABIAdgCWALoA0
+							gDeASIAY0wAcABEACwAd
+							ACAAI1dOUy5rZXlzogAe
+							AB+ABYAGogAhACKAB4AI
+							gBxfECRrTU5BdHRyaWJ1
+							dGVkU3RyaW5nQXR0cmli
+							dXRlUmFuZ2VLZXlfEChr
+							TU5BdHRyaWJ1dGVkU3Ry
+							aW5nQXR0cmlidXRlQXR0
+							cmlidXRlS2V5WHsyMiwg
+							Mjl93xAPACgAKQAqACsA
+							LAALAC0ALgAvADAAMQAy
+							ADMANAA1ADYANwA4ADkA
+							OgA7ADwAPQA+AD8AQABB
+							AEIAQwBEXxARbWF4aW11
+							bUxpbmVIZWlnaHRYdGFi
+							U3RvcHNfEBBwYXJhZ3Jh
+							cGhTcGFjaW5nWmhlYWRJ
+							bmRlbnRdbGluZUJyZWFr
+							TW9kZVtsaW5lU3BhY2lu
+							Z1lhbGlnbm1lbnRadGFp
+							bEluZGVudF8QEW1pbmlt
+							dW1MaW5lSGVpZ2h0XxAW
+							cGFyYWdyYXBoU3BhY2lu
+							Z0JlZm9yZV8QEmRlZmF1
+							bHRUYWJJbnRlcnZhbF8Q
+							EmZpcnN0TGluZUhlYWRJ
+							ZGVudF8QFGJhc2VXcml0
+							aW5nRGlyZWN0aW9uXxAS
+							bGluZUhlaWdodE11bHRp
+							cGxlIgAAAACACSIAAAAA
+							IgAAAACAC4AbIgAAAACA
+							GSIAAAAAIgAAAAAiAAAA
+							ACIAAAAAIgAAAACAGiIA
+							AAAA0gARAAsARgAarABH
+							AEgASQBKAEsATABNAE4A
+							TwBQAFEAUoAKgA2ADoAP
+							gBCAEYASgBOAFIAVgBaA
+							F4AY1AAuAFUAVgALADoA
+							WABZAFpXb3B0aW9uc1hs
+							b2NhdGlvboALgAAiQeAA
+							AIAMEADSAF0AXgBfAGBa
+							JGNsYXNzbmFtZVgkY2xh
+							c3Nlc1tNTkFTVGV4dFRh
+							YqIAYQBiW01OQVNUZXh0
+							VGFiWE5TT2JqZWN01AAu
+							AFUAVgALADoAWABmAFqA
+							C4AAIkJgAACADNQALgBV
+							AFYACwA6AFgAawBagAuA
+							ACJCqAAAgAzUAC4AVQBW
+							AAsAOgBYAHAAWoALgAAi
+							QuAAAIAM1AAuAFUAVgAL
+							ADoAWAB1AFqAC4AAIkMM
+							AACADNQALgBVAFYACwA6
+							AFgAegBagAuAACJDKAAA
+							gAzUAC4AVQBWAAsAOgBY
+							AH8AWoALgAAiQ0QAAIAM
+							1AAuAFUAVgALADoAWACE
+							AFqAC4AAIkNgAACADNQA
+							LgBVAFYACwA6AFgAiQBa
+							gAuAACJDfAAAgAzUAC4A
+							VQBWAAsAOgBYAI4AWoAL
+							gAAiQ4wAAIAM1AAuAFUA
+							VgALADoAWACTAFqAC4AA
+							IkOaAACADNQALgBVAFYA
+							CwA6AFgAmABagAuAACJD
+							qAAAgAzSAF0AXgCbAJxX
+							TlNBcnJheaIAmwBiEAQU
+							AAAAAAAAAAD/////////
+							/9IAXQBeAKAAoV8QE01O
+							QVNQYXJhZ3JhcGh5U3R5
+							bGWiAKIAYl8QE01OQVNQ
+							YXJhZ3JhcGh5U3R5bGXS
+							AF0AXgCkAKVfEBNOU011
+							dGFibGVEaWN0aW9uYXJ5
+							owCkAKYAYlxOU0RpY3Rp
+							b25hcnnTABwAEQALAKgA
+							qwAjogAeAB+ABYAGogCs
+							AK2AHoAfgBxYezIyLCAy
+							OX3TABwAEQALALEAswC1
+							oQCygCChALSAIYAkVk5T
+							TGlua9MAuAALALkAWAC7
+							ALxXTlMuYmFzZVtOUy5y
+							ZWxhdGl2ZYAAgCOAIl8Q
+							HWh0dHA6Ly9idXp6ZGF2
+							aWRzb24uY29tLz9wPTY4
+							0gBdAF4AvwDAVU5TVVJM
+							ogDBAGJVTlNVUkzSAF0A
+							XgCmAMOiAKYAYtMAHAAR
+							AAsAxQDIACOiAB4AH4AF
+							gAaiAMkAyoAmgCeAHFh7
+							MjIsIDI5fdYAzgDPANAA
+							0QDSAAsA0wDUANUA1gDX
+							ANhUc2l6ZVhmb250TmFt
+							ZVlleHBhbnNpb25bb2Js
+							aXF1ZW5lc3NfEBJiYXNl
+							bGluZUFkanVzdG1lbnSA
+							KYAogCyAK4AqgC1cTHVj
+							aWRhR3JhbmRlIkFAAAAi
+							AAAAACIAAAAAIgAAAADS
+							AF0AXgDfAOBYTU5BU0Zv
+							bnSiAOEAYlhNTkFTRm9u
+							dNMAHAARAAsA4wDmACOi
+							AB4AH4AFgAaiAOcA6IAv
+							gDCAHFh7MjIsIDI5fdIA
+							7AALAO0A7lVjb2xvcoAx
+							gDPVAAsA8ADxAPIA8wD0
+							APUA9gD3APhTcmVkVWFs
+							cGhhVGJsdWVVZ3JlZW6A
+							MiIAAAAAIj+AAAAiAAAA
+							ACIAAAAA0gBdAF4A+gD7
+							WE1OQ0NvbG9yogD8AGJY
+							TU5DQ29sb3LSAF0AXgD+
+							AP9fEBNNTkFTRm9yZWdy
+							b3VuZENvbG9yogEAAGJf
+							EBNNTkFTRm9yZWdyb3Vu
+							ZENvbG9y0wAcABEACwEC
+							AQUAI6IAHgAfgAWABqIB
+							BgEHgDWANoAcV3swLCAy
+							Mn3SAOwACwDtAO6AMYAz
+							0wAcABEACwEOAREAI6IA
+							HgAfgAWABqIBEgETgDiA
+							OYAcV3swLCAyMn3fEA8A
+							KAApACoAKwAsAAsALQAu
+							AC8AMAAxADIAMwA0ADUB
+							FwEYARkBGgA6ADsBHQA9
+							AR8BIAEhASIBIwEkASUi
+							AAAAAIA6IgAAAAAiAAAA
+							AIALgBsiAAAAAIAZIgAA
+							AAAiAAAAACIAAAAAIgAA
+							AAAiAAAAAIBHIgAAAADS
+							ABEACwEnABqsASgBKQEq
+							ASsBLAEtAS4BLwEwATEB
+							MgEzgDuAPIA9gD6AP4BA
+							gEGAQoBDgESARYBGgBjU
+							AC4AVQBWAAsAOgBYATgA
+							WoALgAAiQeAAAIAM1AAu
+							AFUAVgALADoAWAE9AFqA
+							C4AAIkJgAACADNQALgBV
+							AFYACwA6AFgBQgBagAuA
+							ACJCqAAAgAzUAC4AVQBW
+							AAsAOgBYAUcAWoALgAAi
+							QuAAAIAM1AAuAFUAVgAL
+							ADoAWAFMAFqAC4AAIkMM
+							AACADNQALgBVAFYACwA6
+							AFgBUQBagAuAACJDKAAA
+							gAzUAC4AVQBWAAsAOgBY
+							AVYAWoALgAAiQ0QAAIAM
+							1AAuAFUAVgALADoAWAFb
+							AFqAC4AAIkNgAACADNQA
+							LgBVAFYACwA6AFgBYABa
+							gAuAACJDfAAAgAzUAC4A
+							VQBWAAsAOgBYAWUAWoAL
+							gAAiQ4wAAIAM1AAuAFUA
+							VgALADoAWAFqAFqAC4AA
+							IkOaAACADNQALgBVAFYA
+							CwA6AFgBbwBagAuAACJD
+							qAAAgAwUAAAAAAAAAAD/
+							/////////9MAHAARAAsB
+							cwF2ACOiAB4AH4AFgAai
+							AXcBeIBJgEqAHFd7MCwg
+							MjJ91gDOAM8A0ADRANIA
+							CwF8ANQBfgF/AYAA2IBL
+							gCiAToBNgEyALSJBQAAA
+							IgAAAAAiAAAAACIAAAAA
+							0gBdAF4BhwGIXxATTU5D
+							QXR0cmlidXRlZFN0cmlu
+							Z6IBiQBiXxATTU5DQXR0
+							cmlidXRlZFN0cmluZ18Q
+							D05TS2V5ZWRBcmNoaXZl
+							ctEBjAGNXxARTU5DMGRl
+							clJvb3RPYmplY3SAAQAI
+							ABkAIgArADUAOgA/AOIA
+							6AD1APwBBwEOARABEgEU
+							AUoBUwFeAW0BbwFxAXMB
+							dQF3AXkBewF9AYoBkgGX
+							AZkBmwGgAaIBpAGmAc0B
+							+AIBAkACVAJdAnACewKJ
+							ApUCnwKqAr4C1wLsAwED
+							GAMtAzIDNAM5Az4DQANC
+							A0cDSQNOA1MDWANdA2ID
+							ZANpA3IDiwONA48DkQOT
+							A5UDlwOZA5sDnQOfA6ED
+							owOlA7YDvgPHA8kDywPQ
+							A9ID1APdA+gD8QP9BAIE
+							DgQXBCgEKgQsBDEEMwRE
+							BEYESARNBE8EYARiBGQE
+							aQRrBHwEfgSABIUEhwSY
+							BJoEnAShBKMEtAS2BLgE
+							vQS/BNAE0gTUBNkE2wTs
+							BO4E8AT1BPcFCAUKBQwF
+							EQUTBSQFJgUoBS0FLwVA
+							BUIFRAVJBUsFVAVcBWEF
+							YwV0BX0FkwWYBa4FtwXN
+							BdQF4QXuBfMF9QX3BfwF
+							/gYABgIGCwYYBhsGHQYg
+							BiIGJAYrBjgGQAZMBk4G
+							UAZSBnIGewaBBoYGjAaV
+							BpoGpwasBq4GsAa1BrcG
+							uQa7BsQG3QbiBusG9QcB
+							BxYHGAcaBxwHHgcgByIH
+							Lwc0BzkHPgdDB0wHVQda
+							B2MHcAd1B3cHeQd+B4AH
+							ggeEB40HlgecB54HoAe1
+							B7kHvwfEB8oHzAfRB9YH
+							2wfgB+kH8gf3CAAICQgf
+							CCQIOghHCEwITghQCFUI
+							VwhZCFsIYwhsCG4IcAh9
+							CIIIhAiGCIsIjQiPCJEI
+							mQjYCN0I3wjkCOkI6wjt
+							CPII9Aj5CP4JAwkICQ0J
+							DwkUCR0JNgk4CToJPAk+
+							CUAJQglECUYJSAlKCUwJ
+							TglQCWEJYwllCWoJbAl9
+							CX8JgQmGCYgJmQmbCZ0J
+							ogmkCbUJtwm5Cb4JwAnR
+							CdMJ1QnaCdwJ7QnvCfEJ
+							9gn4CgkKCwoNChIKFAol
+							CicKKQouCjAKQQpDCkUK
+							SgpMCl0KXwphCmYKaAp5
+							CnsKfQqCCoQKlQqXCpkK
+							ngqgCrEKvgrDCsUKxwrM
+							Cs4K0ArSCtoK8wr1CvcK
+							+Qr7Cv0K/wsECwkLDgsT
+							CxwLMgs3C00LXwtkC3gA
+							AAAAAAACAgAAAAAAAAGO
+							AAAAAAAAAAAAAAAAAAAL
+							eg==
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 z-wave init sequence: {\field{\*\fldinst{HYPERLINK "http://buzzdavidson.com/?p=68"}}{\fldrslt http://buzzdavidson.com/?p=68}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1325.1884321058058, -750.64769051977407}</string>
+						<key>nodeID</key>
+						<string>8C27CDEC-6DF0-47D3-A729-A1F109634137</string>
+						<key>strokeColor</key>
+						<string>{0.800, 1.000, 0.400, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAAEAAgAD
+							AAQABQAGAYoBi1gkdmVy
+							c2lvblgkb2JqZWN0c1kk
+							YXJjaGl2ZXJUJHRvcBIA
+							AYagrxBQAAcACAAPABAA
+							GwAkACUAJgAnAEUAVABb
+							AFwAYwBoAG0AcgB3AHwA
+							gQCGAIsAkACVAJoAnQCe
+							AJ8AowCnAK8AsAC2ALcA
+							vQC+AMIAxADMAM0A2QDa
+							ANsA3ADdAN4A4gDqAOsA
+							7wD5AP0BAQEJAQoBDQEV
+							ARYBJgE1AToBPwFEAUkB
+							TgFTAVgBXQFiAWcBbAFx
+							AXIBegF7AYIBgwGEAYUB
+							hlUkbnVsbNMACQAKAAsA
+							DAANAA5Wc3RyaW5nWmF0
+							dHJpYnV0ZXNWJGNsYXNz
+							gAKAA4BPXxBQVW5kZXJz
+							dGFuZGluZyBwYWNrZXQg
+							Zm9ybWF0OiBodHRwOi8v
+							Zm9ydW0ubWljYXNhdmVy
+							ZGUuY29tL2luZGV4LnBo
+							cD90b3BpYz04NTk2LjDS
+							ABEACwASABpaTlMub2Jq
+							ZWN0c6cAEwAUABUAFgAX
+							ABgAGYAEgB2AJYAugDSA
+							N4BIgBjTABwAEQALAB0A
+							IAAjV05TLmtleXOiAB4A
+							H4AFgAaiACEAIoAHgAiA
+							HF8QJGtNTkF0dHJpYnV0
+							ZWRTdHJpbmdBdHRyaWJ1
+							dGVSYW5nZUtleV8QKGtN
+							TkF0dHJpYnV0ZWRTdHJp
+							bmdBdHRyaWJ1dGVBdHRy
+							aWJ1dGVLZXlYezI5LCA1
+							MX3fEA8AKAApACoAKwAs
+							AAsALQAuAC8AMAAxADIA
+							MwA0ADUANgA3ADgAOQA6
+							ADsAPAA9AD4APwBAAEEA
+							QgBDAERfEBFtYXhpbXVt
+							TGluZUhlaWdodFh0YWJT
+							dG9wc18QEHBhcmFncmFw
+							aFNwYWNpbmdaaGVhZElu
+							ZGVudF1saW5lQnJlYWtN
+							b2RlW2xpbmVTcGFjaW5n
+							WWFsaWdubWVudFp0YWls
+							SW5kZW50XxARbWluaW11
+							bUxpbmVIZWlnaHRfEBZw
+							YXJhZ3JhcGhTcGFjaW5n
+							QmVmb3JlXxASZGVmYXVs
+							dFRhYkludGVydmFsXxAS
+							Zmlyc3RMaW5lSGVhZElk
+							ZW50XxAUYmFzZVdyaXRp
+							bmdEaXJlY3Rpb25fEBJs
+							aW5lSGVpZ2h0TXVsdGlw
+							bGUiAAAAAIAJIgAAAAAi
+							AAAAAIALgBsiAAAAAIAZ
+							IgAAAAAiAAAAACIAAAAA
+							IgAAAAAiAAAAAIAaIgAA
+							AADSABEACwBGABqsAEcA
+							SABJAEoASwBMAE0ATgBP
+							AFAAUQBSgAqADYAOgA+A
+							EIARgBKAE4AUgBWAFoAX
+							gBjUAC4AVQBWAAsAOgBY
+							AFkAWldvcHRpb25zWGxv
+							Y2F0aW9ugAuAACJB4AAA
+							gAwQANIAXQBeAF8AYFok
+							Y2xhc3NuYW1lWCRjbGFz
+							c2VzW01OQVNUZXh0VGFi
+							ogBhAGJbTU5BU1RleHRU
+							YWJYTlNPYmplY3TUAC4A
+							VQBWAAsAOgBYAGYAWoAL
+							gAAiQmAAAIAM1AAuAFUA
+							VgALADoAWABrAFqAC4AA
+							IkKoAACADNQALgBVAFYA
+							CwA6AFgAcABagAuAACJC
+							4AAAgAzUAC4AVQBWAAsA
+							OgBYAHUAWoALgAAiQwwA
+							AIAM1AAuAFUAVgALADoA
+							WAB6AFqAC4AAIkMoAACA
+							DNQALgBVAFYACwA6AFgA
+							fwBagAuAACJDRAAAgAzU
+							AC4AVQBWAAsAOgBYAIQA
+							WoALgAAiQ2AAAIAM1AAu
+							AFUAVgALADoAWACJAFqA
+							C4AAIkN8AACADNQALgBV
+							AFYACwA6AFgAjgBagAuA
+							ACJDjAAAgAzUAC4AVQBW
+							AAsAOgBYAJMAWoALgAAi
+							Q5oAAIAM1AAuAFUAVgAL
+							ADoAWACYAFqAC4AAIkOo
+							AACADNIAXQBeAJsAnFdO
+							U0FycmF5ogCbAGIQBBQA
+							AAAAAAAAAP//////////
+							0gBdAF4AoAChXxATTU5B
+							U1BhcmFncmFwaHlTdHls
+							ZaIAogBiXxATTU5BU1Bh
+							cmFncmFwaHlTdHlsZdIA
+							XQBeAKQApV8QE05TTXV0
+							YWJsZURpY3Rpb25hcnmj
+							AKQApgBiXE5TRGljdGlv
+							bmFyedMAHAARAAsAqACr
+							ACOiAB4AH4AFgAaiAKwA
+							rYAegB+AHFh7MjksIDUx
+							fdMAHAARAAsAsQCzALWh
+							ALKAIKEAtIAhgCRWTlNM
+							aW5r0wC4AAsAuQBYALsA
+							vFdOUy5iYXNlW05TLnJl
+							bGF0aXZlgACAI4AiXxAz
+							aHR0cDovL2ZvcnVtLm1p
+							Y2FzYXZlcmRlLmNvbS9p
+							bmRleC5waHA/dG9waWM9
+							ODU5Ni4w0gBdAF4AvwDA
+							VU5TVVJMogDBAGJVTlNV
+							UkzSAF0AXgCmAMOiAKYA
+							YtMAHAARAAsAxQDIACOi
+							AB4AH4AFgAaiAMkAyoAm
+							gCeAHFh7MjksIDUxfdYA
+							zgDPANAA0QDSAAsA0wDU
+							ANUA1gDXANhUc2l6ZVhm
+							b250TmFtZVlleHBhbnNp
+							b25bb2JsaXF1ZW5lc3Nf
+							EBJiYXNlbGluZUFkanVz
+							dG1lbnSAKYAogCyAK4Aq
+							gC1cTHVjaWRhR3JhbmRl
+							IkFAAAAiAAAAACIAAAAA
+							IgAAAADSAF0AXgDfAOBY
+							TU5BU0ZvbnSiAOEAYlhN
+							TkFTRm9udNMAHAARAAsA
+							4wDmACOiAB4AH4AFgAai
+							AOcA6IAvgDCAHFh7Mjks
+							IDUxfdIA7AALAO0A7lVj
+							b2xvcoAxgDPVAAsA8ADx
+							APIA8wD0APUA9gD3APhT
+							cmVkVWFscGhhVGJsdWVV
+							Z3JlZW6AMiIAAAAAIj+A
+							AAAiAAAAACIAAAAA0gBd
+							AF4A+gD7WE1OQ0NvbG9y
+							ogD8AGJYTU5DQ29sb3LS
+							AF0AXgD+AP9fEBNNTkFT
+							Rm9yZWdyb3VuZENvbG9y
+							ogEAAGJfEBNNTkFTRm9y
+							ZWdyb3VuZENvbG9y0wAc
+							ABEACwECAQUAI6IAHgAf
+							gAWABqIBBgEHgDWANoAc
+							V3swLCAyOX3SAOwACwDt
+							AO6AMYAz0wAcABEACwEO
+							AREAI6IAHgAfgAWABqIB
+							EgETgDiAOYAcV3swLCAy
+							OX3fEA8AKAApACoAKwAs
+							AAsALQAuAC8AMAAxADIA
+							MwA0ADUBFwEYARkBGgA6
+							ADsBHQA9AR8BIAEhASIB
+							IwEkASUiAAAAAIA6IgAA
+							AAAiAAAAAIALgBsiAAAA
+							AIAZIgAAAAAiAAAAACIA
+							AAAAIgAAAAAiAAAAAIBH
+							IgAAAADSABEACwEnABqs
+							ASgBKQEqASsBLAEtAS4B
+							LwEwATEBMgEzgDuAPIA9
+							gD6AP4BAgEGAQoBDgESA
+							RYBGgBjUAC4AVQBWAAsA
+							OgBYATgAWoALgAAiQeAA
+							AIAM1AAuAFUAVgALADoA
+							WAE9AFqAC4AAIkJgAACA
+							DNQALgBVAFYACwA6AFgB
+							QgBagAuAACJCqAAAgAzU
+							AC4AVQBWAAsAOgBYAUcA
+							WoALgAAiQuAAAIAM1AAu
+							AFUAVgALADoAWAFMAFqA
+							C4AAIkMMAACADNQALgBV
+							AFYACwA6AFgBUQBagAuA
+							ACJDKAAAgAzUAC4AVQBW
+							AAsAOgBYAVYAWoALgAAi
+							Q0QAAIAM1AAuAFUAVgAL
+							ADoAWAFbAFqAC4AAIkNg
+							AACADNQALgBVAFYACwA6
+							AFgBYABagAuAACJDfAAA
+							gAzUAC4AVQBWAAsAOgBY
+							AWUAWoALgAAiQ4wAAIAM
+							1AAuAFUAVgALADoAWAFq
+							AFqAC4AAIkOaAACADNQA
+							LgBVAFYACwA6AFgBbwBa
+							gAuAACJDqAAAgAwUAAAA
+							AAAAAAD//////////9MA
+							HAARAAsBcwF2ACOiAB4A
+							H4AFgAaiAXcBeIBJgEqA
+							HFd7MCwgMjl91gDOAM8A
+							0ADRANIACwF8ANQBfgF/
+							AYAA2IBLgCiAToBNgEyA
+							LSJBQAAAIgAAAAAiAAAA
+							ACIAAAAA0gBdAF4BhwGI
+							XxATTU5DQXR0cmlidXRl
+							ZFN0cmluZ6IBiQBiXxAT
+							TU5DQXR0cmlidXRlZFN0
+							cmluZ18QD05TS2V5ZWRB
+							cmNoaXZlctEBjAGNXxAR
+							TU5DMGRlclJvb3RPYmpl
+							Y3SAAQAIABkAIgArADUA
+							OgA/AOIA6AD1APwBBwEO
+							ARABEgEUAWcBcAF7AYoB
+							jAGOAZABkgGUAZYBmAGa
+							AacBrwG0AbYBuAG9Ab8B
+							wQHDAeoCFQIeAl0CcQJ6
+							Ao0CmAKmArICvALHAtsC
+							9AMJAx4DNQNKA08DUQNW
+							A1sDXQNfA2QDZgNrA3AD
+							dQN6A38DgQOGA48DqAOq
+							A6wDrgOwA7IDtAO2A7gD
+							ugO8A74DwAPCA9MD2wPk
+							A+YD6APtA+8D8QP6BAUE
+							DgQaBB8EKwQ0BEUERwRJ
+							BE4EUARhBGMEZQRqBGwE
+							fQR/BIEEhgSIBJkEmwSd
+							BKIEpAS1BLcEuQS+BMAE
+							0QTTBNUE2gTcBO0E7wTx
+							BPYE+AUJBQsFDQUSBRQF
+							JQUnBSkFLgUwBUEFQwVF
+							BUoFTAVdBV8FYQVmBWgF
+							cQV5BX4FgAWRBZoFsAW1
+							BcsF1AXqBfEF/gYLBhAG
+							EgYUBhkGGwYdBh8GKAY1
+							BjgGOgY9Bj8GQQZIBlUG
+							XQZpBmsGbQZvBqUGrga0
+							BrkGvwbIBs0G2gbfBuEG
+							4wboBuoG7AbuBvcHEAcV
+							Bx4HKAc0B0kHSwdNB08H
+							UQdTB1UHYgdnB2wHcQd2
+							B38HiAeNB5YHoweoB6oH
+							rAexB7MHtQe3B8AHyQfP
+							B9EH0wfoB+wH8gf3B/0H
+							/wgECAkIDggTCBwIJQgq
+							CDMIPAhSCFcIbQh6CH8I
+							gQiDCIgIigiMCI4Ilgif
+							CKEIowiwCLUItwi5CL4I
+							wAjCCMQIzAkLCRAJEgkX
+							CRwJHgkgCSUJJwksCTEJ
+							Ngk7CUAJQglHCVAJaQlr
+							CW0JbwlxCXMJdQl3CXkJ
+							ewl9CX8JgQmDCZQJlgmY
+							CZ0JnwmwCbIJtAm5CbsJ
+							zAnOCdAJ1QnXCegJ6gns
+							CfEJ8woECgYKCAoNCg8K
+							IAoiCiQKKQorCjwKPgpA
+							CkUKRwpYCloKXAphCmMK
+							dAp2CngKfQp/CpAKkgqU
+							CpkKmwqsCq4KsAq1CrcK
+							yArKCswK0QrTCuQK8Qr2
+							CvgK+gr/CwELAwsFCw0L
+							JgsoCyoLLAsuCzALMgs3
+							CzwLQQtGC08LZQtqC4AL
+							kguXC6sAAAAAAAACAgAA
+							AAAAAAGOAAAAAAAAAAAA
+							AAAAAAALrQ==
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 Understanding packet format: {\field{\*\fldinst{HYPERLINK "http://forum.micasaverde.com/index.php?topic=8596.0"}}{\fldrslt http://forum.micasaverde.com/index.php?topic=8596.0}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1325.1884321058058, -693.64769051977407}</string>
+						<key>nodeID</key>
+						<string>0B2656CA-17E7-4DA8-97B7-D58F0A913443</string>
+						<key>strokeColor</key>
+						<string>{0.400, 1.000, 0.800, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAAEAAgAD
+							AAQABQAGAYoBi1gkdmVy
+							c2lvblgkb2JqZWN0c1kk
+							YXJjaGl2ZXJUJHRvcBIA
+							AYagrxBQAAcACAAPABAA
+							GwAkACUAJgAnAEUAVABb
+							AFwAYwBoAG0AcgB3AHwA
+							gQCGAIsAkACVAJoAnQCe
+							AJ8AowCnAK8AsAC2ALcA
+							vQC+AMIAxADMAM0A2QDa
+							ANsA3ADdAN4A4gDqAOsA
+							7wD5AP0BAQEJAQoBDQEV
+							ARYBJgE1AToBPwFEAUkB
+							TgFTAVgBXQFiAWcBbAFx
+							AXIBegF7AYIBgwGEAYUB
+							hlUkbnVsbNMACQAKAAsA
+							DAANAA5Wc3RyaW5nWmF0
+							dHJpYnV0ZXNWJGNsYXNz
+							gAKAA4BPXxBHZGlnaVdh
+							dmUgQyMgcHJvdG9jb2wg
+							b3ZlcnZpZXc6IGh0dHA6
+							Ly93d3cuZGlnaXdhdmUu
+							ZGsvZW4vdGFnL3otd2F2
+							ZS1lbi/SABEACwASABpa
+							TlMub2JqZWN0c6cAEwAU
+							ABUAFgAXABgAGYAEgB2A
+							JYAugDSAN4BIgBjTABwA
+							EQALAB0AIAAjV05TLmtl
+							eXOiAB4AH4AFgAaiACEA
+							IoAHgAiAHF8QJGtNTkF0
+							dHJpYnV0ZWRTdHJpbmdB
+							dHRyaWJ1dGVSYW5nZUtl
+							eV8QKGtNTkF0dHJpYnV0
+							ZWRTdHJpbmdBdHRyaWJ1
+							dGVBdHRyaWJ1dGVLZXlY
+							ezMxLCA0MH3fEA8AKAAp
+							ACoAKwAsAAsALQAuAC8A
+							MAAxADIAMwA0ADUANgA3
+							ADgAOQA6ADsAPAA9AD4A
+							PwBAAEEAQgBDAERfEBFt
+							YXhpbXVtTGluZUhlaWdo
+							dFh0YWJTdG9wc18QEHBh
+							cmFncmFwaFNwYWNpbmda
+							aGVhZEluZGVudF1saW5l
+							QnJlYWtNb2RlW2xpbmVT
+							cGFjaW5nWWFsaWdubWVu
+							dFp0YWlsSW5kZW50XxAR
+							bWluaW11bUxpbmVIZWln
+							aHRfEBZwYXJhZ3JhcGhT
+							cGFjaW5nQmVmb3JlXxAS
+							ZGVmYXVsdFRhYkludGVy
+							dmFsXxASZmlyc3RMaW5l
+							SGVhZElkZW50XxAUYmFz
+							ZVdyaXRpbmdEaXJlY3Rp
+							b25fEBJsaW5lSGVpZ2h0
+							TXVsdGlwbGUiAAAAAIAJ
+							IgAAAAAiAAAAAIALgBsi
+							AAAAAIAZIgAAAAAiAAAA
+							ACIAAAAAIgAAAAAiAAAA
+							AIAaIgAAAADSABEACwBG
+							ABqsAEcASABJAEoASwBM
+							AE0ATgBPAFAAUQBSgAqA
+							DYAOgA+AEIARgBKAE4AU
+							gBWAFoAXgBjUAC4AVQBW
+							AAsAOgBYAFkAWldvcHRp
+							b25zWGxvY2F0aW9ugAuA
+							ACJB4AAAgAwQANIAXQBe
+							AF8AYFokY2xhc3NuYW1l
+							WCRjbGFzc2VzW01OQVNU
+							ZXh0VGFiogBhAGJbTU5B
+							U1RleHRUYWJYTlNPYmpl
+							Y3TUAC4AVQBWAAsAOgBY
+							AGYAWoALgAAiQmAAAIAM
+							1AAuAFUAVgALADoAWABr
+							AFqAC4AAIkKoAACADNQA
+							LgBVAFYACwA6AFgAcABa
+							gAuAACJC4AAAgAzUAC4A
+							VQBWAAsAOgBYAHUAWoAL
+							gAAiQwwAAIAM1AAuAFUA
+							VgALADoAWAB6AFqAC4AA
+							IkMoAACADNQALgBVAFYA
+							CwA6AFgAfwBagAuAACJD
+							RAAAgAzUAC4AVQBWAAsA
+							OgBYAIQAWoALgAAiQ2AA
+							AIAM1AAuAFUAVgALADoA
+							WACJAFqAC4AAIkN8AACA
+							DNQALgBVAFYACwA6AFgA
+							jgBagAuAACJDjAAAgAzU
+							AC4AVQBWAAsAOgBYAJMA
+							WoALgAAiQ5oAAIAM1AAu
+							AFUAVgALADoAWACYAFqA
+							C4AAIkOoAACADNIAXQBe
+							AJsAnFdOU0FycmF5ogCb
+							AGIQBBQAAAAAAAAAAP//
+							////////0gBdAF4AoACh
+							XxATTU5BU1BhcmFncmFw
+							aHlTdHlsZaIAogBiXxAT
+							TU5BU1BhcmFncmFwaHlT
+							dHlsZdIAXQBeAKQApV8Q
+							E05TTXV0YWJsZURpY3Rp
+							b25hcnmjAKQApgBiXE5T
+							RGljdGlvbmFyedMAHAAR
+							AAsAqACrACOiAB4AH4AF
+							gAaiAKwArYAegB+AHFh7
+							MzEsIDQwfdMAHAARAAsA
+							sQCzALWhALKAIKEAtIAh
+							gCRWTlNMaW5r0wC4AAsA
+							uQBYALsAvFdOUy5iYXNl
+							W05TLnJlbGF0aXZlgACA
+							I4AiXxAoaHR0cDovL3d3
+							dy5kaWdpd2F2ZS5kay9l
+							bi90YWcvei13YXZlLWVu
+							L9IAXQBeAL8AwFVOU1VS
+							TKIAwQBiVU5TVVJM0gBd
+							AF4ApgDDogCmAGLTABwA
+							EQALAMUAyAAjogAeAB+A
+							BYAGogDJAMqAJoAngBxY
+							ezMxLCA0MH3WAM4AzwDQ
+							ANEA0gALANMA1ADVANYA
+							1wDYVHNpemVYZm9udE5h
+							bWVZZXhwYW5zaW9uW29i
+							bGlxdWVuZXNzXxASYmFz
+							ZWxpbmVBZGp1c3RtZW50
+							gCmAKIAsgCuAKoAtXEx1
+							Y2lkYUdyYW5kZSJBQAAA
+							IgAAAAAiAAAAACIAAAAA
+							0gBdAF4A3wDgWE1OQVNG
+							b250ogDhAGJYTU5BU0Zv
+							bnTTABwAEQALAOMA5gAj
+							ogAeAB+ABYAGogDnAOiA
+							L4AwgBxYezMxLCA0MH3S
+							AOwACwDtAO5VY29sb3KA
+							MYAz1QALAPAA8QDyAPMA
+							9AD1APYA9wD4U3JlZFVh
+							bHBoYVRibHVlVWdyZWVu
+							gDIiAAAAACI/gAAAIgAA
+							AAAiAAAAANIAXQBeAPoA
+							+1hNTkNDb2xvcqIA/ABi
+							WE1OQ0NvbG9y0gBdAF4A
+							/gD/XxATTU5BU0ZvcmVn
+							cm91bmRDb2xvcqIBAABi
+							XxATTU5BU0ZvcmVncm91
+							bmRDb2xvctMAHAARAAsB
+							AgEFACOiAB4AH4AFgAai
+							AQYBB4A1gDaAHFd7MCwg
+							MzF90gDsAAsA7QDugDGA
+							M9MAHAARAAsBDgERACOi
+							AB4AH4AFgAaiARIBE4A4
+							gDmAHFd7MCwgMzF93xAP
+							ACgAKQAqACsALAALAC0A
+							LgAvADAAMQAyADMANAA1
+							ARcBGAEZARoAOgA7AR0A
+							PQEfASABIQEiASMBJAEl
+							IgAAAACAOiIAAAAAIgAA
+							AACAC4AbIgAAAACAGSIA
+							AAAAIgAAAAAiAAAAACIA
+							AAAAIgAAAACARyIAAAAA
+							0gARAAsBJwAarAEoASkB
+							KgErASwBLQEuAS8BMAEx
+							ATIBM4A7gDyAPYA+gD+A
+							QIBBgEKAQ4BEgEWARoAY
+							1AAuAFUAVgALADoAWAE4
+							AFqAC4AAIkHgAACADNQA
+							LgBVAFYACwA6AFgBPQBa
+							gAuAACJCYAAAgAzUAC4A
+							VQBWAAsAOgBYAUIAWoAL
+							gAAiQqgAAIAM1AAuAFUA
+							VgALADoAWAFHAFqAC4AA
+							IkLgAACADNQALgBVAFYA
+							CwA6AFgBTABagAuAACJD
+							DAAAgAzUAC4AVQBWAAsA
+							OgBYAVEAWoALgAAiQygA
+							AIAM1AAuAFUAVgALADoA
+							WAFWAFqAC4AAIkNEAACA
+							DNQALgBVAFYACwA6AFgB
+							WwBagAuAACJDYAAAgAzU
+							AC4AVQBWAAsAOgBYAWAA
+							WoALgAAiQ3wAAIAM1AAu
+							AFUAVgALADoAWAFlAFqA
+							C4AAIkOMAACADNQALgBV
+							AFYACwA6AFgBagBagAuA
+							ACJDmgAAgAzUAC4AVQBW
+							AAsAOgBYAW8AWoALgAAi
+							Q6gAAIAMFAAAAAAAAAAA
+							///////////TABwAEQAL
+							AXMBdgAjogAeAB+ABYAG
+							ogF3AXiASYBKgBxXezAs
+							IDMxfdYAzgDPANAA0QDS
+							AAsBfADUAX4BfwGAANiA
+							S4AogE6ATYBMgC0iQUAA
+							ACIAAAAAIgAAAAAiAAAA
+							ANIAXQBeAYcBiF8QE01O
+							Q0F0dHJpYnV0ZWRTdHJp
+							bmeiAYkAYl8QE01OQ0F0
+							dHJpYnV0ZWRTdHJpbmdf
+							EA9OU0tleWVkQXJjaGl2
+							ZXLRAYwBjV8QEU1OQzBk
+							ZXJSb290T2JqZWN0gAEA
+							CAAZACIAKwA1ADoAPwDi
+							AOgA9QD8AQcBDgEQARIB
+							FAFeAWcBcgGBAYMBhQGH
+							AYkBiwGNAY8BkQGeAaYB
+							qwGtAa8BtAG2AbgBugHh
+							AgwCFQJUAmgCcQKEAo8C
+							nQKpArMCvgLSAusDAAMV
+							AywDQQNGA0gDTQNSA1QD
+							VgNbA10DYgNnA2wDcQN2
+							A3gDfQOGA58DoQOjA6UD
+							pwOpA6sDrQOvA7EDswO1
+							A7cDuQPKA9ID2wPdA98D
+							5APmA+gD8QP8BAUEEQQW
+							BCIEKwQ8BD4EQARFBEcE
+							WARaBFwEYQRjBHQEdgR4
+							BH0EfwSQBJIElASZBJsE
+							rASuBLAEtQS3BMgEygTM
+							BNEE0wTkBOYE6ATtBO8F
+							AAUCBQQFCQULBRwFHgUg
+							BSUFJwU4BToFPAVBBUMF
+							VAVWBVgFXQVfBWgFcAV1
+							BXcFiAWRBacFrAXCBcsF
+							4QXoBfUGAgYHBgkGCwYQ
+							BhIGFAYWBh8GLAYvBjEG
+							NAY2BjgGPwZMBlQGYAZi
+							BmQGZgaRBpoGoAalBqsG
+							tAa5BsYGywbNBs8G1AbW
+							BtgG2gbjBvwHAQcKBxQH
+							IAc1BzcHOQc7Bz0HPwdB
+							B04HUwdYB10HYgdrB3QH
+							eQeCB48HlAeWB5gHnQef
+							B6EHowesB7UHuwe9B78H
+							1AfYB94H4wfpB+sH8Af1
+							B/oH/wgICBEIFggfCCgI
+							PghDCFkIZghrCG0Ibwh0
+							CHYIeAh6CIIIiwiNCI8I
+							nAihCKMIpQiqCKwIrgiw
+							CLgI9wj8CP4JAwkICQoJ
+							DAkRCRMJGAkdCSIJJwks
+							CS4JMwk8CVUJVwlZCVsJ
+							XQlfCWEJYwllCWcJaQlr
+							CW0JbwmACYIJhAmJCYsJ
+							nAmeCaAJpQmnCbgJugm8
+							CcEJwwnUCdYJ2AndCd8J
+							8AnyCfQJ+Qn7CgwKDgoQ
+							ChUKFwooCioKLAoxCjMK
+							RApGCkgKTQpPCmAKYgpk
+							CmkKawp8Cn4KgAqFCocK
+							mAqaCpwKoQqjCrQKtgq4
+							Cr0KvwrQCt0K4grkCuYK
+							6wrtCu8K8Qr5CxILFAsW
+							CxgLGgscCx4LIwsoCy0L
+							Mgs7C1ELVgtsC34LgwuX
+							AAAAAAAAAgIAAAAAAAAB
+							jgAAAAAAAAAAAAAAAAAA
+							C5k=
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 digiWave C# protocol overview: {\field{\*\fldinst{HYPERLINK "http://www.digiwave.dk/en/tag/z-wave-en/"}}{\fldrslt http://www.digiwave.dk/en/tag/z-wave-en/}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1325.1884321058058, -651.64769051977407}</string>
+						<key>nodeID</key>
+						<string>0C2AC809-C7B5-4869-A31F-352CEAEA574E</string>
+						<key>strokeColor</key>
+						<string>{0.400, 0.800, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAAEAAgAD
+							AAQABQAGAYoBi1gkdmVy
+							c2lvblgkb2JqZWN0c1kk
+							YXJjaGl2ZXJUJHRvcBIA
+							AYagrxBQAAcACAAPABAA
+							GwAkACUAJgAnAEUAVABb
+							AFwAYwBoAG0AcgB3AHwA
+							gQCGAIsAkACVAJoAnQCe
+							AJ8AowCnAK8AsAC2ALcA
+							vQC+AMIAxADMAM0A2QDa
+							ANsA3ADdAN4A4gDqAOsA
+							7wD5AP0BAQEJAQoBDQEV
+							ARYBJgE1AToBPwFEAUkB
+							TgFTAVgBXQFiAWcBbAFx
+							AXIBegF7AYIBgwGEAYUB
+							hlUkbnVsbNMACQAKAAsA
+							DAANAA5Wc3RyaW5nWmF0
+							dHJpYnV0ZXNWJGNsYXNz
+							gAKAA4BPXxA8bGVha2Vk
+							IHplbnN5cyBzb3VyY2U/
+							IGh0dHA6Ly93d3cuY29k
+							ZWZvcmdlLmNvbS9hcnRp
+							Y2xlLzE1NTk20gARAAsA
+							EgAaWk5TLm9iamVjdHOn
+							ABMAFAAVABYAFwAYABmA
+							BIAdgCWALoA0gDeASIAY
+							0wAcABEACwAdACAAI1dO
+							Uy5rZXlzogAeAB+ABYAG
+							ogAhACKAB4AIgBxfECRr
+							TU5BdHRyaWJ1dGVkU3Ry
+							aW5nQXR0cmlidXRlUmFu
+							Z2VLZXlfEChrTU5BdHRy
+							aWJ1dGVkU3RyaW5nQXR0
+							cmlidXRlQXR0cmlidXRl
+							S2V5WHsyMiwgMzh93xAP
+							ACgAKQAqACsALAALAC0A
+							LgAvADAAMQAyADMANAA1
+							ADYANwA4ADkAOgA7ADwA
+							PQA+AD8AQABBAEIAQwBE
+							XxARbWF4aW11bUxpbmVI
+							ZWlnaHRYdGFiU3RvcHNf
+							EBBwYXJhZ3JhcGhTcGFj
+							aW5nWmhlYWRJbmRlbnRd
+							bGluZUJyZWFrTW9kZVts
+							aW5lU3BhY2luZ1lhbGln
+							bm1lbnRadGFpbEluZGVu
+							dF8QEW1pbmltdW1MaW5l
+							SGVpZ2h0XxAWcGFyYWdy
+							YXBoU3BhY2luZ0JlZm9y
+							ZV8QEmRlZmF1bHRUYWJJ
+							bnRlcnZhbF8QEmZpcnN0
+							TGluZUhlYWRJZGVudF8Q
+							FGJhc2VXcml0aW5nRGly
+							ZWN0aW9uXxASbGluZUhl
+							aWdodE11bHRpcGxlIgAA
+							AACACSIAAAAAIgAAAACA
+							C4AbIgAAAACAGSIAAAAA
+							IgAAAAAiAAAAACIAAAAA
+							IgAAAACAGiIAAAAA0gAR
+							AAsARgAarABHAEgASQBK
+							AEsATABNAE4ATwBQAFEA
+							UoAKgA2ADoAPgBCAEYAS
+							gBOAFIAVgBaAF4AY1AAu
+							AFUAVgALADoAWABZAFpX
+							b3B0aW9uc1hsb2NhdGlv
+							boALgAAiQeAAAIAMEADS
+							AF0AXgBfAGBaJGNsYXNz
+							bmFtZVgkY2xhc3Nlc1tN
+							TkFTVGV4dFRhYqIAYQBi
+							W01OQVNUZXh0VGFiWE5T
+							T2JqZWN01AAuAFUAVgAL
+							ADoAWABmAFqAC4AAIkJg
+							AACADNQALgBVAFYACwA6
+							AFgAawBagAuAACJCqAAA
+							gAzUAC4AVQBWAAsAOgBY
+							AHAAWoALgAAiQuAAAIAM
+							1AAuAFUAVgALADoAWAB1
+							AFqAC4AAIkMMAACADNQA
+							LgBVAFYACwA6AFgAegBa
+							gAuAACJDKAAAgAzUAC4A
+							VQBWAAsAOgBYAH8AWoAL
+							gAAiQ0QAAIAM1AAuAFUA
+							VgALADoAWACEAFqAC4AA
+							IkNgAACADNQALgBVAFYA
+							CwA6AFgAiQBagAuAACJD
+							fAAAgAzUAC4AVQBWAAsA
+							OgBYAI4AWoALgAAiQ4wA
+							AIAM1AAuAFUAVgALADoA
+							WACTAFqAC4AAIkOaAACA
+							DNQALgBVAFYACwA6AFgA
+							mABagAuAACJDqAAAgAzS
+							AF0AXgCbAJxXTlNBcnJh
+							eaIAmwBiEAQUAAAAAAAA
+							AAD//////////9IAXQBe
+							AKAAoV8QE01OQVNQYXJh
+							Z3JhcGh5U3R5bGWiAKIA
+							Yl8QE01OQVNQYXJhZ3Jh
+							cGh5U3R5bGXSAF0AXgCk
+							AKVfEBNOU011dGFibGVE
+							aWN0aW9uYXJ5owCkAKYA
+							YlxOU0RpY3Rpb25hcnnT
+							ABwAEQALAKgAqwAjogAe
+							AB+ABYAGogCsAK2AHoAf
+							gBxYezIyLCAzOH3TABwA
+							EQALALEAswC1oQCygCCh
+							ALSAIYAkVk5TTGlua9MA
+							uAALALkAWAC7ALxXTlMu
+							YmFzZVtOUy5yZWxhdGl2
+							ZYAAgCOAIl8QJmh0dHA6
+							Ly93d3cuY29kZWZvcmdl
+							LmNvbS9hcnRpY2xlLzE1
+							NTk20gBdAF4AvwDAVU5T
+							VVJMogDBAGJVTlNVUkzS
+							AF0AXgCmAMOiAKYAYtMA
+							HAARAAsAxQDIACOiAB4A
+							H4AFgAaiAMkAyoAmgCeA
+							HFh7MjIsIDM4fdYAzgDP
+							ANAA0QDSAAsA0wDUANUA
+							1gDXANhUc2l6ZVhmb250
+							TmFtZVlleHBhbnNpb25b
+							b2JsaXF1ZW5lc3NfEBJi
+							YXNlbGluZUFkanVzdG1l
+							bnSAKYAogCyAK4AqgC1c
+							THVjaWRhR3JhbmRlIkFA
+							AAAiAAAAACIAAAAAIgAA
+							AADSAF0AXgDfAOBYTU5B
+							U0ZvbnSiAOEAYlhNTkFT
+							Rm9udNMAHAARAAsA4wDm
+							ACOiAB4AH4AFgAaiAOcA
+							6IAvgDCAHFh7MjIsIDM4
+							fdIA7AALAO0A7lVjb2xv
+							coAxgDPVAAsA8ADxAPIA
+							8wD0APUA9gD3APhTcmVk
+							VWFscGhhVGJsdWVVZ3Jl
+							ZW6AMiIAAAAAIj+AAAAi
+							AAAAACIAAAAA0gBdAF4A
+							+gD7WE1OQ0NvbG9yogD8
+							AGJYTU5DQ29sb3LSAF0A
+							XgD+AP9fEBNNTkFTRm9y
+							ZWdyb3VuZENvbG9yogEA
+							AGJfEBNNTkFTRm9yZWdy
+							b3VuZENvbG9y0wAcABEA
+							CwECAQUAI6IAHgAfgAWA
+							BqIBBgEHgDWANoAcV3sw
+							LCAyMn3SAOwACwDtAO6A
+							MYAz0wAcABEACwEOAREA
+							I6IAHgAfgAWABqIBEgET
+							gDiAOYAcV3swLCAyMn3f
+							EA8AKAApACoAKwAsAAsA
+							LQAuAC8AMAAxADIAMwA0
+							ADUBFwEYARkBGgA6ADsB
+							HQA9AR8BIAEhASIBIwEk
+							ASUiAAAAAIA6IgAAAAAi
+							AAAAAIALgBsiAAAAAIAZ
+							IgAAAAAiAAAAACIAAAAA
+							IgAAAAAiAAAAAIBHIgAA
+							AADSABEACwEnABqsASgB
+							KQEqASsBLAEtAS4BLwEw
+							ATEBMgEzgDuAPIA9gD6A
+							P4BAgEGAQoBDgESARYBG
+							gBjUAC4AVQBWAAsAOgBY
+							ATgAWoALgAAiQeAAAIAM
+							1AAuAFUAVgALADoAWAE9
+							AFqAC4AAIkJgAACADNQA
+							LgBVAFYACwA6AFgBQgBa
+							gAuAACJCqAAAgAzUAC4A
+							VQBWAAsAOgBYAUcAWoAL
+							gAAiQuAAAIAM1AAuAFUA
+							VgALADoAWAFMAFqAC4AA
+							IkMMAACADNQALgBVAFYA
+							CwA6AFgBUQBagAuAACJD
+							KAAAgAzUAC4AVQBWAAsA
+							OgBYAVYAWoALgAAiQ0QA
+							AIAM1AAuAFUAVgALADoA
+							WAFbAFqAC4AAIkNgAACA
+							DNQALgBVAFYACwA6AFgB
+							YABagAuAACJDfAAAgAzU
+							AC4AVQBWAAsAOgBYAWUA
+							WoALgAAiQ4wAAIAM1AAu
+							AFUAVgALADoAWAFqAFqA
+							C4AAIkOaAACADNQALgBV
+							AFYACwA6AFgBbwBagAuA
+							ACJDqAAAgAwUAAAAAAAA
+							AAD//////////9MAHAAR
+							AAsBcwF2ACOiAB4AH4AF
+							gAaiAXcBeIBJgEqAHFd7
+							MCwgMjJ91gDOAM8A0ADR
+							ANIACwF8ANQBfgF/AYAA
+							2IBLgCiAToBNgEyALSJB
+							QAAAIgAAAAAiAAAAACIA
+							AAAA0gBdAF4BhwGIXxAT
+							TU5DQXR0cmlidXRlZFN0
+							cmluZ6IBiQBiXxATTU5D
+							QXR0cmlidXRlZFN0cmlu
+							Z18QD05TS2V5ZWRBcmNo
+							aXZlctEBjAGNXxARTU5D
+							MGRlclJvb3RPYmplY3SA
+							AQAIABkAIgArADUAOgA/
+							AOIA6AD1APwBBwEOARAB
+							EgEUAVMBXAFnAXYBeAF6
+							AXwBfgGAAYIBhAGGAZMB
+							mwGgAaIBpAGpAasBrQGv
+							AdYCAQIKAkkCXQJmAnkC
+							hAKSAp4CqAKzAscC4AL1
+							AwoDIQM2AzsDPQNCA0cD
+							SQNLA1ADUgNXA1wDYQNm
+							A2sDbQNyA3sDlAOWA5gD
+							mgOcA54DoAOiA6QDpgOo
+							A6oDrAOuA78DxwPQA9ID
+							1APZA9sD3QPmA/ED+gQG
+							BAsEFwQgBDEEMwQ1BDoE
+							PARNBE8EUQRWBFgEaQRr
+							BG0EcgR0BIUEhwSJBI4E
+							kAShBKMEpQSqBKwEvQS/
+							BMEExgTIBNkE2wTdBOIE
+							5AT1BPcE+QT+BQAFEQUT
+							BRUFGgUcBS0FLwUxBTYF
+							OAVJBUsFTQVSBVQFXQVl
+							BWoFbAV9BYYFnAWhBbcF
+							wAXWBd0F6gX3BfwF/gYA
+							BgUGBwYJBgsGFAYhBiQG
+							JgYpBisGLQY0BkEGSQZV
+							BlcGWQZbBoQGjQaTBpgG
+							nganBqwGuQa+BsAGwgbH
+							BskGywbNBtYG7wb0Bv0H
+							BwcTBygHKgcsBy4HMAcy
+							BzQHQQdGB0sHUAdVB14H
+							ZwdsB3UHggeHB4kHiweQ
+							B5IHlAeWB58HqAeuB7AH
+							sgfHB8sH0QfWB9wH3gfj
+							B+gH7QfyB/sIBAgJCBII
+							GwgxCDYITAhZCF4IYAhi
+							CGcIaQhrCG0IdQh+CIAI
+							ggiPCJQIlgiYCJ0Inwih
+							CKMIqwjqCO8I8Qj2CPsI
+							/Qj/CQQJBgkLCRAJFQka
+							CR8JIQkmCS8JSAlKCUwJ
+							TglQCVIJVAlWCVgJWglc
+							CV4JYAliCXMJdQl3CXwJ
+							fgmPCZEJkwmYCZoJqwmt
+							Ca8JtAm2CccJyQnLCdAJ
+							0gnjCeUJ5wnsCe4J/woB
+							CgMKCAoKChsKHQofCiQK
+							Jgo3CjkKOwpACkIKUwpV
+							ClcKXApeCm8KcQpzCngK
+							egqLCo0KjwqUCpYKpwqp
+							CqsKsAqyCsMK0ArVCtcK
+							2QreCuAK4grkCuwLBQsH
+							CwkLCwsNCw8LEQsWCxsL
+							IAslCy4LRAtJC18LcQt2
+							C4oAAAAAAAACAgAAAAAA
+							AAGOAAAAAAAAAAAAAAAA
+							AAALjA==
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 leaked zensys source? {\field{\*\fldinst{HYPERLINK "http://www.codeforge.com/article/15596"}}{\fldrslt http://www.codeforge.com/article/15596}}}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>attributedText</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUG5OVYJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oK8QLQcIDxAXICEiIycxODxASElndn1+goeM
+					kZaboKWqr7S5vL2+wsrL19jZ2tvc4FUkbnVs
+					bNMJCgsMDQ5Wc3RyaW5nWmF0dHJpYnV0ZXNW
+					JGNsYXNzgAKAA4AsWlJlZmVyZW5jZXPSEQsS
+					FlpOUy5vYmplY3RzoxMUFYAEgA2AI4Af0xgR
+					CxkcH1dOUy5rZXlzohobgAWABqIdHoAHgAiA
+					DF8QJGtNTkF0dHJpYnV0ZWRTdHJpbmdBdHRy
+					aWJ1dGVSYW5nZUtleV8QKGtNTkF0dHJpYnV0
+					ZWRTdHJpbmdBdHRyaWJ1dGVBdHRyaWJ1dGVL
+					ZXlXezAsIDEwfdIkCyUmVWNvbG9ygAmAC9UL
+					KCkqKywtLi8wU3JlZFVhbHBoYVRibHVlVWdy
+					ZWVugAoiAAAAACI/gAAAIgAAAAAiAAAAANIy
+					MzQ1WiRjbGFzc25hbWVYJGNsYXNzZXNYTU5D
+					Q29sb3KiNjdYTU5DQ29sb3JYTlNPYmplY3TS
+					MjM5Ol8QE01OQVNGb3JlZ3JvdW5kQ29sb3Ki
+					OzdfEBNNTkFTRm9yZWdyb3VuZENvbG9y0jIz
+					PT5fEBNOU011dGFibGVEaWN0aW9uYXJ5oz0/
+					N1xOU0RpY3Rpb25hcnnTGBELQUQfohobgAWA
+					BqJFRoAOgA+ADFd7MCwgMTB93xAPSktMTU4L
+					T1BRUlNUVVZXWFlaW1xdXl9gYWJjZGVmXxAR
+					bWF4aW11bUxpbmVIZWlnaHRYdGFiU3RvcHNf
+					EBBwYXJhZ3JhcGhTcGFjaW5nWmhlYWRJbmRl
+					bnRdbGluZUJyZWFrTW9kZVtsaW5lU3BhY2lu
+					Z1lhbGlnbm1lbnRadGFpbEluZGVudF8QEW1p
+					bmltdW1MaW5lSGVpZ2h0XxAWcGFyYWdyYXBo
+					U3BhY2luZ0JlZm9yZV8QEmRlZmF1bHRUYWJJ
+					bnRlcnZhbF8QEmZpcnN0TGluZUhlYWRJZGVu
+					dF8QFGJhc2VXcml0aW5nRGlyZWN0aW9uXxAS
+					bGluZUhlaWdodE11bHRpcGxlIgAAAACAECIA
+					AAAAIgAAAACAEoAiIgAAAACAICIAAAAAIgAA
+					AAAiAAAAACIAAAAAIgAAAACAISIAAAAA0hEL
+					aBasaWprbG1ub3BxcnN0gBGAFIAVgBaAF4AY
+					gBmAGoAbgByAHYAegB/UUHd4C1x6e3xXb3B0
+					aW9uc1hsb2NhdGlvboASgAAiQeAAAIATEADS
+					MjN/gFtNTkFTVGV4dFRhYqKBN1tNTkFTVGV4
+					dFRhYtRQd3gLXHqFfIASgAAiQmAAAIAT1FB3
+					eAtceop8gBKAACJCqAAAgBPUUHd4C1x6j3yA
+					EoAAIkLgAACAE9RQd3gLXHqUfIASgAAiQwwA
+					AIAT1FB3eAtcepl8gBKAACJDKAAAgBPUUHd4
+					C1x6nnyAEoAAIkNEAACAE9RQd3gLXHqjfIAS
+					gAAiQ2AAAIAT1FB3eAtceqh8gBKAACJDfAAA
+					gBPUUHd4C1x6rXyAEoAAIkOMAACAE9RQd3gL
+					XHqyfIASgAAiQ5oAAIAT1FB3eAtcerd8gBKA
+					ACJDqAAAgBPSMjO6u1dOU0FycmF5oro3EAQU
+					AAAAAAAAAAD//////////9IyM7/AXxATTU5B
+					U1BhcmFncmFwaHlTdHlsZaLBN18QE01OQVNQ
+					YXJhZ3JhcGh5U3R5bGXTGBELw8YfohobgAWA
+					BqLHyIAkgCWADFd7MCwgMTB91szNzs/QC9HS
+					09TV1lRzaXplWGZvbnROYW1lWWV4cGFuc2lv
+					bltvYmxpcXVlbmVzc18QEmJhc2VsaW5lQWRq
+					dXN0bWVudIAngCaAKoApgCiAK1xMdWNpZGFH
+					cmFuZGUiQVAAACIAAAAAIgAAAAAiAAAAANIy
+					M93eWE1OQVNGb250ot83WE1OQVNGb2500jIz
+					4eJfEBNNTkNBdHRyaWJ1dGVkU3RyaW5nouM3
+					XxATTU5DQXR0cmlidXRlZFN0cmluZ18QD05T
+					S2V5ZWRBcmNoaXZlctHm518QEU1OQzBkZXJS
+					b290T2JqZWN0gAEACAARABoAIwAtADIANwBn
+					AG0AdAB7AIYAjQCPAJEAkwCeAKMArgCyALQA
+					tgC4ALoAwQDJAMwAzgDQANMA1QDXANkBAAEr
+					ATMBOAE+AUABQgFNAVEBVwFcAWIBZAFpAW4B
+					cwF4AX0BiAGRAZoBnQGmAa8BtAHKAc0B4wHo
+					Af4CAgIPAhYCGQIbAh0CIAIiAiQCJgIuAk8C
+					YwJsAn8CigKYAqQCrgK5As0C5gL7AxADJwM8
+					A0EDQwNIA00DTwNRA1YDWANdA2IDZwNsA3ED
+					cwN4A30DigOMA44DkAOSA5QDlgOYA5oDnAOe
+					A6ADogOkA60DtQO+A8ADwgPHA8kDywPQA9wD
+					3wPrA/QD9gP4A/0D/wQIBAoEDAQRBBMEHAQe
+					BCAEJQQnBDAEMgQ0BDkEOwREBEYESARNBE8E
+					WARaBFwEYQRjBGwEbgRwBHUEdwSABIIEhASJ
+					BIsElASWBJgEnQSfBKgEqgSsBLEEswS8BL4E
+					wATFBMcEzATUBNcE2QTqBO8FBQUIBR4FJQUo
+					BSoFLAUvBTEFMwU1BT0FSgVPBVgFYgVuBYMF
+					hQWHBYkFiwWNBY8FnAWhBaYFqwWwBbUFvgXB
+					BcoFzwXlBegF/gYQBhMGJwAAAAAAAAIBAAAA
+					AAAAAOgAAAAAAAAAAAAAAAAAAAYp
+					</data>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf0 References}</string>
 				</dict>
 			</dict>
 		</array>
