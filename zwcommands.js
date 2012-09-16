@@ -10,6 +10,36 @@ var opts = require ( './opts' );
 var colors = require ( './colors' );
 
 //////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+var zwControllerTypes = 
+[
+	"Unknown",			        // library type 0
+	"Static Controller",		// library type 1
+	"Controller",       		// library type 2
+	"Enhanced Slave",   		// library type 3
+	"Slave",            		// library type 4
+	"Installer",			    // library type 5
+	"Routing Slave",		    // library type 6
+	"Bridge Controller",    	// library type 7
+	"Device Under Test",		// library type 8
+];
+
+var zwControllerCaps = 
+{
+    ControllerCaps_Secondary: 0x01,		/**< The controller is a secondary. */
+    ControllerCaps_OnOtherNetwork: 0x02,		/**< The controller is not using its default HomeID. */
+    ControllerCaps_SIS: 0x04,		/**< There is a SUC ID Server on the network. */
+    ControllerCaps_RealPrimary: 0x08,		/**< Controller was the primary before the SIS was added. */
+    ControllerCaps_SUC: 0x10		/**< Controller is a static update controller. */
+};
+
+var zwNumNodeBitfieldBytes = 29;    // 29 bytes = 232 bits, one for each possible node.
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
 /*
 
     // command send / recv template
@@ -63,7 +93,7 @@ addCommand ( zwDefs.FUNC_ID_ZW_GET_VERSION, function ( msg ) {
     
     zwDriver.get ().responseIdZwGetVersion ( libraryVersion, libraryType );
     
-    log ( "    command: FUNC_ID_ZW_GET_VERSION libraryVersion, libraryType =".blue, libraryVersion, libraryType );
+    log ( "    command: FUNC_ID_ZW_GET_VERSION libraryVersion, libraryType = done".blue, libraryVersion, libraryType );
 } );
 
 //////////////////////////////////////////////////////////////////////////////////////////
@@ -72,29 +102,6 @@ exports.requestIdZwMemoryGetId = function ()
 {
     zwDriver.get ().sendMsg ( new zwMsg ( 0xff, zwDefs.REQUEST, "FUNC_ID_ZW_MEMORY_GET_ID" ) );
 }
-
-var zwControllerTypes = 
-[
-	"Unknown",			        // library type 0
-	"Static Controller",		// library type 1
-	"Controller",       		// library type 2
-	"Enhanced Slave",   		// library type 3
-	"Slave",            		// library type 4
-	"Installer",			    // library type 5
-	"Routing Slave",		    // library type 6
-	"Bridge Controller",    	// library type 7
-	"Device Under Test",		// library type 8
-];
-
-var zwControllerCaps = 
-{
-    ControllerCaps_Secondary: 0x01,		/**< The controller is a secondary. */
-    ControllerCaps_OnOtherNetwork: 0x02,		/**< The controller is not using its default HomeID. */
-    ControllerCaps_SIS: 0x04,		/**< There is a SUC ID Server on the network. */
-    ControllerCaps_RealPrimary: 0x08,		/**< Controller was the primary before the SIS was added. */
-    ControllerCaps_SUC: 0x10		/**< Controller is a static update controller. */
-};
-
 
 addCommand ( zwDefs.FUNC_ID_ZW_MEMORY_GET_ID, function ( msg ) {
     log ( "  command FUNC_ID_ZW_MEMORY_GET_ID".magenta );
@@ -109,7 +116,7 @@ addCommand ( zwDefs.FUNC_ID_ZW_MEMORY_GET_ID, function ( msg ) {
     
     zwDriver.get ().responseIdZwMemoryGetId ( homeId, controllerType );
     
-    log ( "    command FUNC_ID_ZW_MEMORY_GET_ID, homeId, controllerType".blue, homeId.toString ( 16 ), controllerType );
+    log ( "    command FUNC_ID_ZW_MEMORY_GET_ID, homeId, controllerType done".blue, homeId.toString ( 16 ), controllerType );
 } );
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -145,7 +152,7 @@ addCommand ( zwDefs.FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES, function ( msg ) {
 
     zwDriver.get ().responseIdZwGetControllerCapabilities ( controllerCaps );
 
-    log ( "    command: FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES".blue );    
+    log ( "    command: FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES done".blue );    
 } );
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -171,7 +178,7 @@ addCommand ( zwDefs.FUNC_ID_SERIAL_API_GET_CAPABILITIES, function ( msg ) {
 
     zwDriver.get ().responseIdSerialApiGetCapabilities ( serialApiVer, manufacturerId, productType, productId, apiMask );
 
-    log ( "    command: FUNC_ID_SERIAL_API_GET_CAPABILITIES".blue );
+    log ( "    command: FUNC_ID_SERIAL_API_GET_CAPABILITIES done".blue );
 } );
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -192,7 +199,63 @@ addCommand ( zwDefs.FUNC_ID_ZW_GET_SUC_NODE_ID, function ( msg ) {
     
     zwDriver.get ().responseIdZwGetSucNodeId ( sucNode );
 
-    log ( "    command: FUNC_ID_ZW_GET_SUC_NODE_ID".blue );
+    log ( "    command: FUNC_ID_ZW_GET_SUC_NODE_ID done".blue );
+} );
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+exports.requestIdSerialApiGetInitData = function ()
+{
+    zwDriver.get ().sendMsg ( new zwMsg ( 0xff, zwDefs.REQUEST, "FUNC_ID_SERIAL_API_GET_INIT_DATA" ) );
+}
+
+addCommand ( zwDefs.FUNC_ID_SERIAL_API_GET_INIT_DATA, function ( msg ) {
+    log ( "  command: FUNC_ID_SERIAL_API_GET_INIT_DATA".magenta );
+
+    var buff = msg.getBuffer ();
+
+    var initVersion = buff[ 0 ];
+    var initCaps = buff[ 1 ];
+    var numNodeBitfieldBytes = buff[ 2 ];
+    var byte = 0;
+    var byteVal = 0;
+    var bit = 0;
+    var curNode = 1;    // 1-based. (?)
+    var out = [];
+    
+    if ( numNodeBitfieldBytes == zwNumNodeBitfieldBytes )
+    {
+        log ( "    determining available nodes".yellow );
+        
+        for ( byte = 0; byte < numNodeBitfieldBytes; ++byte )
+        {
+            byteVal = buff[ byte + 3 ];
+        
+            for ( bit = 0; bit < 8; ++bit )
+            {
+                    // Node is present.
+                if ( byteVal & 1 << bit )
+                {
+                        // TODO handle something about virtual nodes.
+                    
+                    out.push ( curNode );
+                }
+                else
+                {
+                        // TODO: Clear cache of any nodes that are no longer present...
+                        //   or maybe we do that at a higher level.
+                }
+            
+                ++curNode;
+            }
+        }
+    }
+
+    log ( "    !!!!! Nodes found:".green.bold, out );
+
+    zwDriver.get ().responseIdSerialApiGetInitData ( out );
+
+    log ( "    command: FUNC_ID_SERIAL_API_GET_INIT_DATA done".blue );
 } );
 
 //////////////////////////////////////////////////////////////////////////////////////////

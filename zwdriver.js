@@ -260,11 +260,18 @@ var Driver = zwClass ( {
     {
         // TODO store args in member variables
         // TODO: send FUNC_ID_SERIAL_API_GET_INIT_DATA
+        zwCommands.requestIdSerialApiGetInitData ();
     },
     
     responseIdZwGetSucNodeId: function ( sucNode )
     {
         // TODO store args in member variables
+    },
+    
+    responseIdSerialApiGetInitData: function ( nodeList )
+    {
+        // TODO store args in member variables
+        this.emitter.emit ( 'driverReady' );
     },
     
     initSerial: function ( dev )

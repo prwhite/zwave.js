@@ -19,6 +19,10 @@ function main ( argv )
     opts.init ();
     
     zwDriver.init ();
+    
+    zwDriver.get ().on ( 'driverReady', function () {
+        log ( "main: Received driverReady".green );
+    } );
 }
 
 main ( process.argv );
