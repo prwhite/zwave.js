@@ -42,7 +42,26 @@ virtual COM port interfaces.  In truth, I'm only working on the Aeon Labs Z-Stic
 * A focus on platforms beside Mac OS X.  Theoretically, using vanilla node.js, 
 portable node.js modules, and web browsers for UI, this system will work on other OSs, but I'm not spending any effort on that right now.
 
+## Usage
 
+Currently, the system is invoked as a normal node.js command:
 
+    node zwave.js
+    
+This will run zwave.js/index.js as the main application in node.
 
+For help, run:
+
+    node zwave.js --help
+
+Which will print something like this:
+
+    { '--dev': '/dev/cu.SLAB_USBtoUART' }
+
+Which means there is one option, ```--dev```, which defaults to ```/dev/cu.SLAB_USBtoUART```.  For reference, this is the virtual COM port driver that the system will use to interact with the USB Z-Wave controller.
+
+## License
+
+This project cribs a bit from Open Z-Wave, so it will use the same license, the LGPL v3,
+except where other components are used that have established licenses.
 
