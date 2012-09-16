@@ -9,6 +9,8 @@ var serialport = require ( "SerialPort" );
 var SerialPort = serialport.SerialPort;
 
 var Util = require ( 'util' );
+var Events = require ( 'events' );
+
 var log = require ( './log' ).log;
 var opts = require ( './opts' );
 var colors = require ( './colors' );
@@ -23,14 +25,23 @@ var Driver = zwClass ( {
     
     initialize: function ( dev )
     {
+        this.emitter = new Events.EventEmitter ();
+    
         this.sPort = null;
         this.queue = [];
         this.curMsg = null;
         this.state = Driver.Idle;
         this.rbuff = new Buffer ( 0 );  // so we have something to concat with
         this.commands = zwCommands.getCommands ();  // array of id to class.
+        this.homeId = undefined;
+        this.controllerType = undefined;
         
         this.initSerial ( dev );
+    },
+    
+    on: function ()
+    {
+        return this.emitter.on.apply ( this.emitter, arguments );
     },
     
     playInitSequence: function ()
@@ -54,7 +65,7 @@ var Driver = zwClass ( {
     
     serviceQueue: function ()
     {
-        log ( "Driver.serviceQueue: start, state =".yellow, this.state );
+//         log ( "Driver.serviceQueue: start, state =".yellow, this.state );
 
         var msg = null;
     
@@ -62,7 +73,7 @@ var Driver = zwClass ( {
             // fire the front of the queue off.
         if ( ( this.state === Driver.Idle ) && this.queue.length )
         {
-            log ( "Driver.serviceQueue: Idle and not empty, really sending message".green );
+//             log ( "Driver.serviceQueue: Idle and not empty, really sending message".green );
     
             msg = this.queue.shift ();
             this._sendMsg ( msg );
@@ -81,7 +92,7 @@ var Driver = zwClass ( {
             //  also need to keep state in driver about what message is current.
             //  also need to keep timeout ids in msg so they can be canceled.
     
-        log ( "Driver._sendMsg: ".blue, msg );
+        log ( ">>>>> Driver._sendMsg: ".blue, msg );
         this.setState ( Driver.WaitingAck );
         this._setCurMsg ( msg );
         this.sPort.write ( msg.getBuffer () );
@@ -103,7 +114,7 @@ var Driver = zwClass ( {
     {
         this.rbuff = Buffer.concat ( [ this.rbuff, data ] );
         
-        log ( "Driver.dataCb:".magenta, this.rbuff.length );
+//        log ( "Driver.dataCb:".magenta, this.rbuff.length );
     
         while ( this.rbuff.length && this.processRbuff () );
     },
@@ -121,7 +132,7 @@ var Driver = zwClass ( {
         var cmd = this.rbuff[ 0 ];
         this.eatRbuff ( 1 );    // TODO: make this more fault tolerant.
         
-        console.log ( "Driver.processRbuff:".magenta, cmd, this.rbuff.length );
+//        console.log ( "Driver.processRbuff:".magenta, cmd, this.rbuff.length );
         
         switch ( cmd )
         {
@@ -161,7 +172,7 @@ var Driver = zwClass ( {
     {
             // TODO: Don't really know how to handle SOF yet... might need to eat more
             // of the message, might not.
-        log ( "Driver.handleSof: SOF received".red );
+        log ( "<<<<< Driver.handleSof: SOF received".blue );
         this.handleResponse ();
 //        this.setState ( Driver.Idle );
     },
@@ -190,14 +201,14 @@ var Driver = zwClass ( {
     
     sendAck: function ()
     {
-        log ( "Driver.sendAck".green );
+        log ( ">>>>> Driver.sendAck".green );
         this.sPort.write ( new Buffer ( [ zwDefs.ACK ] ) );
         this.setState ( Driver.Idle );
     },
     
     handleResponse: function ()
     {
-        log ( "Driver.handleResponse:".blue, this.rbuff );
+        log ( "  Driver.handleResponse:".blue, this.rbuff );
         
         var cursor = 0; // rbuff[ 0 ] is always RESPONSE
         
@@ -206,14 +217,14 @@ var Driver = zwClass ( {
         var func = this.rbuff[ cursor++ ] * 1;
         
             // Clear curMsg if this response matches it.
-        if ( func === this.curMsg.getFunc () )
+        if ( func === zwDefs [ this.curMsg.getFunc () ] )
             this._clearCurMsg ();
         else
             log ( "Driver.handleResponse: curMsg.getFunc != response func", this.curMsg.getFunc (), func );
         
-        log ( "Driver.handleResponse: parsed:".blue, len, type, func );
+//         log ( "Driver.handleResponse: parsed:".blue, len, type, func );
         
-        var msg = new zwMsg ( len, type, func, this.rbuff.slice ( 3 ) );
+        var msg = new zwMsg ( len, type, func, this.rbuff );
         
             // find right handler for response and invoke it.
             // TODO: turn this into a real message before invoking handler.
@@ -226,6 +237,34 @@ var Driver = zwClass ( {
         
         this.sendAck ();
         return len;   // temp eat everything in the rbuff.
+    },
+    
+    responseIdZwMemoryGetId: function ( homeId, controllerType )
+    {
+        this.homeId = homeId;
+        this.controllerType = controllerType;
+    },
+
+    responseIdZwGetVersion: function ( libraryVersion, libraryType )
+    {
+        // TODO store args in member variables
+    },
+
+
+    responseIdZwGetControllerCapabilities: function ( controllerCaps )
+    {
+        // TODO store args in member variables
+    },
+    
+    responseIdSerialApiGetCapabilities: function ( serialApiVer, manufacturerId, productType, productId, apiMask )
+    {
+        // TODO store args in member variables
+        // TODO: send FUNC_ID_SERIAL_API_GET_INIT_DATA
+    },
+    
+    responseIdZwGetSucNodeId: function ( sucNode )
+    {
+        // TODO store args in member variables
     },
     
     initSerial: function ( dev )

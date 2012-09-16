@@ -9,20 +9,19 @@ var colors = require ( './colors' );
 var Msg = zwClass ( {
     initialize: function ()
     {
-        this.nodeId = undefined;
+        this.nodeId = 0xff;
         this.msgType = arguments[ 1 ];
         this.func = undefined;
         this.cb = undefined;
         this.finalized = false;
-        this.len = undefined;
         this.buff = undefined;
 
             // this is silly... fake overloading the constructor based on whether it's 
             // a request or response.
         if ( this.msgType == zwDefs.REQUEST )
-            this.initializeRequest.apply ( this, arguments );
+            this._initializeRequest.apply ( this, arguments );
         else if ( this.msgType == zwDefs.RESPONSE )
-            this.initializeResponse.apply ( this, arguments );
+            this._initializeResponse.apply ( this, arguments );
         else
         {
             log ( "Msg.initialize: Error, unknown msg type =", this.msgType.toString ( 16 ) );
@@ -30,18 +29,17 @@ var Msg = zwClass ( {
         }
     },
 
-    initializeRequest: function ( nodeId, msgType, func, cb )
+    _initializeRequest: function ( nodeId, msgType, func, cb )
     {
         this.nodeId = nodeId;
 //        this.msgType = msgType;   // redundant from real constructor
         this.func = func;
         this.cb = cb;
-        this.len = 4;
         this.buff = [];
     
             // switch the string msgType and func to their associated IDs.
             // we keep things as strings for as long as possible to help with logging.
-        msgType = zwDefs[ msgType ];
+//        msgType = zwDefs[ msgType ];
         func = zwDefs[ func ];
     
         this._appendBytes ( zwDefs.SOF, 0x00, msgType, func );
@@ -49,15 +47,29 @@ var Msg = zwClass ( {
     //    log ( "Msg.Msg:", this.buff );
     },
     
-    initializeResponse: function ( len, msgType, func, buff )
+    _initializeResponse: function ( len, msgType, func, buff )
     {
-        log ( "Msg.initializeResponse called!".red );
+//        log ( "Msg._initializeResponse called!".red );
+
+            // make sure checksum is cool
+        var chk = this._calcChecksum ( buff.slice ( 0, buff.length - 1 ) );
+        var msgChk = buff[ buff.length - 1 ];
         
-        this.nodeId = undefined;
+        if ( chk != msgChk )
+            log ( "Msg._initializeResponse: Message failed checksum:".red, chk, msgChk, buff );
+        
 //        this.msgType = msgType;   // redundant from real constructor
         this.func = func;
-        this.len = len;
-        this.buff = buff;
+        this.buff = buff.slice ( 3 );
+    },
+    
+    _calcChecksum: function ( buff )
+    {
+        var chk = 0xff;
+        var ind = 0;
+        for ( ; ind < buff.length; ++ind )
+            chk ^= buff[ ind ];
+        return chk;
     },
     
     finalize: function ()
@@ -69,13 +81,10 @@ var Msg = zwClass ( {
         
         // TODO: do something with callback (stuff cb ID in message?)
         
-        this.buff[ 1 ] = this.len - 1;    // - 1 ?
+        this.buff[ 1 ] = this.buff.length - 1;
         
         // calc checksum
-        var chk = 0xff;
-        var ind = 1;
-        for ( ind = 1; ind < this.len; ++ind )
-            chk ^= this.buff[ ind ];
+        var chk = this._calcChecksum ( this.buff.slice ( 1 ) );
     
         this._appendBytes ( chk );
            
