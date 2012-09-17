@@ -64,6 +64,8 @@ Which means there is one option, ```--dev```, which defaults to ```/dev/cu.SLAB_
 
 ## License
 
-This project cribs a bit from Open Z-Wave, so it will use the same license, the LGPL v3,
+(c) Payton R White 2012
+
+This project cribs a bit from Open Z-Wave, so it will use the same license, the **LGPL v3**,
 except where other components are used that have established licenses.
 
