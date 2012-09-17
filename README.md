@@ -30,7 +30,7 @@ front-end.
 ### What will eventually be really cool
 
 * "Plugin" support to allow custom programming.  E.g., create a plugin that will turn
-on a group of lights if a particular light is activated.
+on a group of lights if your computer's screen saver is deactivated or cycle a light if you get email.
 
 * A scalable interface that will work well from any web browser, especially mobile devices.
 
@@ -38,6 +38,8 @@ on a group of lights if a particular light is activated.
 
 * HID-based USB dongles.  I'm not working on anything currently that doesn't use the
 virtual COM port interfaces.  In truth, I'm only working on the Aeon Labs Z-Stick 2 controller.
+
+* Everything.  I'm definitely going to start with an eye toward implementing the Z-Wave controllers that I actually have, and work out from there _if time_.
 
 * A focus on platforms beside Mac OS X.  Theoretically, using vanilla node.js, 
 portable node.js modules, and web browsers for UI, this system will work on other OSs, but I'm not spending any effort on that right now.

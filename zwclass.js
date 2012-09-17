@@ -15,6 +15,8 @@
 
 // super simple class creation
 
+"use strict";
+
 exports.Class = ( function ()
 {
 	function shallowClone ( src, dst )

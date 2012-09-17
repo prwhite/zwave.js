@@ -18,7 +18,7 @@
 var zwDefs = require ( './zwdefs' ).Defs;
 var zwMsg = require ( './zwmsg' ).Msg;
 var zwClass = require ( './zwclass' ).Class;
-var zwCommands = require ( './zwcommands' );
+var zwCommands = require ( './zwcmds' );
 
 var serialport = require ( "SerialPort" );
 var SerialPort = serialport.SerialPort;
@@ -286,7 +286,7 @@ var Driver = zwClass ( {
     responseIdSerialApiGetInitData: function ( nodeList )
     {
         // TODO store args in member variables
-        this.emitter.emit ( 'driverReady' );
+        this.emitter.emit ( 'driverReady', nodeList );
     },
     
     initSerial: function ( dev )

@@ -13,6 +13,8 @@
 //     You should have received a copy of the GNU Lesser General Public License
 //     along with zwave.js.  If not, see <http://www.gnu.org/licenses/>.
 
+"use strict";
+
 exports.Defs = {
 
     MAX_TRIES:		3,	// Retry sends up to 3 times

@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 //     This file is part of zwave.js.
 // 
 //     zwave.js is free software: you can redistribute it and/or modify
@@ -15,29 +13,23 @@
 //     You should have received a copy of the GNU Lesser General Public License
 //     along with zwave.js.  If not, see <http://www.gnu.org/licenses/>.
 
-// var Util = require ( 'util' );
+"use strict";
 
-// var zwDefs = require ( './zwdefs' ).Defs;
-// var zwMsg = require ( './zwmsg' );
-var zwDriver = require ( './zwdriver' );
+var zwDefs = require ( './zwdefs' ).Defs;
+var zwClass = require ( './zwclass' ).Class;
 
 var log = require ( './log' ).log;
 var opts = require ( './opts' );
 var colors = require ( './colors' );
 
-//////////////////////////////////////////////////////////////////////////////////////////
-
-//////////////////////////////////////////////////////////////////////////////////////////
-
-function main ( argv )
-{
-    opts.init ();
+var Node = zwClass ( {
+    initialize: function ()
+    {
+        
+    }
     
-    zwDriver.init ();
-    
-    zwDriver.get ().on ( 'driverReady', function () {
-        log ( "main: Received driverReady".green );
-    } );
-}
+} );
 
-main ( process.argv );
+
+exports.Node = Node;
+

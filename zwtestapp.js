@@ -15,20 +15,27 @@
 //     You should have received a copy of the GNU Lesser General Public License
 //     along with zwave.js.  If not, see <http://www.gnu.org/licenses/>.
 
-var serialport = require("serialport");
-var SerialPort = require("serialport").SerialPort;
-var util = require('util');
+"use strict";
 
-var serial_port = new SerialPort(process.argv[ 2 ],{ 
-            parser: serialport.parsers.raw,
-            baudrate: 115200
-        });
-serial_port.write(new Buffer([0x01, 0x03, 0x00, 0x20,220]));
-util.puts("write");
-//serial_port.read();
+// var Util = require ( 'util' );
 
-serial_port.on("data", function(d){ 
-    util.puts("here"); 
-    util.puts(d); 
-    serial_port.close(); 
-});
+// var zwDefs = require ( './zwdefs' ).Defs;
+// var zwMsg = require ( './zwmsg' );
+var zwMgr = require ( './zwmgr' );
+
+var log = require ( './log' ).log;
+var opts = require ( './opts' );
+var colors = require ( './colors' );
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+function main ( argv )
+{
+    opts.init ();
+    
+    zwMgr.init ();
+}
+
+main ( process.argv );
