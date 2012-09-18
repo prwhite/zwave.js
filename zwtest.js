@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+// (c) copyright 2012 Payton R White 
+
 //     This file is part of zwave.js.
 // 
 //     zwave.js is free software: you can redistribute it and/or modify
