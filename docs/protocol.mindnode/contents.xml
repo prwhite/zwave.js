@@ -18,11 +18,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>007655A9-B811-4DDF-9BBC-1816D392A6AC</string>
+				<string>B593ECFF-889B-4071-B8D3-8B05E8004577</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>E0781C8D-9900-4904-8054-E04E3442D32B</string>
+				<string>7F19F4CA-FF27-42D6-8CB3-37DA8352E634</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -49,1653 +49,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-1494.4738996987876, -1265.9953703925876}</string>
-				<key>nodeID</key>
-				<string>7FE4BF58-2E82-437A-9AAF-59168C7000A6</string>
-				<key>strokeColor</key>
-				<string>{0.500, 0.500, 0.500, 1.000}</string>
-				<key>strokeStyle</key>
-				<integer>0</integer>
-				<key>strokeWidth</key>
-				<real>2</real>
-				<key>subnodes</key>
-				<array>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1364.4738996987876, -1365.9953703925876}</string>
-						<key>nodeID</key>
-						<string>D7DAD1CC-0162-4421-A683-674D9F7F4039</string>
-						<key>strokeColor</key>
-						<string>{0.700, 0.900, 0.300, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							4+RYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLAcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL3BycrW19jZ2tvfVSRu
-							dWxs0wkKCwwNDlZzdHJp
-							bmdaYXR0cmlidXRlc1Yk
-							Y2xhc3OAAoADgCtfEBBD
-							cmVhdGUgTWdyIGNsYXNz
-							0hELEhZaTlMub2JqZWN0
-							c6MTFBWABIANgCKAH9MY
-							EQsZHB9XTlMua2V5c6Ia
-							G4AFgAaiHR6AB4AIgAxf
-							ECRrTU5BdHRyaWJ1dGVk
-							U3RyaW5nQXR0cmlidXRl
-							UmFuZ2VLZXlfEChrTU5B
-							dHRyaWJ1dGVkU3RyaW5n
-							QXR0cmlidXRlQXR0cmli
-							dXRlS2V5V3swLCAxNn3S
-							JAslJlVjb2xvcoAJgAvV
-							CygpKissLS4vMFNyZWRV
-							YWxwaGFUYmx1ZVVncmVl
-							boAKIgAAAAAiP4AAACIA
-							AAAAIgAAAADSMjM0NVok
-							Y2xhc3NuYW1lWCRjbGFz
-							c2VzWE1OQ0NvbG9yojY3
-							WE1OQ0NvbG9yWE5TT2Jq
-							ZWN00jIzOTpfEBNNTkFT
-							Rm9yZWdyb3VuZENvbG9y
-							ojs3XxATTU5BU0ZvcmVn
-							cm91bmRDb2xvctIyMz0+
-							XxATTlNNdXRhYmxlRGlj
-							dGlvbmFyeaM9PzdcTlNE
-							aWN0aW9uYXJ50xgRC0FE
-							H6IaG4AFgAaiRUaADoAP
-							gAxXezAsIDE2fd8QD0pL
-							TE1OC09QUVJTVFVWV1hZ
-							WltcXV5cYGFiY2RlZl8Q
-							EW1heGltdW1MaW5lSGVp
-							Z2h0WHRhYlN0b3BzXxAQ
-							cGFyYWdyYXBoU3BhY2lu
-							Z1poZWFkSW5kZW50XWxp
-							bmVCcmVha01vZGVbbGlu
-							ZVNwYWNpbmdZYWxpZ25t
-							ZW50WnRhaWxJbmRlbnRf
-							EBFtaW5pbXVtTGluZUhl
-							aWdodF8QFnBhcmFncmFw
-							aFNwYWNpbmdCZWZvcmVf
-							EBJkZWZhdWx0VGFiSW50
-							ZXJ2YWxfEBJmaXJzdExp
-							bmVIZWFkSWRlbnRfEBRi
-							YXNlV3JpdGluZ0RpcmVj
-							dGlvbl8QEmxpbmVIZWln
-							aHRNdWx0aXBsZSIAAAAA
-							gBAiAAAAACIAAAAAgBKA
-							ISIAAAAAgBIiAAAAACIA
-							AAAAIgAAAAAiAAAAACIA
-							AAAAgCAiAAAAANIRC2gW
-							rGlqa2xtbm9wcXJzdIAR
-							gBSAFYAWgBeAGIAZgBqA
-							G4AcgB2AHoAf1FB3eAtc
-							ent8V29wdGlvbnNYbG9j
-							YXRpb26AEoAAIkHgAACA
-							ExAA0jIzf4BbTU5BU1Rl
-							eHRUYWKigTdbTU5BU1Rl
-							eHRUYWLUUHd4C1x6hXyA
-							EoAAIkJgAACAE9RQd3gL
-							XHqKfIASgAAiQqgAAIAT
-							1FB3eAtceo98gBKAACJC
-							4AAAgBPUUHd4C1x6lHyA
-							EoAAIkMMAACAE9RQd3gL
-							XHqZfIASgAAiQygAAIAT
-							1FB3eAtcep58gBKAACJD
-							RAAAgBPUUHd4C1x6o3yA
-							EoAAIkNgAACAE9RQd3gL
-							XHqofIASgAAiQ3wAAIAT
-							1FB3eAtceq18gBKAACJD
-							jAAAgBPUUHd4C1x6snyA
-							EoAAIkOaAACAE9RQd3gL
-							XHq3fIASgAAiQ6gAAIAT
-							0jIzurtXTlNBcnJheaK6
-							NxQAAAAAAAAAAP//////
-							////0jIzvr9fEBNNTkFT
-							UGFyYWdyYXBoeVN0eWxl
-							osA3XxATTU5BU1BhcmFn
-							cmFwaHlTdHlsZdMYEQvC
-							xR+iGhuABYAGosbHgCOA
-							JIAMV3swLCAxNn3Wy8zN
-							zs8L0NHS09TVVHNpemVY
-							Zm9udE5hbWVZZXhwYW5z
-							aW9uW29ibGlxdWVuZXNz
-							XxASYmFzZWxpbmVBZGp1
-							c3RtZW50gCaAJYApgCiA
-							J4AqXEx1Y2lkYUdyYW5k
-							ZSJBQAAAIgAAAAAiAAAA
-							ACIAAAAA0jIz3N1YTU5B
-							U0ZvbnSi3jdYTU5BU0Zv
-							bnTSMjPg4V8QE01OQ0F0
-							dHJpYnV0ZWRTdHJpbmei
-							4jdfEBNNTkNBdHRyaWJ1
-							dGVkU3RyaW5nXxAPTlNL
-							ZXllZEFyY2hpdmVy0eXm
-							XxARTU5DMGRlclJvb3RP
-							YmplY3SAAQAIABEAGgAj
-							AC0AMgA3AGYAbABzAHoA
-							hQCMAI4AkACSAKUAqgC1
-							ALkAuwC9AL8AwQDIANAA
-							0wDVANcA2gDcAN4A4AEH
-							ATIBOgE/AUUBRwFJAVQB
-							WAFeAWMBaQFrAXABdQF6
-							AX8BhAGPAZgBoQGkAa0B
-							tgG7AdEB1AHqAe8CBQIJ
-							AhYCHQIgAiICJAInAikC
-							KwItAjUCVgJqAnMChgKR
-							Ap8CqwK1AsAC1ALtAwID
-							FwMuA0MDSANKA08DVANW
-							A1gDXQNfA2QDaQNuA3MD
-							eAN6A38DhAORA5MDlQOX
-							A5kDmwOdA58DoQOjA6UD
-							pwOpA6sDtAO8A8UDxwPJ
-							A84D0APSA9cD4wPmA/ID
-							+wP9A/8EBAQGBA8EEQQT
-							BBgEGgQjBCUEJwQsBC4E
-							NwQ5BDsEQARCBEsETQRP
-							BFQEVgRfBGEEYwRoBGoE
-							cwR1BHcEfAR+BIcEiQSL
-							BJAEkgSbBJ0EnwSkBKYE
-							rwSxBLMEuAS6BMMExQTH
-							BMwEzgTTBNsE3gTvBPQF
-							CgUNBSMFKgUtBS8FMQU0
-							BTYFOAU6BUIFTwVUBV0F
-							ZwVzBYgFigWMBY4FkAWS
-							BZQFoQWmBasFsAW1BboF
-							wwXGBc8F1AXqBe0GAwYV
-							BhgGLAAAAAAAAAIBAAAA
-							AAAAAOcAAAAAAAAAAAAA
-							AAAAAAYu
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 Create Mgr class}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1364.4738996987876, -1338.9953703925876}</string>
-						<key>nodeID</key>
-						<string>D01BF66B-0EFF-46ED-B596-53BE085741FB</string>
-						<key>strokeColor</key>
-						<string>{1.000, 0.900, 0.500, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							5OVYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLQcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL2+wsrL19jZ2tvc4FUk
-							bnVsbNMJCgsMDQ5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxAS
-							Q3JlYXRlIE5vZGUgY2xh
-							c3Mu0hELEhZaTlMub2Jq
-							ZWN0c6MTFBWABIANgCOA
-							H9MYEQsZHB9XTlMua2V5
-							c6IaG4AFgAaiHR6AB4AI
-							gAxfECRrTU5BdHRyaWJ1
-							dGVkU3RyaW5nQXR0cmli
-							dXRlUmFuZ2VLZXlfEChr
-							TU5BdHRyaWJ1dGVkU3Ry
-							aW5nQXR0cmlidXRlQXR0
-							cmlidXRlS2V5V3swLCAx
-							OH3SJAslJlVjb2xvcoAJ
-							gAvVCygpKissLS4vMFNy
-							ZWRVYWxwaGFUYmx1ZVVn
-							cmVlboAKIgAAAAAiP4AA
-							ACIAAAAAIgAAAADSMjM0
-							NVokY2xhc3NuYW1lWCRj
-							bGFzc2VzWE1OQ0NvbG9y
-							ojY3WE1OQ0NvbG9yWE5T
-							T2JqZWN00jIzOTpfEBNN
-							TkFTRm9yZWdyb3VuZENv
-							bG9yojs3XxATTU5BU0Zv
-							cmVncm91bmRDb2xvctIy
-							Mz0+XxATTlNNdXRhYmxl
-							RGljdGlvbmFyeaM9Pzdc
-							TlNEaWN0aW9uYXJ50xgR
-							C0FEH6IaG4AFgAaiRUaA
-							DoAPgAxXezAsIDE4fd8Q
-							D0pLTE1OC09QUVJTVFVW
-							V1hZWltcXV5fYGFiY2Rl
-							Zl8QEW1heGltdW1MaW5l
-							SGVpZ2h0WHRhYlN0b3Bz
-							XxAQcGFyYWdyYXBoU3Bh
-							Y2luZ1poZWFkSW5kZW50
-							XWxpbmVCcmVha01vZGVb
-							bGluZVNwYWNpbmdZYWxp
-							Z25tZW50WnRhaWxJbmRl
-							bnRfEBFtaW5pbXVtTGlu
-							ZUhlaWdodF8QFnBhcmFn
-							cmFwaFNwYWNpbmdCZWZv
-							cmVfEBJkZWZhdWx0VGFi
-							SW50ZXJ2YWxfEBJmaXJz
-							dExpbmVIZWFkSWRlbnRf
-							EBRiYXNlV3JpdGluZ0Rp
-							cmVjdGlvbl8QEmxpbmVI
-							ZWlnaHRNdWx0aXBsZSIA
-							AAAAgBAiAAAAACIAAAAA
-							gBKAIiIAAAAAgCAiAAAA
-							ACIAAAAAIgAAAAAiAAAA
-							ACIAAAAAgCEiAAAAANIR
-							C2gWrGlqa2xtbm9wcXJz
-							dIARgBSAFYAWgBeAGIAZ
-							gBqAG4AcgB2AHoAf1FB3
-							eAtcent8V29wdGlvbnNY
-							bG9jYXRpb26AEoAAIkHg
-							AACAExAA0jIzf4BbTU5B
-							U1RleHRUYWKigTdbTU5B
-							U1RleHRUYWLUUHd4C1x6
-							hXyAEoAAIkJgAACAE9RQ
-							d3gLXHqKfIASgAAiQqgA
-							AIAT1FB3eAtceo98gBKA
-							ACJC4AAAgBPUUHd4C1x6
-							lHyAEoAAIkMMAACAE9RQ
-							d3gLXHqZfIASgAAiQygA
-							AIAT1FB3eAtcep58gBKA
-							ACJDRAAAgBPUUHd4C1x6
-							o3yAEoAAIkNgAACAE9RQ
-							d3gLXHqofIASgAAiQ3wA
-							AIAT1FB3eAtceq18gBKA
-							ACJDjAAAgBPUUHd4C1x6
-							snyAEoAAIkOaAACAE9RQ
-							d3gLXHq3fIASgAAiQ6gA
-							AIAT0jIzurtXTlNBcnJh
-							eaK6NxAEFAAAAAAAAAAA
-							///////////SMjO/wF8Q
-							E01OQVNQYXJhZ3JhcGh5
-							U3R5bGWiwTdfEBNNTkFT
-							UGFyYWdyYXBoeVN0eWxl
-							0xgRC8PGH6IaG4AFgAai
-							x8iAJIAlgAxXezAsIDE4
-							fdbMzc7P0AvR0tPU1dZU
-							c2l6ZVhmb250TmFtZVll
-							eHBhbnNpb25bb2JsaXF1
-							ZW5lc3NfEBJiYXNlbGlu
-							ZUFkanVzdG1lbnSAJ4Am
-							gCqAKYAogCtcTHVjaWRh
-							R3JhbmRlIkFAAAAiAAAA
-							ACIAAAAAIgAAAADSMjPd
-							3lhNTkFTRm9udKLfN1hN
-							TkFTRm9udNIyM+HiXxAT
-							TU5DQXR0cmlidXRlZFN0
-							cmluZ6LjN18QE01OQ0F0
-							dHJpYnV0ZWRTdHJpbmdf
-							EA9OU0tleWVkQXJjaGl2
-							ZXLR5udfEBFNTkMwZGVy
-							Um9vdE9iamVjdIABAAgA
-							EQAaACMALQAyADcAZwBt
-							AHQAewCGAI0AjwCRAJMA
-							qACtALgAvAC+AMAAwgDE
-							AMsA0wDWANgA2gDdAN8A
-							4QDjAQoBNQE9AUIBSAFK
-							AUwBVwFbAWEBZgFsAW4B
-							cwF4AX0BggGHAZIBmwGk
-							AacBsAG5Ab4B1AHXAe0B
-							8gIIAgwCGQIgAiMCJQIn
-							AioCLAIuAjACOAJZAm0C
-							dgKJApQCogKuArgCwwLX
-							AvADBQMaAzEDRgNLA00D
-							UgNXA1kDWwNgA2IDZwNs
-							A3EDdgN7A30DggOHA5QD
-							lgOYA5oDnAOeA6ADogOk
-							A6YDqAOqA6wDrgO3A78D
-							yAPKA8wD0QPTA9UD2gPm
-							A+kD9QP+BAAEAgQHBAkE
-							EgQUBBYEGwQdBCYEKAQq
-							BC8EMQQ6BDwEPgRDBEUE
-							TgRQBFIEVwRZBGIEZARm
-							BGsEbQR2BHgEegR/BIEE
-							igSMBI4EkwSVBJ4EoASi
-							BKcEqQSyBLQEtgS7BL0E
-							xgTIBMoEzwTRBNYE3gTh
-							BOME9AT5BQ8FEgUoBS8F
-							MgU0BTYFOQU7BT0FPwVH
-							BVQFWQViBWwFeAWNBY8F
-							kQWTBZUFlwWZBaYFqwWw
-							BbUFugW/BcgFywXUBdkF
-							7wXyBggGGgYdBjEAAAAA
-							AAACAQAAAAAAAADoAAAA
-							AAAAAAAAAAAAAAAGMw==
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 Create Node class.}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1364.4738996987876, -1311.9953703925876}</string>
-						<key>nodeID</key>
-						<string>3D1978A5-10A3-40FC-9BB2-5D79F5D1E9D8</string>
-						<key>strokeColor</key>
-						<string>{0.900, 0.700, 0.300, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							5OVYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLQcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL2+wsrL19jZ2tvc4FUk
-							bnVsbNMJCgsMDQ5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxAk
-							bWFrZSBvcHRzIHJlYWQg
-							YSBjb25maWcgZmlsZSBm
-							cm9tIH4v0hELEhZaTlMu
-							b2JqZWN0c6MTFBWABIAN
-							gCOAH9MYEQsZHB9XTlMu
-							a2V5c6IaG4AFgAaiHR6A
-							B4AIgAxfECRrTU5BdHRy
-							aWJ1dGVkU3RyaW5nQXR0
-							cmlidXRlUmFuZ2VLZXlf
-							EChrTU5BdHRyaWJ1dGVk
-							U3RyaW5nQXR0cmlidXRl
-							QXR0cmlidXRlS2V5V3sw
-							LCAzNn3SJAslJlVjb2xv
-							coAJgAvVCygpKissLS4v
-							MFNyZWRVYWxwaGFUYmx1
-							ZVVncmVlboAKIgAAAAAi
-							P4AAACIAAAAAIgAAAADS
-							MjM0NVokY2xhc3NuYW1l
-							WCRjbGFzc2VzWE1OQ0Nv
-							bG9yojY3WE1OQ0NvbG9y
-							WE5TT2JqZWN00jIzOTpf
-							EBNNTkFTRm9yZWdyb3Vu
-							ZENvbG9yojs3XxATTU5B
-							U0ZvcmVncm91bmRDb2xv
-							ctIyMz0+XxATTlNNdXRh
-							YmxlRGljdGlvbmFyeaM9
-							PzdcTlNEaWN0aW9uYXJ5
-							0xgRC0FEH6IaG4AFgAai
-							RUaADoAPgAxXezAsIDM2
-							fd8QD0pLTE1OC09QUVJT
-							VFVWV1hZWltcXV5fYGFi
-							Y2RlZl8QEW1heGltdW1M
-							aW5lSGVpZ2h0WHRhYlN0
-							b3BzXxAQcGFyYWdyYXBo
-							U3BhY2luZ1poZWFkSW5k
-							ZW50XWxpbmVCcmVha01v
-							ZGVbbGluZVNwYWNpbmdZ
-							YWxpZ25tZW50WnRhaWxJ
-							bmRlbnRfEBFtaW5pbXVt
-							TGluZUhlaWdodF8QFnBh
-							cmFncmFwaFNwYWNpbmdC
-							ZWZvcmVfEBJkZWZhdWx0
-							VGFiSW50ZXJ2YWxfEBJm
-							aXJzdExpbmVIZWFkSWRl
-							bnRfEBRiYXNlV3JpdGlu
-							Z0RpcmVjdGlvbl8QEmxp
-							bmVIZWlnaHRNdWx0aXBs
-							ZSIAAAAAgBAiAAAAACIA
-							AAAAgBKAIiIAAAAAgCAi
-							AAAAACIAAAAAIgAAAAAi
-							AAAAACIAAAAAgCEiAAAA
-							ANIRC2gWrGlqa2xtbm9w
-							cXJzdIARgBSAFYAWgBeA
-							GIAZgBqAG4AcgB2AHoAf
-							1FB3eAtcent8V29wdGlv
-							bnNYbG9jYXRpb26AEoAA
-							IkHgAACAExAA0jIzf4Bb
-							TU5BU1RleHRUYWKigTdb
-							TU5BU1RleHRUYWLUUHd4
-							C1x6hXyAEoAAIkJgAACA
-							E9RQd3gLXHqKfIASgAAi
-							QqgAAIAT1FB3eAtceo98
-							gBKAACJC4AAAgBPUUHd4
-							C1x6lHyAEoAAIkMMAACA
-							E9RQd3gLXHqZfIASgAAi
-							QygAAIAT1FB3eAtcep58
-							gBKAACJDRAAAgBPUUHd4
-							C1x6o3yAEoAAIkNgAACA
-							E9RQd3gLXHqofIASgAAi
-							Q3wAAIAT1FB3eAtceq18
-							gBKAACJDjAAAgBPUUHd4
-							C1x6snyAEoAAIkOaAACA
-							E9RQd3gLXHq3fIASgAAi
-							Q6gAAIAT0jIzurtXTlNB
-							cnJheaK6NxAEFAAAAAAA
-							AAAA///////////SMjO/
-							wF8QE01OQVNQYXJhZ3Jh
-							cGh5U3R5bGWiwTdfEBNN
-							TkFTUGFyYWdyYXBoeVN0
-							eWxl0xgRC8PGH6IaG4AF
-							gAaix8iAJIAlgAxXezAs
-							IDM2fdbMzc7P0AvR0tPU
-							1dZUc2l6ZVhmb250TmFt
-							ZVlleHBhbnNpb25bb2Js
-							aXF1ZW5lc3NfEBJiYXNl
-							bGluZUFkanVzdG1lbnSA
-							J4AmgCqAKYAogCtcTHVj
-							aWRhR3JhbmRlIkFAAAAi
-							AAAAACIAAAAAIgAAAADS
-							MjPd3lhNTkFTRm9udKLf
-							N1hNTkFTRm9udNIyM+Hi
-							XxATTU5DQXR0cmlidXRl
-							ZFN0cmluZ6LjN18QE01O
-							Q0F0dHJpYnV0ZWRTdHJp
-							bmdfEA9OU0tleWVkQXJj
-							aGl2ZXLR5udfEBFNTkMw
-							ZGVyUm9vdE9iamVjdIAB
-							AAgAEQAaACMALQAyADcA
-							ZwBtAHQAewCGAI0AjwCR
-							AJMAugC/AMoAzgDQANIA
-							1ADWAN0A5QDoAOoA7ADv
-							APEA8wD1ARwBRwFPAVQB
-							WgFcAV4BaQFtAXMBeAF+
-							AYABhQGKAY8BlAGZAaQB
-							rQG2AbkBwgHLAdAB5gHp
-							Af8CBAIaAh4CKwIyAjUC
-							NwI5AjwCPgJAAkICSgJr
-							An8CiAKbAqYCtALAAsoC
-							1QLpAwIDFwMsA0MDWANd
-							A18DZANpA2sDbQNyA3QD
-							eQN+A4MDiAONA48DlAOZ
-							A6YDqAOqA6wDrgOwA7ID
-							tAO2A7gDugO8A74DwAPJ
-							A9ED2gPcA94D4wPlA+cD
-							7AP4A/sEBwQQBBIEFAQZ
-							BBsEJAQmBCgELQQvBDgE
-							OgQ8BEEEQwRMBE4EUARV
-							BFcEYARiBGQEaQRrBHQE
-							dgR4BH0EfwSIBIoEjASR
-							BJMEnASeBKAEpQSnBLAE
-							sgS0BLkEuwTEBMYEyATN
-							BM8E2ATaBNwE4QTjBOgE
-							8ATzBPUFBgULBSEFJAU6
-							BUEFRAVGBUgFSwVNBU8F
-							UQVZBWYFawV0BX4FigWf
-							BaEFowWlBacFqQWrBbgF
-							vQXCBccFzAXRBdoF3QXm
-							BesGAQYEBhoGLAYvBkMA
-							AAAAAAACAQAAAAAAAADo
-							AAAAAAAAAAAAAAAAAAAG
-							RQ==
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 make opts read a config file from ~/}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1364.4738996987876, -1284.9953703925876}</string>
-						<key>nodeID</key>
-						<string>52D328E2-7EAE-4D1F-BCD4-5F3E7ACEC199</string>
-						<key>strokeColor</key>
-						<string>{0.800, 0.400, 1.000, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							5OVYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLQcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL2+wsrL19jZ2tvc4FUk
-							bnVsbNMJCgsMDQ5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxAV
-							SG9vayB1cCBtc2cgY2Fs
-							bGJhY2tz0hELEhZaTlMu
-							b2JqZWN0c6MTFBWABIAN
-							gCOAH9MYEQsZHB9XTlMu
-							a2V5c6IaG4AFgAaiHR6A
-							B4AIgAxfECRrTU5BdHRy
-							aWJ1dGVkU3RyaW5nQXR0
-							cmlidXRlUmFuZ2VLZXlf
-							EChrTU5BdHRyaWJ1dGVk
-							U3RyaW5nQXR0cmlidXRl
-							QXR0cmlidXRlS2V5V3sw
-							LCAyMX3SJAslJlVjb2xv
-							coAJgAvVCygpKissLS4v
-							MFNyZWRVYWxwaGFUYmx1
-							ZVVncmVlboAKIgAAAAAi
-							P4AAACIAAAAAIgAAAADS
-							MjM0NVokY2xhc3NuYW1l
-							WCRjbGFzc2VzWE1OQ0Nv
-							bG9yojY3WE1OQ0NvbG9y
-							WE5TT2JqZWN00jIzOTpf
-							EBNNTkFTRm9yZWdyb3Vu
-							ZENvbG9yojs3XxATTU5B
-							U0ZvcmVncm91bmRDb2xv
-							ctIyMz0+XxATTlNNdXRh
-							YmxlRGljdGlvbmFyeaM9
-							PzdcTlNEaWN0aW9uYXJ5
-							0xgRC0FEH6IaG4AFgAai
-							RUaADoAPgAxXezAsIDIx
-							fd8QD0pLTE1OC09QUVJT
-							VFVWV1hZWltcXV5fYGFi
-							Y2RlZl8QEW1heGltdW1M
-							aW5lSGVpZ2h0WHRhYlN0
-							b3BzXxAQcGFyYWdyYXBo
-							U3BhY2luZ1poZWFkSW5k
-							ZW50XWxpbmVCcmVha01v
-							ZGVbbGluZVNwYWNpbmdZ
-							YWxpZ25tZW50WnRhaWxJ
-							bmRlbnRfEBFtaW5pbXVt
-							TGluZUhlaWdodF8QFnBh
-							cmFncmFwaFNwYWNpbmdC
-							ZWZvcmVfEBJkZWZhdWx0
-							VGFiSW50ZXJ2YWxfEBJm
-							aXJzdExpbmVIZWFkSWRl
-							bnRfEBRiYXNlV3JpdGlu
-							Z0RpcmVjdGlvbl8QEmxp
-							bmVIZWlnaHRNdWx0aXBs
-							ZSIAAAAAgBAiAAAAACIA
-							AAAAgBKAIiIAAAAAgCAi
-							AAAAACIAAAAAIgAAAAAi
-							AAAAACIAAAAAgCEiAAAA
-							ANIRC2gWrGlqa2xtbm9w
-							cXJzdIARgBSAFYAWgBeA
-							GIAZgBqAG4AcgB2AHoAf
-							1FB3eAtcent8V29wdGlv
-							bnNYbG9jYXRpb26AEoAA
-							IkHgAACAExAA0jIzf4Bb
-							TU5BU1RleHRUYWKigTdb
-							TU5BU1RleHRUYWLUUHd4
-							C1x6hXyAEoAAIkJgAACA
-							E9RQd3gLXHqKfIASgAAi
-							QqgAAIAT1FB3eAtceo98
-							gBKAACJC4AAAgBPUUHd4
-							C1x6lHyAEoAAIkMMAACA
-							E9RQd3gLXHqZfIASgAAi
-							QygAAIAT1FB3eAtcep58
-							gBKAACJDRAAAgBPUUHd4
-							C1x6o3yAEoAAIkNgAACA
-							E9RQd3gLXHqofIASgAAi
-							Q3wAAIAT1FB3eAtceq18
-							gBKAACJDjAAAgBPUUHd4
-							C1x6snyAEoAAIkOaAACA
-							E9RQd3gLXHq3fIASgAAi
-							Q6gAAIAT0jIzurtXTlNB
-							cnJheaK6NxAEFAAAAAAA
-							AAAA///////////SMjO/
-							wF8QE01OQVNQYXJhZ3Jh
-							cGh5U3R5bGWiwTdfEBNN
-							TkFTUGFyYWdyYXBoeVN0
-							eWxl0xgRC8PGH6IaG4AF
-							gAaix8iAJIAlgAxXezAs
-							IDIxfdbMzc7P0AvR0tPU
-							1dZUc2l6ZVhmb250TmFt
-							ZVlleHBhbnNpb25bb2Js
-							aXF1ZW5lc3NfEBJiYXNl
-							bGluZUFkanVzdG1lbnSA
-							J4AmgCqAKYAogCtcTHVj
-							aWRhR3JhbmRlIkFAAAAi
-							AAAAACIAAAAAIgAAAADS
-							MjPd3lhNTkFTRm9udKLf
-							N1hNTkFTRm9udNIyM+Hi
-							XxATTU5DQXR0cmlidXRl
-							ZFN0cmluZ6LjN18QE01O
-							Q0F0dHJpYnV0ZWRTdHJp
-							bmdfEA9OU0tleWVkQXJj
-							aGl2ZXLR5udfEBFNTkMw
-							ZGVyUm9vdE9iamVjdIAB
-							AAgAEQAaACMALQAyADcA
-							ZwBtAHQAewCGAI0AjwCR
-							AJMAqwCwALsAvwDBAMMA
-							xQDHAM4A1gDZANsA3QDg
-							AOIA5ADmAQ0BOAFAAUUB
-							SwFNAU8BWgFeAWQBaQFv
-							AXEBdgF7AYABhQGKAZUB
-							ngGnAaoBswG8AcEB1wHa
-							AfAB9QILAg8CHAIjAiYC
-							KAIqAi0CLwIxAjMCOwJc
-							AnACeQKMApcCpQKxArsC
-							xgLaAvMDCAMdAzQDSQNO
-							A1ADVQNaA1wDXgNjA2UD
-							agNvA3QDeQN+A4ADhQOK
-							A5cDmQObA50DnwOhA6MD
-							pQOnA6kDqwOtA68DsQO6
-							A8IDywPNA88D1APWA9gD
-							3QPpA+wD+AQBBAMEBQQK
-							BAwEFQQXBBkEHgQgBCkE
-							KwQtBDIENAQ9BD8EQQRG
-							BEgEUQRTBFUEWgRcBGUE
-							ZwRpBG4EcAR5BHsEfQSC
-							BIQEjQSPBJEElgSYBKEE
-							owSlBKoErAS1BLcEuQS+
-							BMAEyQTLBM0E0gTUBNkE
-							4QTkBOYE9wT8BRIFFQUr
-							BTIFNQU3BTkFPAU+BUAF
-							QgVKBVcFXAVlBW8FewWQ
-							BZIFlAWWBZgFmgWcBakF
-							rgWzBbgFvQXCBcsFzgXX
-							BdwF8gX1BgsGHQYgBjQA
-							AAAAAAACAQAAAAAAAADo
-							AAAAAAAAAAAAAAAAAAAG
-							Ng==
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 Hook up msg callbacks}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1364.4738996987876, -1257.9953703925876}</string>
-						<key>nodeID</key>
-						<string>7FCEF708-6A90-4F2D-9B99-5FA70185F739</string>
-						<key>strokeColor</key>
-						<string>{0.400, 1.000, 0.800, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAAEAAgAD
-							AAQABQAGARkBGlgkdmVy
-							c2lvblgkb2JqZWN0c1kk
-							YXJjaGl2ZXJUJHRvcBIA
-							AYagrxA6AAcACAAPABAA
-							GgAjACQAJQAmACoANAA7
-							AD8AQwBLAEwAUgBTAFQA
-							VgBeAF8AawBsAG0AbgBv
-							AHMAewB8AIIAgwCLAIwA
-							qgC5AMAAwQDFAMoAzwDU
-							ANkA3gDjAOgA7QDyAPcA
-							/AD/AQABAQEFAQ0BDgEU
-							ARVVJG51bGzTAAkACgAL
-							AAwADQAOVnN0cmluZ1ph
-							dHRyaWJ1dGVzViRjbGFz
-							c4ACgAOAOV8QWUNyZWF0
-							ZSBhIHF1ZXVlIGZvciBu
-							b24tQUNLJ2Qgb3V0Z29p
-							bmcgbWVzc2FnZXMsIHNv
-							IHRoZXkgY2FuIGJlIHJl
-							cGxheWVkIGlmIGEgQ0FO
-							IGlzIHNlbnQu0gARAAsA
-							EgAZWk5TLm9iamVjdHOm
-							ABMAFAAVABYAFwAYgASA
-							DYATgBuAH4A1gDHTABsA
-							EQALABwAHwAiV05TLmtl
-							eXOiAB0AHoAFgAaiACAA
-							IYAHgAiADF8QJGtNTkF0
-							dHJpYnV0ZWRTdHJpbmdB
-							dHRyaWJ1dGVSYW5nZUtl
-							eV8QKGtNTkF0dHJpYnV0
-							ZWRTdHJpbmdBdHRyaWJ1
-							dGVBdHRyaWJ1dGVLZXlX
-							ezAsIDg5fdIAJwALACgA
-							KVVjb2xvcoAJgAvVAAsA
-							KwAsAC0ALgAvADAAMQAy
-							ADNTcmVkVWFscGhhVGJs
-							dWVVZ3JlZW6ACiIAAAAA
-							Ij+AAAAiAAAAACIAAAAA
-							0gA1ADYANwA4WiRjbGFz
-							c25hbWVYJGNsYXNzZXNY
-							TU5DQ29sb3KiADkAOlhN
-							TkNDb2xvclhOU09iamVj
-							dNIANQA2ADwAPV8QE01O
-							QVNGb3JlZ3JvdW5kQ29s
-							b3KiAD4AOl8QE01OQVNG
-							b3JlZ3JvdW5kQ29sb3LS
-							ADUANgBAAEFfEBNOU011
-							dGFibGVEaWN0aW9uYXJ5
-							owBAAEIAOlxOU0RpY3Rp
-							b25hcnnTABsAEQALAEQA
-							RwAiogAdAB6ABYAGogBI
-							AEmADoAPgAxXezAsIDg5
-							fdMAGwARAAsATQBPAFGh
-							AE6AEKEAUIARgBJbTlNF
-							eHBhbnNpb24iAAAAANIA
-							NQA2AEIAVaIAQgA60wAb
-							ABEACwBXAFoAIqIAHQAe
-							gAWABqIAWwBcgBSAFYAM
-							V3swLCA4OX3WAGAAYQBi
-							AGMAZAALAGUAZgBQAGgA
-							aQBqVHNpemVYZm9udE5h
-							bWVZZXhwYW5zaW9uW29i
-							bGlxdWVuZXNzXxASYmFz
-							ZWxpbmVBZGp1c3RtZW50
-							gBeAFoARgBmAGIAaXEx1
-							Y2lkYUdyYW5kZSJBQAAA
-							IgAAAAAiAAAAANIANQA2
-							AHAAcVhNTkFTRm9udKIA
-							cgA6WE1OQVNGb2500wAb
-							ABEACwB0AHcAIqIAHQAe
-							gAWABqIAeAB5gByAHYAM
-							V3swLCA4OX3TABsAEQAL
-							AH0AfwBRoQB+gB6hAGiA
-							GYASXU5TT2JsaXF1ZW5l
-							c3PTABsAEQALAIQAhwAi
-							ogAdAB6ABYAGogCIAImA
-							IIAhgAxXezAsIDg5fd8Q
-							DwCNAI4AjwCQAJEACwCS
-							AJMAlACVAJYAlwCYAJkA
-							mgCbAJwAnQCeAJ8AoACh
-							AKIAowCkAKUApgCnAKgA
-							qV8QEW1heGltdW1MaW5l
-							SGVpZ2h0WHRhYlN0b3Bz
-							XxAQcGFyYWdyYXBoU3Bh
-							Y2luZ1poZWFkSW5kZW50
-							XWxpbmVCcmVha01vZGVb
-							bGluZVNwYWNpbmdZYWxp
-							Z25tZW50WnRhaWxJbmRl
-							bnRfEBFtaW5pbXVtTGlu
-							ZUhlaWdodF8QFnBhcmFn
-							cmFwaFNwYWNpbmdCZWZv
-							cmVfEBJkZWZhdWx0VGFi
-							SW50ZXJ2YWxfEBJmaXJz
-							dExpbmVIZWFkSWRlbnRf
-							EBRiYXNlV3JpdGluZ0Rp
-							cmVjdGlvbl8QEmxpbmVI
-							ZWlnaHRNdWx0aXBsZSIA
-							AAAAgCIiAAAAACIAAAAA
-							gCSANCIAAAAAgDIiAAAA
-							ACIAAAAAIgAAAAAiAAAA
-							ACIAAAAAgDMiAAAAANIA
-							EQALAKsAGawArACtAK4A
-							rwCwALEAsgCzALQAtQC2
-							ALeAI4AmgCeAKIApgCqA
-							K4AsgC2ALoAvgDCAMdQA
-							kwC6ALsACwCfAL0AvgC/
-							V29wdGlvbnNYbG9jYXRp
-							b26AJIAAIkHgAACAJRAA
-							0gA1ADYAwgDDW01OQVNU
-							ZXh0VGFiogDEADpbTU5B
-							U1RleHRUYWLUAJMAugC7
-							AAsAnwC9AMgAv4AkgAAi
-							QmAAAIAl1ACTALoAuwAL
-							AJ8AvQDNAL+AJIAAIkKo
-							AACAJdQAkwC6ALsACwCf
-							AL0A0gC/gCSAACJC4AAA
-							gCXUAJMAugC7AAsAnwC9
-							ANcAv4AkgAAiQwwAAIAl
-							1ACTALoAuwALAJ8AvQDc
-							AL+AJIAAIkMoAACAJdQA
-							kwC6ALsACwCfAL0A4QC/
-							gCSAACJDRAAAgCXUAJMA
-							ugC7AAsAnwC9AOYAv4Ak
-							gAAiQ2AAAIAl1ACTALoA
-							uwALAJ8AvQDrAL+AJIAA
-							IkN8AACAJdQAkwC6ALsA
-							CwCfAL0A8AC/gCSAACJD
-							jAAAgCXUAJMAugC7AAsA
-							nwC9APUAv4AkgAAiQ5oA
-							AIAl1ACTALoAuwALAJ8A
-							vQD6AL+AJIAAIkOoAACA
-							JdIANQA2AP0A/ldOU0Fy
-							cmF5ogD9ADoQBBQAAAAA
-							AAAAAP//////////0gA1
-							ADYBAgEDXxATTU5BU1Bh
-							cmFncmFwaHlTdHlsZaIB
-							BAA6XxATTU5BU1BhcmFn
-							cmFwaHlTdHlsZdMAGwAR
-							AAsBBgEJACKiAB0AHoAF
-							gAaiAQoBC4A2gDeADFd7
-							MCwgODl90wAbABEACwEP
-							AREAUaEBEIA4oQBpgBiA
-							El8QEE5TQmFzZWxpbmVP
-							ZmZzZXTSADUANgEWARdf
-							EBNNTkNBdHRyaWJ1dGVk
-							U3RyaW5nogEYADpfEBNN
-							TkNBdHRyaWJ1dGVkU3Ry
-							aW5nXxAPTlNLZXllZEFy
-							Y2hpdmVy0QEbARxfEBFN
-							TkMwZGVyUm9vdE9iamVj
-							dIABAAgAGQAiACsANQA6
-							AD8AtgC8AMkA0ADbAOIA
-							5ADmAOgBRAFNAVgBZQFn
-							AWkBawFtAW8BcQFzAYAB
-							iAGNAY8BkQGWAZgBmgGc
-							AcMB7gH2Af8CBQIHAgkC
-							HgIiAigCLQIzAjUCOgI/
-							AkQCSQJSAl0CZgJvAnQC
-							fQKGAo8CpQKqAsACyQLf
-							AuYC8wMAAwUDBwMJAw4D
-							EAMSAxQDHAMpAywDLgMx
-							AzMDNQNBA0YDTwNUA2ED
-							ZgNoA2oDbwNxA3MDdQN9
-							A5YDmwOkA64DugPPA9ED
-							0wPVA9cD2QPbA+gD7QPy
-							A/cEAAQJBA4EFwQkBCkE
-							KwQtBDIENAQ2BDgEQARN
-							BFAEUgRVBFcEWQRnBHQE
-							eQR7BH0EggSEBIYEiASQ
-							BM8E4wTsBP8FCgUYBSQF
-							LgU5BU0FZgV7BZAFpwW8
-							BcEFwwXIBc0FzwXRBdYF
-							2AXdBeIF5wXsBfEF8wX4
-							BgEGGgYcBh4GIAYiBiQG
-							JgYoBioGLAYuBjAGMgY0
-							BkUGTQZWBlgGWgZfBmEG
-							YwZsBngGfQaJBpoGnAae
-							BqMGpQa2BrgGuga/BsEG
-							0gbUBtYG2wbdBu4G8Aby
-							BvcG+QcKBwwHDgcTBxUH
-							JgcoByoHLwcxB0IHRAdG
-							B0sHTQdeB2AHYgdnB2kH
-							egd8B34HgweFB5YHmAea
-							B58HoQeyB7QHtge7B70H
-							xgfOB9MH1QfmB+8IBQgK
-							CCAILQgyCDQINgg7CD0I
-							PwhBCEkIVghZCFsIXghg
-							CGIIdQh+CJQImQivCMEI
-							xgjaAAAAAAAAAgIAAAAA
-							AAABHQAAAAAAAAAAAAAA
-							AAAACNw=
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf2 \up0 \obliqueness0 \expansion0 Create a queue for non-ACK'd outgoing messages, so they can be replayed if a CAN is sent.}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1364.4738996987876, -1200.9953703925876}</string>
-						<key>nodeID</key>
-						<string>1A8D6B6C-B31F-483C-BA6C-8A2BE47155B5</string>
-						<key>strokeColor</key>
-						<string>{0.800, 1.000, 0.400, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							5OVYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLQcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL2+wsrL19jZ2tvc4FUk
-							bnVsbNMJCgsMDQ5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxAi
-							RmlndXJlIG91dCB3aGF0
-							IHZpcnR1YWwgbm9kZXMg
-							YXJlLtIRCxIWWk5TLm9i
-							amVjdHOjExQVgASADYAj
-							gB/TGBELGRwfV05TLmtl
-							eXOiGhuABYAGoh0egAeA
-							CIAMXxAka01OQXR0cmli
-							dXRlZFN0cmluZ0F0dHJp
-							YnV0ZVJhbmdlS2V5XxAo
-							a01OQXR0cmlidXRlZFN0
-							cmluZ0F0dHJpYnV0ZUF0
-							dHJpYnV0ZUtleVd7MCwg
-							MzR90iQLJSZVY29sb3KA
-							CYAL1QsoKSorLC0uLzBT
-							cmVkVWFscGhhVGJsdWVV
-							Z3JlZW6ACiIAAAAAIj+A
-							AAAiAAAAACIAAAAA0jIz
-							NDVaJGNsYXNzbmFtZVgk
-							Y2xhc3Nlc1hNTkNDb2xv
-							cqI2N1hNTkNDb2xvclhO
-							U09iamVjdNIyMzk6XxAT
-							TU5BU0ZvcmVncm91bmRD
-							b2xvcqI7N18QE01OQVNG
-							b3JlZ3JvdW5kQ29sb3LS
-							MjM9Pl8QE05TTXV0YWJs
-							ZURpY3Rpb25hcnmjPT83
-							XE5TRGljdGlvbmFyedMY
-							EQtBRB+iGhuABYAGokVG
-							gA6AD4AMV3swLCAzNH3f
-							EA9KS0xNTgtPUFFSU1RV
-							VldYWVpbXF1eX2BhYmNk
-							ZWZfEBFtYXhpbXVtTGlu
-							ZUhlaWdodFh0YWJTdG9w
-							c18QEHBhcmFncmFwaFNw
-							YWNpbmdaaGVhZEluZGVu
-							dF1saW5lQnJlYWtNb2Rl
-							W2xpbmVTcGFjaW5nWWFs
-							aWdubWVudFp0YWlsSW5k
-							ZW50XxARbWluaW11bUxp
-							bmVIZWlnaHRfEBZwYXJh
-							Z3JhcGhTcGFjaW5nQmVm
-							b3JlXxASZGVmYXVsdFRh
-							YkludGVydmFsXxASZmly
-							c3RMaW5lSGVhZElkZW50
-							XxAUYmFzZVdyaXRpbmdE
-							aXJlY3Rpb25fEBJsaW5l
-							SGVpZ2h0TXVsdGlwbGUi
-							AAAAAIAQIgAAAAAiAAAA
-							AIASgCIiAAAAAIAgIgAA
-							AAAiAAAAACIAAAAAIgAA
-							AAAiAAAAAIAhIgAAAADS
-							EQtoFqxpamtsbW5vcHFy
-							c3SAEYAUgBWAFoAXgBiA
-							GYAagBuAHIAdgB6AH9RQ
-							d3gLXHp7fFdvcHRpb25z
-							WGxvY2F0aW9ugBKAACJB
-							4AAAgBMQANIyM3+AW01O
-							QVNUZXh0VGFiooE3W01O
-							QVNUZXh0VGFi1FB3eAtc
-							eoV8gBKAACJCYAAAgBPU
-							UHd4C1x6inyAEoAAIkKo
-							AACAE9RQd3gLXHqPfIAS
-							gAAiQuAAAIAT1FB3eAtc
-							epR8gBKAACJDDAAAgBPU
-							UHd4C1x6mXyAEoAAIkMo
-							AACAE9RQd3gLXHqefIAS
-							gAAiQ0QAAIAT1FB3eAtc
-							eqN8gBKAACJDYAAAgBPU
-							UHd4C1x6qHyAEoAAIkN8
-							AACAE9RQd3gLXHqtfIAS
-							gAAiQ4wAAIAT1FB3eAtc
-							erJ8gBKAACJDmgAAgBPU
-							UHd4C1x6t3yAEoAAIkOo
-							AACAE9IyM7q7V05TQXJy
-							YXmiujcQBBQAAAAAAAAA
-							AP//////////0jIzv8Bf
-							EBNNTkFTUGFyYWdyYXBo
-							eVN0eWxlosE3XxATTU5B
-							U1BhcmFncmFwaHlTdHls
-							ZdMYEQvDxh+iGhuABYAG
-							osfIgCSAJYAMV3swLCAz
-							NH3WzM3Oz9AL0dLT1NXW
-							VHNpemVYZm9udE5hbWVZ
-							ZXhwYW5zaW9uW29ibGlx
-							dWVuZXNzXxASYmFzZWxp
-							bmVBZGp1c3RtZW50gCeA
-							JoAqgCmAKIArXEx1Y2lk
-							YUdyYW5kZSJBQAAAIgAA
-							AAAiAAAAACIAAAAA0jIz
-							3d5YTU5BU0ZvbnSi3zdY
-							TU5BU0ZvbnTSMjPh4l8Q
-							E01OQ0F0dHJpYnV0ZWRT
-							dHJpbmei4zdfEBNNTkNB
-							dHRyaWJ1dGVkU3RyaW5n
-							XxAPTlNLZXllZEFyY2hp
-							dmVy0ebnXxARTU5DMGRl
-							clJvb3RPYmplY3SAAQAI
-							ABEAGgAjAC0AMgA3AGcA
-							bQB0AHsAhgCNAI8AkQCT
-							ALgAvQDIAMwAzgDQANIA
-							1ADbAOMA5gDoAOoA7QDv
-							APEA8wEaAUUBTQFSAVgB
-							WgFcAWcBawFxAXYBfAF+
-							AYMBiAGNAZIBlwGiAasB
-							tAG3AcAByQHOAeQB5wH9
-							AgICGAIcAikCMAIzAjUC
-							NwI6AjwCPgJAAkgCaQJ9
-							AoYCmQKkArICvgLIAtMC
-							5wMAAxUDKgNBA1YDWwNd
-							A2IDZwNpA2sDcANyA3cD
-							fAOBA4YDiwONA5IDlwOk
-							A6YDqAOqA6wDrgOwA7ID
-							tAO2A7gDugO8A74DxwPP
-							A9gD2gPcA+ED4wPlA+oD
-							9gP5BAUEDgQQBBIEFwQZ
-							BCIEJAQmBCsELQQ2BDgE
-							OgQ/BEEESgRMBE4EUwRV
-							BF4EYARiBGcEaQRyBHQE
-							dgR7BH0EhgSIBIoEjwSR
-							BJoEnASeBKMEpQSuBLAE
-							sgS3BLkEwgTEBMYEywTN
-							BNYE2ATaBN8E4QTmBO4E
-							8QTzBQQFCQUfBSIFOAU/
-							BUIFRAVGBUkFSwVNBU8F
-							VwVkBWkFcgV8BYgFnQWf
-							BaEFowWlBacFqQW2BbsF
-							wAXFBcoFzwXYBdsF5AXp
-							Bf8GAgYYBioGLQZBAAAA
-							AAAAAgEAAAAAAAAA6AAA
-							AAAAAAAAAAAAAAAABkM=
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 Figure out what virtual nodes are.}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1364.4738996987876, -1173.9953703925876}</string>
-						<key>nodeID</key>
-						<string>F9882D2F-EE41-4400-AD2C-5B25AD843843</string>
-						<key>strokeColor</key>
-						<string>{0.400, 1.000, 0.800, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							5OVYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLQcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL2+wsrL19jZ2tvc4FUk
-							bnVsbNMJCgsMDQ5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxAP
-							UXVlcnkgYWxsIG5vZGVz
-							0hELEhZaTlMub2JqZWN0
-							c6MTFBWABIANgCOAH9MY
-							EQsZHB9XTlMua2V5c6Ia
-							G4AFgAaiHR6AB4AIgAxf
-							ECRrTU5BdHRyaWJ1dGVk
-							U3RyaW5nQXR0cmlidXRl
-							UmFuZ2VLZXlfEChrTU5B
-							dHRyaWJ1dGVkU3RyaW5n
-							QXR0cmlidXRlQXR0cmli
-							dXRlS2V5V3swLCAxNX3S
-							JAslJlVjb2xvcoAJgAvV
-							CygpKissLS4vMFNyZWRV
-							YWxwaGFUYmx1ZVVncmVl
-							boAKIgAAAAAiP4AAACIA
-							AAAAIgAAAADSMjM0NVok
-							Y2xhc3NuYW1lWCRjbGFz
-							c2VzWE1OQ0NvbG9yojY3
-							WE1OQ0NvbG9yWE5TT2Jq
-							ZWN00jIzOTpfEBNNTkFT
-							Rm9yZWdyb3VuZENvbG9y
-							ojs3XxATTU5BU0ZvcmVn
-							cm91bmRDb2xvctIyMz0+
-							XxATTlNNdXRhYmxlRGlj
-							dGlvbmFyeaM9PzdcTlNE
-							aWN0aW9uYXJ50xgRC0FE
-							H6IaG4AFgAaiRUaADoAP
-							gAxXezAsIDE1fd8QD0pL
-							TE1OC09QUVJTVFVWV1hZ
-							WltcXV5fYGFiY2RlZl8Q
-							EW1heGltdW1MaW5lSGVp
-							Z2h0WHRhYlN0b3BzXxAQ
-							cGFyYWdyYXBoU3BhY2lu
-							Z1poZWFkSW5kZW50XWxp
-							bmVCcmVha01vZGVbbGlu
-							ZVNwYWNpbmdZYWxpZ25t
-							ZW50WnRhaWxJbmRlbnRf
-							EBFtaW5pbXVtTGluZUhl
-							aWdodF8QFnBhcmFncmFw
-							aFNwYWNpbmdCZWZvcmVf
-							EBJkZWZhdWx0VGFiSW50
-							ZXJ2YWxfEBJmaXJzdExp
-							bmVIZWFkSWRlbnRfEBRi
-							YXNlV3JpdGluZ0RpcmVj
-							dGlvbl8QEmxpbmVIZWln
-							aHRNdWx0aXBsZSIAAAAA
-							gBAiAAAAACIAAAAAgBKA
-							IiIAAAAAgCAiAAAAACIA
-							AAAAIgAAAAAiAAAAACIA
-							AAAAgCEiAAAAANIRC2gW
-							rGlqa2xtbm9wcXJzdIAR
-							gBSAFYAWgBeAGIAZgBqA
-							G4AcgB2AHoAf1FB3eAtc
-							ent8V29wdGlvbnNYbG9j
-							YXRpb26AEoAAIkHgAACA
-							ExAA0jIzf4BbTU5BU1Rl
-							eHRUYWKigTdbTU5BU1Rl
-							eHRUYWLUUHd4C1x6hXyA
-							EoAAIkJgAACAE9RQd3gL
-							XHqKfIASgAAiQqgAAIAT
-							1FB3eAtceo98gBKAACJC
-							4AAAgBPUUHd4C1x6lHyA
-							EoAAIkMMAACAE9RQd3gL
-							XHqZfIASgAAiQygAAIAT
-							1FB3eAtcep58gBKAACJD
-							RAAAgBPUUHd4C1x6o3yA
-							EoAAIkNgAACAE9RQd3gL
-							XHqofIASgAAiQ3wAAIAT
-							1FB3eAtceq18gBKAACJD
-							jAAAgBPUUHd4C1x6snyA
-							EoAAIkOaAACAE9RQd3gL
-							XHq3fIASgAAiQ6gAAIAT
-							0jIzurtXTlNBcnJheaK6
-							NxAEFAAAAAAAAAAA////
-							///////SMjO/wF8QE01O
-							QVNQYXJhZ3JhcGh5U3R5
-							bGWiwTdfEBNNTkFTUGFy
-							YWdyYXBoeVN0eWxl0xgR
-							C8PGH6IaG4AFgAaix8iA
-							JIAlgAxXezAsIDE1fdbM
-							zc7P0AvR0tPU1dZUc2l6
-							ZVhmb250TmFtZVlleHBh
-							bnNpb25bb2JsaXF1ZW5l
-							c3NfEBJiYXNlbGluZUFk
-							anVzdG1lbnSAJ4AmgCqA
-							KYAogCtcTHVjaWRhR3Jh
-							bmRlIkFAAAAiAAAAACIA
-							AAAAIgAAAADSMjPd3lhN
-							TkFTRm9udKLfN1hNTkFT
-							Rm9udNIyM+HiXxATTU5D
-							QXR0cmlidXRlZFN0cmlu
-							Z6LjN18QE01OQ0F0dHJp
-							YnV0ZWRTdHJpbmdfEA9O
-							U0tleWVkQXJjaGl2ZXLR
-							5udfEBFNTkMwZGVyUm9v
-							dE9iamVjdIABAAgAEQAa
-							ACMALQAyADcAZwBtAHQA
-							ewCGAI0AjwCRAJMApQCq
-							ALUAuQC7AL0AvwDBAMgA
-							0ADTANUA1wDaANwA3gDg
-							AQcBMgE6AT8BRQFHAUkB
-							VAFYAV4BYwFpAWsBcAF1
-							AXoBfwGEAY8BmAGhAaQB
-							rQG2AbsB0QHUAeoB7wIF
-							AgkCFgIdAiACIgIkAicC
-							KQIrAi0CNQJWAmoCcwKG
-							ApECnwKrArUCwALUAu0D
-							AgMXAy4DQwNIA0oDTwNU
-							A1YDWANdA18DZANpA24D
-							cwN4A3oDfwOEA5EDkwOV
-							A5cDmQObA50DnwOhA6MD
-							pQOnA6kDqwO0A7wDxQPH
-							A8kDzgPQA9ID1wPjA+YD
-							8gP7A/0D/wQEBAYEDwQR
-							BBMEGAQaBCMEJQQnBCwE
-							LgQ3BDkEOwRABEIESwRN
-							BE8EVARWBF8EYQRjBGgE
-							agRzBHUEdwR8BH4EhwSJ
-							BIsEkASSBJsEnQSfBKQE
-							pgSvBLEEswS4BLoEwwTF
-							BMcEzATOBNME2wTeBOAE
-							8QT2BQwFDwUlBSwFLwUx
-							BTMFNgU4BToFPAVEBVEF
-							VgVfBWkFdQWKBYwFjgWQ
-							BZIFlAWWBaMFqAWtBbIF
-							twW8BcUFyAXRBdYF7AXv
-							BgUGFwYaBi4AAAAAAAAC
-							AQAAAAAAAADoAAAAAAAA
-							AAAAAAAAAAAGMA==
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 Query all nodes}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1364.4738996987876, -1146.9953703925876}</string>
-						<key>nodeID</key>
-						<string>F73B243B-1963-4217-BA57-BE6BCAE68BC2</string>
-						<key>strokeColor</key>
-						<string>{0.400, 0.800, 1.000, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAQIDBAUG
-							5OVYJHZlcnNpb25YJG9i
-							amVjdHNZJGFyY2hpdmVy
-							VCR0b3ASAAGGoK8QLQcI
-							DxAXICEiIycxODxASEln
-							dn1+goeMkZaboKWqr7S5
-							vL2+wsrL19jZ2tvc4FUk
-							bnVsbNMJCgsMDQ5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4AsXxAx
-							Q3JlYXRlIHBlcnNpc3Rl
-							bnQgY2FjaGUgb2YgYWxs
-							IGFwcGxpY2F0aW9uIHN0
-							YXRlLtIRCxIWWk5TLm9i
-							amVjdHOjExQVgASADYAj
-							gB/TGBELGRwfV05TLmtl
-							eXOiGhuABYAGoh0egAeA
-							CIAMXxAka01OQXR0cmli
-							dXRlZFN0cmluZ0F0dHJp
-							YnV0ZVJhbmdlS2V5XxAo
-							a01OQXR0cmlidXRlZFN0
-							cmluZ0F0dHJpYnV0ZUF0
-							dHJpYnV0ZUtleVd7MCwg
-							NDl90iQLJSZVY29sb3KA
-							CYAL1QsoKSorLC0uLzBT
-							cmVkVWFscGhhVGJsdWVV
-							Z3JlZW6ACiIAAAAAIj+A
-							AAAiAAAAACIAAAAA0jIz
-							NDVaJGNsYXNzbmFtZVgk
-							Y2xhc3Nlc1hNTkNDb2xv
-							cqI2N1hNTkNDb2xvclhO
-							U09iamVjdNIyMzk6XxAT
-							TU5BU0ZvcmVncm91bmRD
-							b2xvcqI7N18QE01OQVNG
-							b3JlZ3JvdW5kQ29sb3LS
-							MjM9Pl8QE05TTXV0YWJs
-							ZURpY3Rpb25hcnmjPT83
-							XE5TRGljdGlvbmFyedMY
-							EQtBRB+iGhuABYAGokVG
-							gA6AD4AMV3swLCA0OX3f
-							EA9KS0xNTgtPUFFSU1RV
-							VldYWVpbXF1eX2BhYmNk
-							ZWZfEBFtYXhpbXVtTGlu
-							ZUhlaWdodFh0YWJTdG9w
-							c18QEHBhcmFncmFwaFNw
-							YWNpbmdaaGVhZEluZGVu
-							dF1saW5lQnJlYWtNb2Rl
-							W2xpbmVTcGFjaW5nWWFs
-							aWdubWVudFp0YWlsSW5k
-							ZW50XxARbWluaW11bUxp
-							bmVIZWlnaHRfEBZwYXJh
-							Z3JhcGhTcGFjaW5nQmVm
-							b3JlXxASZGVmYXVsdFRh
-							YkludGVydmFsXxASZmly
-							c3RMaW5lSGVhZElkZW50
-							XxAUYmFzZVdyaXRpbmdE
-							aXJlY3Rpb25fEBJsaW5l
-							SGVpZ2h0TXVsdGlwbGUi
-							AAAAAIAQIgAAAAAiAAAA
-							AIASgCIiAAAAAIAgIgAA
-							AAAiAAAAACIAAAAAIgAA
-							AAAiAAAAAIAhIgAAAADS
-							EQtoFqxpamtsbW5vcHFy
-							c3SAEYAUgBWAFoAXgBiA
-							GYAagBuAHIAdgB6AH9RQ
-							d3gLXHp7fFdvcHRpb25z
-							WGxvY2F0aW9ugBKAACJB
-							4AAAgBMQANIyM3+AW01O
-							QVNUZXh0VGFiooE3W01O
-							QVNUZXh0VGFi1FB3eAtc
-							eoV8gBKAACJCYAAAgBPU
-							UHd4C1x6inyAEoAAIkKo
-							AACAE9RQd3gLXHqPfIAS
-							gAAiQuAAAIAT1FB3eAtc
-							epR8gBKAACJDDAAAgBPU
-							UHd4C1x6mXyAEoAAIkMo
-							AACAE9RQd3gLXHqefIAS
-							gAAiQ0QAAIAT1FB3eAtc
-							eqN8gBKAACJDYAAAgBPU
-							UHd4C1x6qHyAEoAAIkN8
-							AACAE9RQd3gLXHqtfIAS
-							gAAiQ4wAAIAT1FB3eAtc
-							erJ8gBKAACJDmgAAgBPU
-							UHd4C1x6t3yAEoAAIkOo
-							AACAE9IyM7q7V05TQXJy
-							YXmiujcQBBQAAAAAAAAA
-							AP//////////0jIzv8Bf
-							EBNNTkFTUGFyYWdyYXBo
-							eVN0eWxlosE3XxATTU5B
-							U1BhcmFncmFwaHlTdHls
-							ZdMYEQvDxh+iGhuABYAG
-							osfIgCSAJYAMV3swLCA0
-							OX3WzM3Oz9AL0dLT1NXW
-							VHNpemVYZm9udE5hbWVZ
-							ZXhwYW5zaW9uW29ibGlx
-							dWVuZXNzXxASYmFzZWxp
-							bmVBZGp1c3RtZW50gCeA
-							JoAqgCmAKIArXEx1Y2lk
-							YUdyYW5kZSJBQAAAIgAA
-							AAAiAAAAACIAAAAA0jIz
-							3d5YTU5BU0ZvbnSi3zdY
-							TU5BU0ZvbnTSMjPh4l8Q
-							E01OQ0F0dHJpYnV0ZWRT
-							dHJpbmei4zdfEBNNTkNB
-							dHRyaWJ1dGVkU3RyaW5n
-							XxAPTlNLZXllZEFyY2hp
-							dmVy0ebnXxARTU5DMGRl
-							clJvb3RPYmplY3SAAQAI
-							ABEAGgAjAC0AMgA3AGcA
-							bQB0AHsAhgCNAI8AkQCT
-							AMcAzADXANsA3QDfAOEA
-							4wDqAPIA9QD3APkA/AD+
-							AQABAgEpAVQBXAFhAWcB
-							aQFrAXYBegGAAYUBiwGN
-							AZIBlwGcAaEBpgGxAboB
-							wwHGAc8B2AHdAfMB9gIM
-							AhECJwIrAjgCPwJCAkQC
-							RgJJAksCTQJPAlcCeAKM
-							ApUCqAKzAsECzQLXAuIC
-							9gMPAyQDOQNQA2UDagNs
-							A3EDdgN4A3oDfwOBA4YD
-							iwOQA5UDmgOcA6EDpgOz
-							A7UDtwO5A7sDvQO/A8ED
-							wwPFA8cDyQPLA80D1gPe
-							A+cD6QPrA/AD8gP0A/kE
-							BQQIBBQEHQQfBCEEJgQo
-							BDEEMwQ1BDoEPARFBEcE
-							SQROBFAEWQRbBF0EYgRk
-							BG0EbwRxBHYEeASBBIME
-							hQSKBIwElQSXBJkEngSg
-							BKkEqwStBLIEtAS9BL8E
-							wQTGBMgE0QTTBNUE2gTc
-							BOUE5wTpBO4E8AT1BP0F
-							AAUCBRMFGAUuBTEFRwVO
-							BVEFUwVVBVgFWgVcBV4F
-							ZgVzBXgFgQWLBZcFrAWu
-							BbAFsgW0BbYFuAXFBcoF
-							zwXUBdkF3gXnBeoF8wX4
-							Bg4GEQYnBjkGPAZQAAAA
-							AAAAAgEAAAAAAAAA6AAA
-							AAAAAAAAAAAAAAAABlI=
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf0 Create persistent cache of all application state.}</string>
-						</dict>
-					</dict>
-				</array>
-				<key>title</key>
-				<dict>
-					<key>attributedText</key>
-					<data>
-					YnBsaXN0MDDUAAEAAgADAAQABQAGARkBGlgk
-					dmVyc2lvblgkb2JqZWN0c1kkYXJjaGl2ZXJU
-					JHRvcBIAAYagrxA6AAcACAAPABAAGgAjACQA
-					JQAmACoANAA7AD8AQwBLAEwAUgBTAFQAVgBe
-					AF8AawBsAG0AbgBvAHMAewB8AIIAgwCLAIwA
-					qgC5AMAAwQDFAMoAzwDUANkA3gDjAOgA7QDy
-					APcA/AD/AQABAQEFAQ0BDgEUARVVJG51bGzT
-					AAkACgALAAwADQAOVnN0cmluZ1phdHRyaWJ1
-					dGVzViRjbGFzc4ACgAOAOVRUT0RP0gARAAsA
-					EgAZWk5TLm9iamVjdHOmABMAFAAVABYAFwAY
-					gASADYATgBuAH4A1gDHTABsAEQALABwAHwAi
-					V05TLmtleXOiAB0AHoAFgAaiACAAIYAHgAiA
-					DF8QJGtNTkF0dHJpYnV0ZWRTdHJpbmdBdHRy
-					aWJ1dGVSYW5nZUtleV8QKGtNTkF0dHJpYnV0
-					ZWRTdHJpbmdBdHRyaWJ1dGVBdHRyaWJ1dGVL
-					ZXlWezAsIDR90gAnAAsAKAApVWNvbG9ygAmA
-					C9UACwArACwALQAuAC8AMAAxADIAM1NyZWRV
-					YWxwaGFUYmx1ZVVncmVlboAKIgAAAAAiP4AA
-					ACIAAAAAIgAAAADSADUANgA3ADhaJGNsYXNz
-					bmFtZVgkY2xhc3Nlc1hNTkNDb2xvcqIAOQA6
-					WE1OQ0NvbG9yWE5TT2JqZWN00gA1ADYAPAA9
-					XxATTU5BU0ZvcmVncm91bmRDb2xvcqIAPgA6
-					XxATTU5BU0ZvcmVncm91bmRDb2xvctIANQA2
-					AEAAQV8QE05TTXV0YWJsZURpY3Rpb25hcnmj
-					AEAAQgA6XE5TRGljdGlvbmFyedMAGwARAAsA
-					RABHACKiAB0AHoAFgAaiAEgASYAOgA+ADFZ7
-					MCwgNH3TABsAEQALAE0ATwBRoQBOgBChAFCA
-					EYASW05TRXhwYW5zaW9uIgAAAADSADUANgBC
-					AFWiAEIAOtMAGwARAAsAVwBaACKiAB0AHoAF
-					gAaiAFsAXIAUgBWADFZ7MCwgNH3WAGAAYQBi
-					AGMAZAALAGUAZgBQAGgAaQBqVHNpemVYZm9u
-					dE5hbWVZZXhwYW5zaW9uW29ibGlxdWVuZXNz
-					XxASYmFzZWxpbmVBZGp1c3RtZW50gBeAFoAR
-					gBmAGIAaXEx1Y2lkYUdyYW5kZSJBUAAAIgAA
-					AAAiAAAAANIANQA2AHAAcVhNTkFTRm9udKIA
-					cgA6WE1OQVNGb2500wAbABEACwB0AHcAIqIA
-					HQAegAWABqIAeAB5gByAHYAMVnswLCA0fdMA
-					GwARAAsAfQB/AFGhAH6AHqEAaIAZgBJdTlNP
-					YmxpcXVlbmVzc9MAGwARAAsAhACHACKiAB0A
-					HoAFgAaiAIgAiYAggCGADFZ7MCwgNH3fEA8A
-					jQCOAI8AkACRAAsAkgCTAJQAlQCWAJcAmACZ
-					AJoAmwCcAJ0AngCfAKAAoQCiAKMApAClAKYA
-					pwCoAKlfEBFtYXhpbXVtTGluZUhlaWdodFh0
-					YWJTdG9wc18QEHBhcmFncmFwaFNwYWNpbmda
-					aGVhZEluZGVudF1saW5lQnJlYWtNb2RlW2xp
-					bmVTcGFjaW5nWWFsaWdubWVudFp0YWlsSW5k
-					ZW50XxARbWluaW11bUxpbmVIZWlnaHRfEBZw
-					YXJhZ3JhcGhTcGFjaW5nQmVmb3JlXxASZGVm
-					YXVsdFRhYkludGVydmFsXxASZmlyc3RMaW5l
-					SGVhZElkZW50XxAUYmFzZVdyaXRpbmdEaXJl
-					Y3Rpb25fEBJsaW5lSGVpZ2h0TXVsdGlwbGUi
-					AAAAAIAiIgAAAAAiAAAAAIAkgDQiAAAAAIAy
-					IgAAAAAiAAAAACIAAAAAIgAAAAAiAAAAAIAz
-					IgAAAADSABEACwCrABmsAKwArQCuAK8AsACx
-					ALIAswC0ALUAtgC3gCOAJoAngCiAKYAqgCuA
-					LIAtgC6AL4AwgDHUAJMAugC7AAsAnwC9AL4A
-					v1dvcHRpb25zWGxvY2F0aW9ugCSAACJB4AAA
-					gCUQANIANQA2AMIAw1tNTkFTVGV4dFRhYqIA
-					xAA6W01OQVNUZXh0VGFi1ACTALoAuwALAJ8A
-					vQDIAL+AJIAAIkJgAACAJdQAkwC6ALsACwCf
-					AL0AzQC/gCSAACJCqAAAgCXUAJMAugC7AAsA
-					nwC9ANIAv4AkgAAiQuAAAIAl1ACTALoAuwAL
-					AJ8AvQDXAL+AJIAAIkMMAACAJdQAkwC6ALsA
-					CwCfAL0A3AC/gCSAACJDKAAAgCXUAJMAugC7
-					AAsAnwC9AOEAv4AkgAAiQ0QAAIAl1ACTALoA
-					uwALAJ8AvQDmAL+AJIAAIkNgAACAJdQAkwC6
-					ALsACwCfAL0A6wC/gCSAACJDfAAAgCXUAJMA
-					ugC7AAsAnwC9APAAv4AkgAAiQ4wAAIAl1ACT
-					ALoAuwALAJ8AvQD1AL+AJIAAIkOaAACAJdQA
-					kwC6ALsACwCfAL0A+gC/gCSAACJDqAAAgCXS
-					ADUANgD9AP5XTlNBcnJheaIA/QA6EAQUAAAA
-					AAAAAAD//////////9IANQA2AQIBA18QE01O
-					QVNQYXJhZ3JhcGh5U3R5bGWiAQQAOl8QE01O
-					QVNQYXJhZ3JhcGh5U3R5bGXTABsAEQALAQYB
-					CQAiogAdAB6ABYAGogEKAQuANoA3gAxWezAs
-					IDR90wAbABEACwEPAREAUaEBEIA4oQBpgBiA
-					El8QEE5TQmFzZWxpbmVPZmZzZXTSADUANgEW
-					ARdfEBNNTkNBdHRyaWJ1dGVkU3RyaW5nogEY
-					ADpfEBNNTkNBdHRyaWJ1dGVkU3RyaW5nXxAP
-					TlNLZXllZEFyY2hpdmVy0QEbARxfEBFNTkMw
-					ZGVyUm9vdE9iamVjdIABAAgAGQAiACsANQA6
-					AD8AtgC8AMkA0ADbAOIA5ADmAOgA7QD2AQEB
-					DgEQARIBFAEWARgBGgEcASkBMQE2ATgBOgE/
-					AUEBQwFFAWwBlwGeAacBrQGvAbEBxgHKAdAB
-					1QHbAd0B4gHnAewB8QH6AgUCDgIXAhwCJQIu
-					AjcCTQJSAmgCcQKHAo4CmwKoAq0CrwKxArYC
-					uAK6ArwCwwLQAtMC1QLYAtoC3ALoAu0C9gL7
-					AwgDDQMPAxEDFgMYAxoDHAMjAzwDQQNKA1QD
-					YAN1A3cDeQN7A30DfwOBA44DkwOYA50DpgOv
-					A7QDvQPKA88D0QPTA9gD2gPcA94D5QPyA/UD
-					9wP6A/wD/gQMBBkEHgQgBCIEJwQpBCsELQQ0
-					BHMEhwSQBKMErgS8BMgE0gTdBPEFCgUfBTQF
-					SwVgBWUFZwVsBXEFcwV1BXoFfAWBBYYFiwWQ
-					BZUFlwWcBaUFvgXABcIFxAXGBcgFygXMBc4F
-					0AXSBdQF1gXYBekF8QX6BfwF/gYDBgUGBwYQ
-					BhwGIQYtBj4GQAZCBkcGSQZaBlwGXgZjBmUG
-					dgZ4BnoGfwaBBpIGlAaWBpsGnQauBrAGsga3
-					BrkGygbMBs4G0wbVBuYG6AbqBu8G8QcCBwQH
-					BgcLBw0HHgcgByIHJwcpBzoHPAc+B0MHRQdW
-					B1gHWgdfB2EHagdyB3cHeQeKB5MHqQeuB8QH
-					0QfWB9gH2gffB+EH4wflB+wH+Qf8B/4IAQgD
-					CAUIGAghCDcIPAhSCGQIaQh9AAAAAAAAAgIA
-					AAAAAAABHQAAAAAAAAAAAAAAAAAACH8=
-					</data>
-					<key>constrainedWidth</key>
-					<integer>300</integer>
-					<key>shrinkToFitContent</key>
-					<integer>1</integer>
-					<key>text</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs26 \cf2 \up0 \obliqueness0 \expansion0 TODO}</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>contentAlignment</key>
-				<integer>1</integer>
-				<key>fillColor</key>
-				<string>{1.000, 1.000, 1.000, 1.000}</string>
-				<key>isDecreasingBranchThickness</key>
-				<true/>
-				<key>isDrawingFill</key>
-				<true/>
-				<key>isLeftAligned</key>
-				<false/>
-				<key>location</key>
 				<string>{-557.02391357383431, -904.89185286116776}</string>
 				<key>nodeID</key>
-				<string>A565C721-31AC-48C4-8B79-46EC705AE5D8</string>
+				<string>CC49A994-0E63-4461-8C2E-108E4BDF081C</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -1718,7 +74,7 @@
 						<key>location</key>
 						<string>{-713.02391357383431, -1000.3918528611678}</string>
 						<key>nodeID</key>
-						<string>7B0103FF-9234-4AF4-BE38-742C2D0DBD9D</string>
+						<string>6F4632DB-8E00-4377-BC15-AF048E5E41E4</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1741,7 +97,7 @@
 								<key>location</key>
 								<string>{-825.02391357383431, -1064.8918528611678}</string>
 								<key>nodeID</key>
-								<string>1667CAA7-DE45-495A-B61F-E3034728296C</string>
+								<string>E4CB1E82-F509-4E58-BAA3-3484CAB01698</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2091,7 +447,7 @@
 								<key>location</key>
 								<string>{-825.02391357383431, -1038.8918528611678}</string>
 								<key>nodeID</key>
-								<string>8A7273AD-05DC-4A3D-89CB-C359C580F8F5</string>
+								<string>119F2771-46B1-4786-A736-72E7A1A5D28A</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2441,7 +797,7 @@
 								<key>location</key>
 								<string>{-966.02391357383431, -1012.8918528611678}</string>
 								<key>nodeID</key>
-								<string>73845C4A-08C9-4B98-969F-BB66DC8E4470</string>
+								<string>9DE40254-DF01-442C-8981-C89E598366A5</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2794,7 +1150,7 @@
 								<key>location</key>
 								<string>{-825.02391357383431, -986.89185286116776}</string>
 								<key>nodeID</key>
-								<string>63ED2E8B-375C-48F1-A2EF-395C2F0D30A6</string>
+								<string>0A8010F0-4C1A-4D0F-BDCC-DD5D9EA18153</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3144,7 +1500,7 @@
 								<key>location</key>
 								<string>{-850.02391357383431, -960.89185286116776}</string>
 								<key>nodeID</key>
-								<string>231F4EA3-C89F-433A-96AC-4861665A4085</string>
+								<string>442C9D53-CBA6-42B3-A734-51A5EE51154A</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3495,7 +1851,7 @@
 								<key>location</key>
 								<string>{-843.02391357383431, -934.89185286116776}</string>
 								<key>nodeID</key>
-								<string>BFBADFB3-0592-4B63-8881-F0E6B6D2C514</string>
+								<string>CDCC5263-5E31-47E6-8D9E-3540780C2B9C</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3518,7 +1874,7 @@
 										<key>location</key>
 										<string>{-988.02391357383431, -934.89185286116776}</string>
 										<key>nodeID</key>
-										<string>C0FD5C91-895B-4ACC-9EF0-7C3D823BBC6A</string>
+										<string>17939263-B609-45D5-8462-A924F7CFB0CC</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.800, 0.400, 1.000}</string>
 										<key>strokeStyle</key>
@@ -4405,7 +2761,7 @@
 						<key>location</key>
 						<string>{-364.02391357383431, -895.39185286116776}</string>
 						<key>nodeID</key>
-						<string>12996D4A-EC38-453A-A85E-725FFE4AD20D</string>
+						<string>327C66DE-548E-4B7C-9F83-0AC738673D7D</string>
 						<key>strokeColor</key>
 						<string>{0.800, 0.400, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -4428,7 +2784,7 @@
 								<key>location</key>
 								<string>{-230.02391357383431, -1096.8918528611678}</string>
 								<key>nodeID</key>
-								<string>F5C697C6-FFB6-4632-85A2-D1E0947ED6A0</string>
+								<string>88543C22-1E1F-468D-AC8F-A764071A642B</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4451,7 +2807,7 @@
 										<key>location</key>
 										<string>{0.97608642616569341, -1109.8918528611678}</string>
 										<key>nodeID</key>
-										<string>542571E5-F9C6-404B-BF29-999352B339CB</string>
+										<string>C2261ED8-37C7-48DD-B764-FF70A63DA1E3</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -4730,7 +3086,7 @@
 										<key>location</key>
 										<string>{0.97608642616569341, -1083.8918528611678}</string>
 										<key>nodeID</key>
-										<string>7B3C03A8-A5B7-4746-8BBE-AD35BEAD453B</string>
+										<string>48057291-1802-407E-88AE-0B08A7B98006</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5269,7 +3625,7 @@
 								<key>location</key>
 								<string>{-230.02391357383431, -1044.8918528611678}</string>
 								<key>nodeID</key>
-								<string>E87AF478-161F-4D7F-A7DE-9D40561D99CD</string>
+								<string>74F98883-40D5-4B9A-88D9-0D294ACFC252</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5292,7 +3648,7 @@
 										<key>location</key>
 										<string>{14.976086426165693, -1057.8918528611678}</string>
 										<key>nodeID</key>
-										<string>4E183691-B663-431D-A00C-6DEC9CA0484D</string>
+										<string>1A837DBF-714B-4754-8AEF-A7A4097D0B9C</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -5572,7 +3928,7 @@
 										<key>location</key>
 										<string>{14.976086426165693, -1031.8918528611678}</string>
 										<key>nodeID</key>
-										<string>D6DEE082-4F56-4169-8441-8BB8F67077F3</string>
+										<string>3BE7312B-718C-43D0-9362-0B8D20B33C9C</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -6111,7 +4467,7 @@
 								<key>location</key>
 								<string>{-230.02391357383431, -1005.8918528611678}</string>
 								<key>nodeID</key>
-								<string>A37B1C8C-641A-4E35-B6F1-F017F8E00680</string>
+								<string>CFED324B-402E-4AAA-A2AE-DA3A686F8E70</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6134,7 +4490,7 @@
 										<key>location</key>
 										<string>{115.97608642616569, -1005.8918528611678}</string>
 										<key>nodeID</key>
-										<string>97DC1BC7-E848-4963-8F10-94EEE63A04F4</string>
+										<string>DFDEC0B2-E3C7-476A-8FA8-491FCF7B8E9D</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -6676,7 +5032,7 @@
 								<key>location</key>
 								<string>{-230.02391357383431, -914.89185286116776}</string>
 								<key>nodeID</key>
-								<string>E9911FE9-02A5-47DC-8538-FD8C847A040F</string>
+								<string>05AAA764-BBBE-4137-8970-B4430963F12F</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6699,7 +5055,7 @@
 										<key>location</key>
 										<string>{94.976086426165693, -979.89185286116776}</string>
 										<key>nodeID</key>
-										<string>1C91A43B-7919-4E41-A7DA-A0B7166CC40F</string>
+										<string>FFC888DE-B9A2-415F-8A6D-FB63AB519F96</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -6980,7 +5336,7 @@
 										<key>location</key>
 										<string>{94.976086426165693, -953.89185286116776}</string>
 										<key>nodeID</key>
-										<string>C9E8CE77-C943-4A4C-948D-41E25E332543</string>
+										<string>567BE399-B897-4423-AB55-3D27EEECF88C</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -7261,7 +5617,7 @@
 										<key>location</key>
 										<string>{94.976086426165693, -927.89185286116776}</string>
 										<key>nodeID</key>
-										<string>E54E6ED8-D82B-46E1-A311-B448BC87BB06</string>
+										<string>BA449DBE-35CC-4A90-9B7A-D4D10373508A</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -7542,7 +5898,7 @@
 										<key>location</key>
 										<string>{94.976086426165693, -901.89185286116776}</string>
 										<key>nodeID</key>
-										<string>F588A01C-DB82-4C78-AE9E-48D8472F311E</string>
+										<string>BE21BBA1-C143-454C-B3FF-84747FA669CD</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -7822,7 +6178,7 @@
 										<key>location</key>
 										<string>{94.976086426165693, -875.89185286116776}</string>
 										<key>nodeID</key>
-										<string>D5B02A8C-562D-4A16-97F3-74464E7A696B</string>
+										<string>BA1504E7-01C0-4903-86E2-63B4DEFD8084</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -8102,7 +6458,7 @@
 										<key>location</key>
 										<string>{94.976086426165693, -849.89185286116776}</string>
 										<key>nodeID</key>
-										<string>57DF4629-5BB0-4967-8473-70634578086E</string>
+										<string>4E81A092-06AD-4F0D-94B9-7D903F5AA176</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -8643,7 +6999,7 @@
 								<key>location</key>
 								<string>{-230.02391357383431, -823.89185286116776}</string>
 								<key>nodeID</key>
-								<string>269A2C05-1EE0-4F28-8A5F-52879623ADF6</string>
+								<string>06713DB8-3092-4309-87EA-3B5C4A47E99C</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -8666,7 +7022,7 @@
 										<key>location</key>
 										<string>{29.976086426165693, -823.89185286116776}</string>
 										<key>nodeID</key>
-										<string>82CA1DBB-8501-4C22-8BC6-B8117EF968DB</string>
+										<string>79C99587-2B16-4067-883F-7554CADBDCF7</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -9206,7 +7562,7 @@
 								<key>location</key>
 								<string>{-230.02391357383431, -738.89185286116776}</string>
 								<key>nodeID</key>
-								<string>B330A407-3117-44DF-A5CC-DE814C42493F</string>
+								<string>42565DA4-EA08-4FB6-B86F-D0015A888463</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -9229,7 +7585,7 @@
 										<key>location</key>
 										<string>{72.976086426165693, -797.89185286116776}</string>
 										<key>nodeID</key>
-										<string>467AA2BE-4212-4954-8DCC-1D29A913D2B4</string>
+										<string>10DEEC01-C65E-46FF-86A0-8E50D8CE1074</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -9581,7 +7937,7 @@
 										<key>location</key>
 										<string>{72.976086426165693, -771.89185286116776}</string>
 										<key>nodeID</key>
-										<string>2242655F-BB24-4CF0-9D1E-C3BAECDFBF5D</string>
+										<string>179322C0-4DD7-4AAF-A2AC-771B778940CF</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -9933,7 +8289,7 @@
 										<key>location</key>
 										<string>{72.976086426165693, -745.89185286116776}</string>
 										<key>nodeID</key>
-										<string>003E7B6D-A047-4B92-B109-D61077959F4D</string>
+										<string>7939E297-B77E-4459-BAAE-3431691E2337</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -10286,7 +8642,7 @@
 										<key>location</key>
 										<string>{72.976086426165693, -719.89185286116776}</string>
 										<key>nodeID</key>
-										<string>61D196C6-88B4-4DCB-A42E-B0D66ECE1598</string>
+										<string>70BE1528-EAD3-46CE-B1D4-E2FD2439A86C</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -10641,7 +8997,7 @@
 										<key>location</key>
 										<string>{72.976086426165693, -679.89185286116776}</string>
 										<key>nodeID</key>
-										<string>E34595C5-AAFD-4951-9C8C-7120A879C559</string>
+										<string>479D9AD0-2B67-47F2-9D12-1302EBCADB05</string>
 										<key>strokeColor</key>
 										<string>{0.800, 0.400, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -11528,7 +9884,7 @@
 						<key>location</key>
 						<string>{-718.02391357383431, -844.39185286116776}</string>
 						<key>nodeID</key>
-						<string>44530A94-05B7-4D04-96A6-134662CC7D56</string>
+						<string>17574BA3-ED0B-4B93-AC4B-013D146161A7</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -11551,7 +9907,7 @@
 								<key>location</key>
 								<string>{-830.02391357383431, -908.89185286116776}</string>
 								<key>nodeID</key>
-								<string>5E4140AF-6154-41A4-AB08-A22953E9577A</string>
+								<string>36101C42-D9CD-4810-B1C2-6E199280FEEC</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -11901,7 +10257,7 @@
 								<key>location</key>
 								<string>{-830.02391357383431, -882.89185286116776}</string>
 								<key>nodeID</key>
-								<string>271ABCCD-6E2A-4FF1-B7EF-DACD8BA3C94A</string>
+								<string>C7B1D6A7-13E7-47A4-A361-E34536366125</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -12251,7 +10607,7 @@
 								<key>location</key>
 								<string>{-978.02391357383431, -856.89185286116776}</string>
 								<key>nodeID</key>
-								<string>EC11F885-E859-40AF-A1B3-AB3C5974899E</string>
+								<string>54A6D988-4AF1-414C-B88E-41B5847D46E0</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -12605,7 +10961,7 @@
 								<key>location</key>
 								<string>{-830.02391357383431, -830.89185286116776}</string>
 								<key>nodeID</key>
-								<string>32A76D73-F1DB-43E6-9869-486C5B316735</string>
+								<string>A76DBA98-3DB7-4B30-9261-C433AA45E68D</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -12955,7 +11311,7 @@
 								<key>location</key>
 								<string>{-920.02391357383431, -804.89185286116776}</string>
 								<key>nodeID</key>
-								<string>D581E96C-4D23-492E-99A1-6CEF926D05FB</string>
+								<string>CA39311E-0856-4337-A534-D97084BCF032</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -13308,7 +11664,7 @@
 								<key>location</key>
 								<string>{-848.02391357383431, -778.89185286116776}</string>
 								<key>nodeID</key>
-								<string>BE5E86A6-FF4C-41A7-8911-DE6C81A693F5</string>
+								<string>226B69E7-B896-46E0-81FD-CF3F44E4AF79</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -13331,7 +11687,7 @@
 										<key>location</key>
 										<string>{-993.02391357383431, -778.89185286116776}</string>
 										<key>nodeID</key>
-										<string>8786E72A-F1BF-4927-92F8-A4EA0563970C</string>
+										<string>EDA8F6E1-B51F-4168-9F67-8B8A800DC310</string>
 										<key>strokeColor</key>
 										<string>{0.800, 1.000, 0.400, 1.000}</string>
 										<key>strokeStyle</key>
@@ -14218,7 +12574,7 @@
 						<key>location</key>
 						<string>{-845.02391357383431, -752.89185286116776}</string>
 						<key>nodeID</key>
-						<string>C9D32C15-7F18-434F-ADCD-E07AAAFD8A67</string>
+						<string>D39C2BDE-813E-4B96-BA1C-EA4D4D5AB18D</string>
 						<key>strokeColor</key>
 						<string>{0.400, 0.800, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -14447,7 +12803,7 @@
 						<key>location</key>
 						<string>{-807.02391357383431, -725.89185286116776}</string>
 						<key>nodeID</key>
-						<string>46B99E02-4D59-42BC-A166-16D4F8FD7106</string>
+						<string>E9B17412-E984-4509-9632-5AE254EE6453</string>
 						<key>strokeColor</key>
 						<string>{0.400, 1.000, 0.800, 1.000}</string>
 						<key>strokeStyle</key>
@@ -14799,7 +13155,7 @@
 				<key>location</key>
 				<string>{-1477.9659960675374, -645.96514401309912}</string>
 				<key>nodeID</key>
-				<string>EFEA85B3-B705-4279-8767-74C60ACC768E</string>
+				<string>42665FF7-B768-49F2-A436-5F22B08DB6AF</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -14820,9 +13176,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-1318.9659960675374, -714.46514401309912}</string>
+						<string>{-1318.9659960675374, -721.96514401309912}</string>
 						<key>nodeID</key>
-						<string>864E00D2-8FBB-441B-8850-9AA470D8FEC2</string>
+						<string>05A5D292-F304-4652-8B20-6736D01DED74</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -15160,9 +13516,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-1318.9659960675374, -672.46514401309912}</string>
+						<string>{-1318.9659960675374, -679.96514401309912}</string>
 						<key>nodeID</key>
-						<string>EAEBBD82-6B9E-486D-87B7-2C1F9C9A2F4F</string>
+						<string>E608F570-C0FB-40B6-8043-133A5BFE679C</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -15503,9 +13859,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-1318.9659960675374, -615.46514401309912}</string>
+						<string>{-1318.9659960675374, -622.96514401309912}</string>
 						<key>nodeID</key>
-						<string>CECD9F68-AC7D-4426-8BED-53408DE49AD8</string>
+						<string>66C7E337-1476-4A7B-9EA8-9FE117B951F3</string>
 						<key>strokeColor</key>
 						<string>{0.400, 1.000, 0.800, 1.000}</string>
 						<key>strokeStyle</key>
@@ -15845,9 +14201,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-1318.9659960675374, -573.46514401309912}</string>
+						<string>{-1318.9659960675374, -580.96514401309912}</string>
 						<key>nodeID</key>
-						<string>11BB9B81-74DD-44B7-88FC-A09FCFBE34C2</string>
+						<string>91EF7CBF-C4A0-40E3-AC46-1D7D3E477C38</string>
 						<key>strokeColor</key>
 						<string>{0.400, 0.800, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -15861,190 +14217,264 @@
 							<key>attributedText</key>
 							<data>
 							YnBsaXN0MDDUAAEAAgAD
-							AAQABQAGAQIBA1gkdmVy
+							AAQABQAGAYoBi1gkdmVy
 							c2lvblgkb2JqZWN0c1kk
 							YXJjaGl2ZXJUJHRvcBIA
-							AYagrxA1AAcACAAPABAA
-							GAAhACIAIwAkAEIAUQBY
-							AFkAYABlAGoAbwB0AHkA
-							fgCDAIgAjQCSAJcAmgCb
-							AJwAoACkAKwArQCzALQA
-							ugC7AL8AwQDJAMoA1gDX
-							ANgA2QDaANsA3wDnAOgA
-							7AD2APoA/lUkbnVsbNMA
-							CQAKAAsADAANAA5Wc3Ry
-							aW5nWmF0dHJpYnV0ZXNW
-							JGNsYXNzgAKAA4A0XxBM
-							aHR0cDovL3otd2F2ZS5h
-							bHNlbmV0LmNvbS9pbmRl
-							eC5waHAvU2hvcnRfaW50
-							cm9kdWN0aW9uX2luX1ot
-							V2F2ZV90ZXJtaW5vbG9n
-							edIAEQALABIAF1pOUy5v
-							YmplY3RzpAATABQAFQAW
-							gASAHYAlgC6AGNMAGQAR
-							AAsAGgAdACBXTlMua2V5
-							c6IAGwAcgAWABqIAHgAf
-							gAeACIAcXxAka01OQXR0
-							cmlidXRlZFN0cmluZ0F0
-							dHJpYnV0ZVJhbmdlS2V5
-							XxAoa01OQXR0cmlidXRl
-							ZFN0cmluZ0F0dHJpYnV0
-							ZUF0dHJpYnV0ZUtleVd7
-							MCwgNzZ93xAPACUAJgAn
-							ACgAKQALACoAKwAsAC0A
-							LgAvADAAMQAyADMANAA1
-							ADYANwA4ADkAOgA7ADwA
-							PQA+AD8AQABBXxARbWF4
-							aW11bUxpbmVIZWlnaHRY
-							dGFiU3RvcHNfEBBwYXJh
-							Z3JhcGhTcGFjaW5nWmhl
-							YWRJbmRlbnRdbGluZUJy
-							ZWFrTW9kZVtsaW5lU3Bh
-							Y2luZ1lhbGlnbm1lbnRa
-							dGFpbEluZGVudF8QEW1p
-							bmltdW1MaW5lSGVpZ2h0
-							XxAWcGFyYWdyYXBoU3Bh
-							Y2luZ0JlZm9yZV8QEmRl
-							ZmF1bHRUYWJJbnRlcnZh
-							bF8QEmZpcnN0TGluZUhl
-							YWRJZGVudF8QFGJhc2VX
-							cml0aW5nRGlyZWN0aW9u
-							XxASbGluZUhlaWdodE11
-							bHRpcGxlIgAAAACACSIA
-							AAAAIgAAAACAC4AbIgAA
-							AACAGSIAAAAAIgAAAAAi
-							AAAAACIAAAAAIgAAAACA
-							GiIAAAAA0gARAAsAQwAX
-							rABEAEUARgBHAEgASQBK
-							AEsATABNAE4AT4AKgA2A
-							DoAPgBCAEYASgBOAFIAV
-							gBaAF4AY1AArAFIAUwAL
-							ADcAVQBWAFdXb3B0aW9u
-							c1hsb2NhdGlvboALgAAi
-							QeAAAIAMEADSAFoAWwBc
-							AF1aJGNsYXNzbmFtZVgk
-							Y2xhc3Nlc1tNTkFTVGV4
-							dFRhYqIAXgBfW01OQVNU
-							ZXh0VGFiWE5TT2JqZWN0
-							1AArAFIAUwALADcAVQBj
-							AFeAC4AAIkJgAACADNQA
-							KwBSAFMACwA3AFUAaABX
-							gAuAACJCqAAAgAzUACsA
-							UgBTAAsANwBVAG0AV4AL
-							gAAiQuAAAIAM1AArAFIA
-							UwALADcAVQByAFeAC4AA
-							IkMMAACADNQAKwBSAFMA
-							CwA3AFUAdwBXgAuAACJD
-							KAAAgAzUACsAUgBTAAsA
-							NwBVAHwAV4ALgAAiQ0QA
-							AIAM1AArAFIAUwALADcA
-							VQCBAFeAC4AAIkNgAACA
-							DNQAKwBSAFMACwA3AFUA
-							hgBXgAuAACJDfAAAgAzU
-							ACsAUgBTAAsANwBVAIsA
-							V4ALgAAiQ4wAAIAM1AAr
-							AFIAUwALADcAVQCQAFeA
-							C4AAIkOaAACADNQAKwBS
-							AFMACwA3AFUAlQBXgAuA
-							ACJDqAAAgAzSAFoAWwCY
-							AJlXTlNBcnJheaIAmABf
-							EAQUAAAAAAAAAAD/////
-							/////9IAWgBbAJ0Anl8Q
-							E01OQVNQYXJhZ3JhcGh5
-							U3R5bGWiAJ8AX18QE01O
-							QVNQYXJhZ3JhcGh5U3R5
-							bGXSAFoAWwChAKJfEBNO
-							U011dGFibGVEaWN0aW9u
-							YXJ5owChAKMAX1xOU0Rp
-							Y3Rpb25hcnnTABkAEQAL
-							AKUAqAAgogAbAByABYAG
-							ogCpAKqAHoAfgBxXezAs
-							IDc2fdMAGQARAAsArgCw
-							ALKhAK+AIKEAsYAhgCRW
-							TlNMaW5r0wC1AAsAtgBV
-							ALgAuVdOUy5iYXNlW05T
-							LnJlbGF0aXZlgACAI4Ai
-							XxBMaHR0cDovL3otd2F2
-							ZS5hbHNlbmV0LmNvbS9p
-							bmRleC5waHAvU2hvcnRf
-							aW50cm9kdWN0aW9uX2lu
-							X1otV2F2ZV90ZXJtaW5v
-							bG9nedIAWgBbALwAvVVO
-							U1VSTKIAvgBfVU5TVVJM
-							0gBaAFsAowDAogCjAF/T
-							ABkAEQALAMIAxQAgogAb
-							AByABYAGogDGAMeAJoAn
-							gBxXezAsIDc2fdYAywDM
-							AM0AzgDPAAsA0ADRANIA
-							0wDUANVUc2l6ZVhmb250
-							TmFtZVlleHBhbnNpb25b
-							b2JsaXF1ZW5lc3NfEBJi
-							YXNlbGluZUFkanVzdG1l
-							bnSAKYAogCyAK4AqgC1c
-							THVjaWRhR3JhbmRlIkFA
+							AYagrxBQAAcACAAPABAA
+							GwAkACUAJgAnAEUAVABb
+							AFwAYwBoAG0AcgB3AHwA
+							gQCGAIsAkACVAJoAnQCe
+							AJ8AowCnAK8AsAC2ALcA
+							vQC+AMIAxADMAM0A2QDa
+							ANsA3ADdAN4A4gDqAOsA
+							7wD5AP0BAQEJAQoBDQEV
+							ARYBJgE1AToBPwFEAUkB
+							TgFTAVgBXQFiAWcBbAFx
+							AXIBegF7AYIBgwGEAYUB
+							hlUkbnVsbNMACQAKAAsA
+							DAANAA5Wc3RyaW5nWmF0
+							dHJpYnV0ZXNWJGNsYXNz
+							gAKAA4BPXxB1U2hvcnQg
+							aW50cm9kdWN0aW9uIGlu
+							IFotV2F2ZSB0ZXJtaW5v
+							bG9neSBodHRwOi8vei13
+							YXZlLmFsc2VuZXQuY29t
+							L2luZGV4LnBocC9TaG9y
+							dF9pbnRyb2R1Y3Rpb25f
+							aW5fWi1XYXZlX3Rlcm1p
+							bm9sb2d50gARAAsAEgAa
+							Wk5TLm9iamVjdHOnABMA
+							FAAVABYAFwAYABmABIAd
+							gCWALoA0gDeASIAY0wAc
+							ABEACwAdACAAI1dOUy5r
+							ZXlzogAeAB+ABYAGogAh
+							ACKAB4AIgBxfECRrTU5B
+							dHRyaWJ1dGVkU3RyaW5n
+							QXR0cmlidXRlUmFuZ2VL
+							ZXlfEChrTU5BdHRyaWJ1
+							dGVkU3RyaW5nQXR0cmli
+							dXRlQXR0cmlidXRlS2V5
+							WHs0MSwgNzZ93xAPACgA
+							KQAqACsALAALAC0ALgAv
+							ADAAMQAyADMANAA1ADYA
+							NwA4ADkAOgA7ADwAPQA+
+							AD8AQABBAEIAQwBEXxAR
+							bWF4aW11bUxpbmVIZWln
+							aHRYdGFiU3RvcHNfEBBw
+							YXJhZ3JhcGhTcGFjaW5n
+							WmhlYWRJbmRlbnRdbGlu
+							ZUJyZWFrTW9kZVtsaW5l
+							U3BhY2luZ1lhbGlnbm1l
+							bnRadGFpbEluZGVudF8Q
+							EW1pbmltdW1MaW5lSGVp
+							Z2h0XxAWcGFyYWdyYXBo
+							U3BhY2luZ0JlZm9yZV8Q
+							EmRlZmF1bHRUYWJJbnRl
+							cnZhbF8QEmZpcnN0TGlu
+							ZUhlYWRJZGVudF8QFGJh
+							c2VXcml0aW5nRGlyZWN0
+							aW9uXxASbGluZUhlaWdo
+							dE11bHRpcGxlIgAAAACA
+							CSIAAAAAIgAAAACAC4Ab
+							IgAAAACAGSIAAAAAIgAA
 							AAAiAAAAACIAAAAAIgAA
-							AADSAFoAWwDcAN1YTU5B
-							U0ZvbnSiAN4AX1hNTkFT
-							Rm9udNMAGQARAAsA4ADj
-							ACCiABsAHIAFgAaiAOQA
-							5YAvgDCAHFd7MCwgNzZ9
-							0gDpAAsA6gDrVWNvbG9y
-							gDGAM9UACwDtAO4A7wDw
-							APEA8gDzAPQA9VNyZWRV
-							YWxwaGFUYmx1ZVVncmVl
-							boAyIgAAAAAiP4AAACIA
-							AAAAIgAAAADSAFoAWwD3
-							APhYTU5DQ29sb3KiAPkA
-							X1hNTkNDb2xvctIAWgBb
-							APsA/F8QE01OQVNGb3Jl
-							Z3JvdW5kQ29sb3KiAP0A
-							X18QE01OQVNGb3JlZ3Jv
-							dW5kQ29sb3LSAFoAWwD/
-							AQBfEBNNTkNBdHRyaWJ1
-							dGVkU3RyaW5nogEBAF9f
+							AACAGiIAAAAA0gARAAsA
+							RgAarABHAEgASQBKAEsA
+							TABNAE4ATwBQAFEAUoAK
+							gA2ADoAPgBCAEYASgBOA
+							FIAVgBaAF4AY1AAuAFUA
+							VgALADoAWABZAFpXb3B0
+							aW9uc1hsb2NhdGlvboAL
+							gAAiQeAAAIAMEADSAF0A
+							XgBfAGBaJGNsYXNzbmFt
+							ZVgkY2xhc3Nlc1tNTkFT
+							VGV4dFRhYqIAYQBiW01O
+							QVNUZXh0VGFiWE5TT2Jq
+							ZWN01AAuAFUAVgALADoA
+							WABmAFqAC4AAIkJgAACA
+							DNQALgBVAFYACwA6AFgA
+							awBagAuAACJCqAAAgAzU
+							AC4AVQBWAAsAOgBYAHAA
+							WoALgAAiQuAAAIAM1AAu
+							AFUAVgALADoAWAB1AFqA
+							C4AAIkMMAACADNQALgBV
+							AFYACwA6AFgAegBagAuA
+							ACJDKAAAgAzUAC4AVQBW
+							AAsAOgBYAH8AWoALgAAi
+							Q0QAAIAM1AAuAFUAVgAL
+							ADoAWACEAFqAC4AAIkNg
+							AACADNQALgBVAFYACwA6
+							AFgAiQBagAuAACJDfAAA
+							gAzUAC4AVQBWAAsAOgBY
+							AI4AWoALgAAiQ4wAAIAM
+							1AAuAFUAVgALADoAWACT
+							AFqAC4AAIkOaAACADNQA
+							LgBVAFYACwA6AFgAmABa
+							gAuAACJDqAAAgAzSAF0A
+							XgCbAJxXTlNBcnJheaIA
+							mwBiEAQUAAAAAAAAAAD/
+							/////////9IAXQBeAKAA
+							oV8QE01OQVNQYXJhZ3Jh
+							cGh5U3R5bGWiAKIAYl8Q
+							E01OQVNQYXJhZ3JhcGh5
+							U3R5bGXSAF0AXgCkAKVf
+							EBNOU011dGFibGVEaWN0
+							aW9uYXJ5owCkAKYAYlxO
+							U0RpY3Rpb25hcnnTABwA
+							EQALAKgAqwAjogAeAB+A
+							BYAGogCsAK2AHoAfgBxY
+							ezQxLCA3Nn3TABwAEQAL
+							ALEAswC1oQCygCChALSA
+							IYAkVk5TTGlua9MAuAAL
+							ALkAWAC7ALxXTlMuYmFz
+							ZVtOUy5yZWxhdGl2ZYAA
+							gCOAIl8QTGh0dHA6Ly96
+							LXdhdmUuYWxzZW5ldC5j
+							b20vaW5kZXgucGhwL1No
+							b3J0X2ludHJvZHVjdGlv
+							bl9pbl9aLVdhdmVfdGVy
+							bWlub2xvZ3nSAF0AXgC/
+							AMBVTlNVUkyiAMEAYlVO
+							U1VSTNIAXQBeAKYAw6IA
+							pgBi0wAcABEACwDFAMgA
+							I6IAHgAfgAWABqIAyQDK
+							gCaAJ4AcWHs0MSwgNzZ9
+							1gDOAM8A0ADRANIACwDT
+							ANQA1QDWANcA2FRzaXpl
+							WGZvbnROYW1lWWV4cGFu
+							c2lvbltvYmxpcXVlbmVz
+							c18QEmJhc2VsaW5lQWRq
+							dXN0bWVudIApgCiALIAr
+							gCqALVxMdWNpZGFHcmFu
+							ZGUiQUAAACIAAAAAIgAA
+							AAAiAAAAANIAXQBeAN8A
+							4FhNTkFTRm9udKIA4QBi
+							WE1OQVNGb2500wAcABEA
+							CwDjAOYAI6IAHgAfgAWA
+							BqIA5wDogC+AMIAcWHs0
+							MSwgNzZ90gDsAAsA7QDu
+							VWNvbG9ygDGAM9UACwDw
+							APEA8gDzAPQA9QD2APcA
+							+FNyZWRVYWxwaGFUYmx1
+							ZVVncmVlboAyIgAAAAAi
+							P4AAACIAAAAAIgAAAADS
+							AF0AXgD6APtYTU5DQ29s
+							b3KiAPwAYlhNTkNDb2xv
+							ctIAXQBeAP4A/18QE01O
+							QVNGb3JlZ3JvdW5kQ29s
+							b3KiAQAAYl8QE01OQVNG
+							b3JlZ3JvdW5kQ29sb3LT
+							ABwAEQALAQIBBQAjogAe
+							AB+ABYAGogEGAQeANYA2
+							gBxXezAsIDQxfdIA7AAL
+							AO0A7oAxgDPTABwAEQAL
+							AQ4BEQAjogAeAB+ABYAG
+							ogESAROAOIA5gBxXezAs
+							IDQxfd8QDwAoACkAKgAr
+							ACwACwAtAC4ALwAwADEA
+							MgAzADQANQEXARgBGQEa
+							ADoAOwEdAD0BHwEgASEB
+							IgEjASQBJSIAAAAAgDoi
+							AAAAACIAAAAAgAuAGyIA
+							AAAAgBkiAAAAACIAAAAA
+							IgAAAAAiAAAAACIAAAAA
+							gEciAAAAANIAEQALAScA
+							GqwBKAEpASoBKwEsAS0B
+							LgEvATABMQEyATOAO4A8
+							gD2APoA/gECAQYBCgEOA
+							RIBFgEaAGNQALgBVAFYA
+							CwA6AFgBOABagAuAACJB
+							4AAAgAzUAC4AVQBWAAsA
+							OgBYAT0AWoALgAAiQmAA
+							AIAM1AAuAFUAVgALADoA
+							WAFCAFqAC4AAIkKoAACA
+							DNQALgBVAFYACwA6AFgB
+							RwBagAuAACJC4AAAgAzU
+							AC4AVQBWAAsAOgBYAUwA
+							WoALgAAiQwwAAIAM1AAu
+							AFUAVgALADoAWAFRAFqA
+							C4AAIkMoAACADNQALgBV
+							AFYACwA6AFgBVgBagAuA
+							ACJDRAAAgAzUAC4AVQBW
+							AAsAOgBYAVsAWoALgAAi
+							Q2AAAIAM1AAuAFUAVgAL
+							ADoAWAFgAFqAC4AAIkN8
+							AACADNQALgBVAFYACwA6
+							AFgBZQBagAuAACJDjAAA
+							gAzUAC4AVQBWAAsAOgBY
+							AWoAWoALgAAiQ5oAAIAM
+							1AAuAFUAVgALADoAWAFv
+							AFqAC4AAIkOoAACADBQA
+							AAAAAAAAAP//////////
+							0wAcABEACwFzAXYAI6IA
+							HgAfgAWABqIBdwF4gEmA
+							SoAcV3swLCA0MX3WAM4A
+							zwDQANEA0gALAXwA1AF+
+							AX8BgADYgEuAKIBOgE2A
+							TIAtIkFAAAAiAAAAACIA
+							AAAAIgAAAADSAF0AXgGH
+							AYhfEBNNTkNBdHRyaWJ1
+							dGVkU3RyaW5nogGJAGJf
 							EBNNTkNBdHRyaWJ1dGVk
 							U3RyaW5nXxAPTlNLZXll
-							ZEFyY2hpdmVy0QEEAQVf
+							ZEFyY2hpdmVy0QGMAY1f
 							EBFNTkMwZGVyUm9vdE9i
 							amVjdIABAAgAGQAiACsA
-							NQA6AD8ArACyAL8AxgDR
-							ANgA2gDcAN4BLQE2AUEB
-							SgFMAU4BUAFSAVQBYQFp
-							AW4BcAFyAXcBeQF7AX0B
-							pAHPAdcCFgIqAjMCRgJR
-							Al8CawJ1AoAClAKtAsIC
-							1wLuAwMDCAMKAw8DFAMW
-							AxgDHQMfAyQDKQMuAzMD
-							OAM6Az8DSANhA2MDZQNn
-							A2kDawNtA28DcQNzA3UD
-							dwN5A3sDjAOUA50DnwOh
-							A6YDqAOqA7MDvgPHA9MD
-							2APkA+0D/gQABAIEBwQJ
-							BBoEHAQeBCMEJQQ2BDgE
-							OgQ/BEEEUgRUBFYEWwRd
-							BG4EcARyBHcEeQSKBIwE
-							jgSTBJUEpgSoBKoErwSx
-							BMIExATGBMsEzQTeBOAE
-							4gTnBOkE+gT8BP4FAwUF
-							BRYFGAUaBR8FIQUqBTIF
-							NwU5BUoFUwVpBW4FhAWN
-							BaMFqgW3BcQFyQXLBc0F
-							0gXUBdYF2AXgBe0F8AXy
-							BfUF9wX5BgAGDQYVBiEG
-							IwYlBicGdgZ/BoUGigaQ
-							BpkGngarBrAGsga0BrkG
-							uwa9Br8GxwbgBuUG7gb4
-							BwQHGQcbBx0HHwchByMH
-							JQcyBzcHPAdBB0YHTwdY
-							B10HZgdzB3gHegd8B4EH
-							gweFB4cHjweYB54HoAei
-							B7cHuwfBB8YHzAfOB9MH
-							2AfdB+IH6wf0B/kIAggL
-							CCEIJgg8CEUIWwhgCHYI
-							iAiNCKEAAAAAAAACAgAA
-							AAAAAAEGAAAAAAAAAAAA
-							AAAAAAAIow==
+							NQA6AD8A4gDoAPUA/AEH
+							AQ4BEAESARQBjAGVAaAB
+							rwGxAbMBtQG3AbkBuwG9
+							Ab8BzAHUAdkB2wHdAeIB
+							5AHmAegCDwI6AkMCggKW
+							Ap8CsgK9AssC1wLhAuwD
+							AAMZAy4DQwNaA28DdAN2
+							A3sDgAOCA4QDiQOLA5AD
+							lQOaA58DpAOmA6sDtAPN
+							A88D0QPTA9UD1wPZA9sD
+							3QPfA+ED4wPlA+cD+AQA
+							BAkECwQNBBIEFAQWBB8E
+							KgQzBD8ERARQBFkEagRs
+							BG4EcwR1BIYEiASKBI8E
+							kQSiBKQEpgSrBK0EvgTA
+							BMIExwTJBNoE3ATeBOME
+							5QT2BPgE+gT/BQEFEgUU
+							BRYFGwUdBS4FMAUyBTcF
+							OQVKBUwFTgVTBVUFZgVo
+							BWoFbwVxBYIFhAWGBYsF
+							jQWWBZ4FowWlBbYFvwXV
+							BdoF8AX5Bg8GFgYjBjAG
+							NQY3BjkGPgZABkIGRAZN
+							BloGXQZfBmIGZAZmBm0G
+							egaCBo4GkAaSBpQG4wbs
+							BvIG9wb9BwYHCwcYBx0H
+							HwchByYHKAcqBywHNQdO
+							B1MHXAdmB3IHhweJB4sH
+							jQePB5EHkwegB6UHqgev
+							B7QHvQfGB8sH1AfhB+YH
+							6AfqB+8H8QfzB/UH/ggH
+							CA0IDwgRCCYIKggwCDUI
+							Owg9CEIIRwhMCFEIWghj
+							CGgIcQh6CJAIlQirCLgI
+							vQi/CMEIxgjICMoIzAjU
+							CN0I3wjhCO4I8wj1CPcI
+							/Aj+CQAJAgkKCUkJTglQ
+							CVUJWglcCV4JYwllCWoJ
+							bwl0CXkJfgmACYUJjgmn
+							CakJqwmtCa8JsQmzCbUJ
+							twm5CbsJvQm/CcEJ0gnU
+							CdYJ2wndCe4J8AnyCfcJ
+							+QoKCgwKDgoTChUKJgoo
+							CioKLwoxCkIKRApGCksK
+							TQpeCmAKYgpnCmkKegp8
+							Cn4KgwqFCpYKmAqaCp8K
+							oQqyCrQKtgq7Cr0KzgrQ
+							CtIK1wrZCuoK7AruCvMK
+							9QsGCwgLCgsPCxELIgsv
+							CzQLNgs4Cz0LPwtBC0ML
+							SwtkC2YLaAtqC2wLbgtw
+							C3ULegt/C4QLjQujC6gL
+							vgvQC9UL6QAAAAAAAAIC
+							AAAAAAAAAY4AAAAAAAAA
+							AAAAAAAAAAvr
 							</data>
 							<key>constrainedWidth</key>
 							<integer>300</integer>
@@ -16055,8 +14485,8 @@
 {\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-{\field{\*\fldinst{HYPERLINK "http://z-wave.alsenet.com/index.php/Short_introduction_in_Z-Wave_terminology"}}{\fldrslt 
-\f0\fs24 \cf0 http://z-wave.alsenet.com/index.php/Short_introduction_in_Z-Wave_terminology}}}</string>
+
+\f0\fs24 \cf0 Short introduction in Z-Wave terminology {\field{\*\fldinst{HYPERLINK "http://z-wave.alsenet.com/index.php/Short_introduction_in_Z-Wave_terminology"}}{\fldrslt http://z-wave.alsenet.com/index.php/Short_introduction_in_Z-Wave_terminology}}}</string>
 						</dict>
 					</dict>
 				</array>
@@ -16196,7 +14626,7 @@
 				<key>location</key>
 				<string>{-1480.8954377905432, -393.5724013817042}</string>
 				<key>nodeID</key>
-				<string>95B53809-D38C-483C-9177-ACE28F7887FD</string>
+				<string>F8FB11E3-F93E-47A7-ABEE-AA0A6E71316E</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -16219,7 +14649,7 @@
 						<key>location</key>
 						<string>{-1313.8954377905432, -409.57240138170414}</string>
 						<key>nodeID</key>
-						<string>8CC8B701-A748-4135-9A81-8BCEA912F4C9</string>
+						<string>4C974953-68F2-4D1E-B3A8-A95265EDD889</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -16242,7 +14672,7 @@
 								<key>location</key>
 								<string>{-1154.8954377905432, -513.57240138170414}</string>
 								<key>nodeID</key>
-								<string>8743035D-DEDE-4D19-8A4E-C74E886F4990</string>
+								<string>39FAEDEE-F33B-4DE8-BD63-17394D0F6FA7</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -16594,7 +15024,7 @@
 								<key>location</key>
 								<string>{-1154.8954377905432, -396.57240138170414}</string>
 								<key>nodeID</key>
-								<string>453105F9-131D-4B2B-934E-D10323B31E63</string>
+								<string>6789FAAB-4565-48E6-8D20-0BDF6821BF5E</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -16617,7 +15047,7 @@
 										<key>location</key>
 										<string>{-887.89543779054316, -396.57240138170414}</string>
 										<key>nodeID</key>
-										<string>C81C3E19-2740-43A6-BEC1-4693A991DBB7</string>
+										<string>78FF1BA1-E8E7-45DA-AF96-55A52063F3EC</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.800, 0.400, 1.000}</string>
 										<key>strokeStyle</key>
@@ -16640,7 +15070,7 @@
 												<key>location</key>
 												<string>{-764.89543779054316, -487.57240138170414}</string>
 												<key>nodeID</key>
-												<string>25FDE12C-65BB-409B-8836-5EBE15515F59</string>
+												<string>4BD9D277-A257-48AA-97FC-2457C3E98C6F</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -16833,7 +15263,7 @@
 												<key>location</key>
 												<string>{-764.89543779054316, -461.57240138170414}</string>
 												<key>nodeID</key>
-												<string>E1425116-BBC1-436D-9CE7-A21E922E7B39</string>
+												<string>B70FF753-B875-4F64-9324-6AE4828CE0BC</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -17186,7 +15616,7 @@
 												<key>location</key>
 												<string>{-764.89543779054316, -435.57240138170414}</string>
 												<key>nodeID</key>
-												<string>3A4288CF-7128-45FB-9ED6-6C442BF0B292</string>
+												<string>49A3D744-0281-4A4C-A8EC-EEB74F86FECC</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -17540,7 +15970,7 @@
 												<key>location</key>
 												<string>{-764.89543779054316, -409.57240138170414}</string>
 												<key>nodeID</key>
-												<string>C0042576-DC65-453C-95EB-4E2903012BAE</string>
+												<string>E2798A18-8442-4F90-833B-A74FF5D3C285</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -17563,7 +15993,7 @@
 														<key>location</key>
 														<string>{-439.89543779054316, -409.57240138170414}</string>
 														<key>nodeID</key>
-														<string>1D885AAB-2AE2-45EE-8106-9A997901200A</string>
+														<string>8990E0FB-63A0-4053-9964-3D010868B079</string>
 														<key>strokeColor</key>
 														<string>{0.511, 0.409, 0.206, 1.000}</string>
 														<key>strokeStyle</key>
@@ -18249,7 +16679,7 @@
 												<key>location</key>
 												<string>{-764.89543779054316, -383.57240138170414}</string>
 												<key>nodeID</key>
-												<string>88ED93C5-212E-487A-BF51-D4646C8E8AEC</string>
+												<string>C6545B15-55E0-4050-81BA-B9D6EB536B67</string>
 												<key>strokeColor</key>
 												<string>{0.511, 0.409, 0.206, 1.000}</string>
 												<key>strokeStyle</key>
@@ -18602,7 +17032,7 @@
 												<key>location</key>
 												<string>{-764.89543779054316, -357.57240138170414}</string>
 												<key>nodeID</key>
-												<string>533AEDE2-4B89-4657-9955-4434583B72CB</string>
+												<string>A8123E4F-7551-4FD7-92FC-4F2CCC06C910</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.800, 0.400, 1.000}</string>
 												<key>strokeStyle</key>
@@ -18955,7 +17385,7 @@
 												<key>location</key>
 												<string>{-764.89543779054316, -331.57240138170414}</string>
 												<key>nodeID</key>
-												<string>1339947C-8227-4350-A4DD-257C2475C949</string>
+												<string>9A0196B2-417B-4BCF-9581-C36F68C3A945</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.800, 0.400, 1.000}</string>
 												<key>strokeStyle</key>
@@ -19309,7 +17739,7 @@
 												<key>location</key>
 												<string>{-764.89543779054316, -305.57240138170414}</string>
 												<key>nodeID</key>
-												<string>E0781C8D-9900-4904-8054-E04E3442D32B</string>
+												<string>7F19F4CA-FF27-42D6-8CB3-37DA8352E634</string>
 												<key>strokeColor</key>
 												<string>{1.000, 0.800, 0.400, 1.000}</string>
 												<key>strokeStyle</key>
@@ -20530,7 +18960,7 @@
 						<key>location</key>
 						<string>{-1313.8954377905432, -279.57240138170414}</string>
 						<key>nodeID</key>
-						<string>FDC4008A-BF3E-4593-B012-AEBC9017735E</string>
+						<string>4F69C8ED-FEAD-42C0-A7C3-93C5F91704B7</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -20553,7 +18983,7 @@
 								<key>location</key>
 								<string>{-1125.8954377905432, -279.57240138170414}</string>
 								<key>nodeID</key>
-								<string>007655A9-B811-4DDF-9BBC-1816D392A6AC</string>
+								<string>B593ECFF-889B-4071-B8D3-8B05E8004577</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -21111,7 +19541,7 @@
 						<key>location</key>
 						<string>{-1313.8954377905432, -253.57240138170414}</string>
 						<key>nodeID</key>
-						<string>71131D38-1B4E-438A-80E3-22A9AF7CC991</string>
+						<string>58A61A56-F8FE-40F9-9843-5DA85630FD74</string>
 						<key>strokeColor</key>
 						<string>{0.400, 1.000, 0.800, 1.000}</string>
 						<key>strokeStyle</key>
@@ -21134,7 +19564,7 @@
 								<key>location</key>
 								<string>{-1132.8954377905432, -253.57240138170414}</string>
 								<key>nodeID</key>
-								<string>C0E6CB91-57EF-47D5-AEB9-EBE2F2220C9C</string>
+								<string>0D22B0AC-3420-4809-8835-10592B4C7653</string>
 								<key>strokeColor</key>
 								<string>{0.400, 1.000, 0.800, 1.000}</string>
 								<key>strokeStyle</key>
@@ -21799,1348 +20229,6 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs26 \cf2 \up0 \obliqueness0 \expansion0 z-wave flow}</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>contentAlignment</key>
-				<integer>1</integer>
-				<key>fillColor</key>
-				<string>{1.000, 1.000, 1.000, 1.000}</string>
-				<key>isDecreasingBranchThickness</key>
-				<true/>
-				<key>isDrawingFill</key>
-				<true/>
-				<key>isLeftAligned</key>
-				<false/>
-				<key>location</key>
-				<string>{-1490.6906244003094, -985.56347278792759}</string>
-				<key>nodeID</key>
-				<string>5349E7A8-2E94-40E2-8FF7-D2BEDE7BF4A1</string>
-				<key>strokeColor</key>
-				<string>{0.500, 0.500, 0.500, 1.000}</string>
-				<key>strokeStyle</key>
-				<integer>0</integer>
-				<key>strokeWidth</key>
-				<real>2</real>
-				<key>subnodes</key>
-				<array>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1360.6906244003094, -1052.5634727879276}</string>
-						<key>nodeID</key>
-						<string>A3D1EB36-052B-485F-8951-C15A25C112DD</string>
-						<key>strokeColor</key>
-						<string>{0.800, 0.400, 1.000, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAAEAAgAD
-							AAQABQAGASoBK1gkdmVy
-							c2lvblgkb2JqZWN0c1kk
-							YXJjaGl2ZXJUJHRvcBIA
-							AYagrxA+AAcACAAPABAA
-							GwAkACUAJgAnAC0ALgAv
-							ADUAOABAAEEARwBIAEkA
-							UQBSAFgAWQBaAGIAYwCB
-							AJAAlwCbAKAApQCqAK8A
-							tAC5AL4AwwDIAM0A0gDV
-							ANYA1wDbAOMA5ADqAOsA
-							7AD0APUBAQECAQMBBwEP
-							ARABFAEeASIBJlUkbnVs
-							bNMACQAKAAsADAANAA5W
-							c3RyaW5nWmF0dHJpYnV0
-							ZXNWJGNsYXNzgAKAA4A9
-							XxBHU3RvcmUgY3VycmVu
-							dCBtZXNzYWdlIGZvciB2
-							ZXJpZmljYXRpb24gdGhh
-							dCBpdCBnZXRzIGEgbWF0
-							Y2hpbmcgcmVzcG9uc2XS
-							ABEACwASABpaTlMub2Jq
-							ZWN0c6cAEwAUABUAFgAX
-							ABgAGYAEgA2AEoAXgCyA
-							MYA3gCjTABwAEQALAB0A
-							IAAjV05TLmtleXOiAB4A
-							H4AFgAaiACEAIoAHgAiA
-							DF8QJGtNTkF0dHJpYnV0
-							ZWRTdHJpbmdBdHRyaWJ1
-							dGVSYW5nZUtleV8QKGtN
-							TkF0dHJpYnV0ZWRTdHJp
-							bmdBdHRyaWJ1dGVBdHRy
-							aWJ1dGVLZXlXezAsIDcx
-							fdMAHAARAAsAKAAqACyh
-							ACmACaEAK4AKgAtfEBBO
-							U0Jhc2VsaW5lT2Zmc2V0
-							IgAAAADSADAAMQAyADNa
-							JGNsYXNzbmFtZVgkY2xh
-							c3Nlc1xOU0RpY3Rpb25h
-							cnmiADIANFhOU09iamVj
-							dNIAMAAxADYAN18QE05T
-							TXV0YWJsZURpY3Rpb25h
-							cnmjADYAMgA00wAcABEA
-							CwA5ADwAI6IAHgAfgAWA
-							BqIAPQA+gA6AD4AMV3sw
-							LCA3MX3TABwAEQALAEIA
-							RAAsoQBDgBChAEWAEYAL
-							XxAPTlNTdHJpa2V0aHJv
-							dWdoEADTABwAEQALAEoA
-							TQAjogAeAB+ABYAGogBO
-							AE+AE4AUgAxXezAsIDcx
-							fdMAHAARAAsAUwBVACyh
-							AFSAFaEAVoAWgAtbTlNF
-							eHBhbnNpb24iAAAAANMA
-							HAARAAsAWwBeACOiAB4A
-							H4AFgAaiAF8AYIAYgBmA
-							DFd7MCwgNzF93xAPAGQA
-							ZQBmAGcAaAALAGkAagBr
-							AGwAbQBuAG8AcABxAHIA
-							cwB0AHUARQB3AHgAeQB6
-							AHsAfAB9AH4AfwCAXxAR
-							bWF4aW11bUxpbmVIZWln
-							aHRYdGFiU3RvcHNfEBBw
-							YXJhZ3JhcGhTcGFjaW5n
-							WmhlYWRJbmRlbnRdbGlu
-							ZUJyZWFrTW9kZVtsaW5l
-							U3BhY2luZ1lhbGlnbm1l
-							bnRadGFpbEluZGVudF8Q
-							EW1pbmltdW1MaW5lSGVp
-							Z2h0XxAWcGFyYWdyYXBo
-							U3BhY2luZ0JlZm9yZV8Q
-							EmRlZmF1bHRUYWJJbnRl
-							cnZhbF8QEmZpcnN0TGlu
-							ZUhlYWRJZGVudF8QFGJh
-							c2VXcml0aW5nRGlyZWN0
-							aW9uXxASbGluZUhlaWdo
-							dE11bHRpcGxlIgAAAACA
-							GiIAAAAAIgAAAACAEYAr
-							IgAAAACAKSIAAAAAIgAA
-							AAAiAAAAACIAAAAAIgAA
-							AACAKiIAAAAA0gARAAsA
-							ggAarACDAIQAhQCGAIcA
-							iACJAIoAiwCMAI0AjoAb
-							gB2AHoAfgCCAIYAigCOA
-							JIAlgCaAJ4Ao1ABqAJEA
-							kgALAEUAlACVAJZXb3B0
-							aW9uc1hsb2NhdGlvboAR
-							gAAiQeAAAIAc0gAwADEA
-							mACZW01OQVNUZXh0VGFi
-							ogCaADRbTU5BU1RleHRU
-							YWLUAGoAkQCSAAsARQCU
-							AJ4AloARgAAiQmAAAIAc
-							1ABqAJEAkgALAEUAlACj
-							AJaAEYAAIkKoAACAHNQA
-							agCRAJIACwBFAJQAqACW
-							gBGAACJC4AAAgBzUAGoA
-							kQCSAAsARQCUAK0AloAR
-							gAAiQwwAAIAc1ABqAJEA
-							kgALAEUAlACyAJaAEYAA
-							IkMoAACAHNQAagCRAJIA
-							CwBFAJQAtwCWgBGAACJD
-							RAAAgBzUAGoAkQCSAAsA
-							RQCUALwAloARgAAiQ2AA
-							AIAc1ABqAJEAkgALAEUA
-							lADBAJaAEYAAIkN8AACA
-							HNQAagCRAJIACwBFAJQA
-							xgCWgBGAACJDjAAAgBzU
-							AGoAkQCSAAsARQCUAMsA
-							loARgAAiQ5oAAIAc1ABq
-							AJEAkgALAEUAlADQAJaA
-							EYAAIkOoAACAHNIAMAAx
-							ANMA1FdOU0FycmF5ogDT
-							ADQQBBQAAAAAAAAAAP//
-							////////0gAwADEA2ADZ
-							XxATTU5BU1BhcmFncmFw
-							aHlTdHlsZaIA2gA0XxAT
-							TU5BU1BhcmFncmFwaHlT
-							dHlsZdMAHAARAAsA3ADf
-							ACOiAB4AH4AFgAaiAOAA
-							4YAtgC6ADFd7MCwgNzF9
-							0wAcABEACwDlAOcALKEA
-							5oAvoQDogDCAC11OU09i
-							bGlxdWVuZXNzIgAAAADT
-							ABwAEQALAO0A8AAjogAe
-							AB+ABYAGogDxAPKAMoAz
-							gAxXezAsIDcxfdYA9gD3
-							APgA+QD6AAsA+wD8AFYA
-							6AArAQBUc2l6ZVhmb250
-							TmFtZVlleHBhbnNpb25b
-							b2JsaXF1ZW5lc3NfEBJi
-							YXNlbGluZUFkanVzdG1l
-							bnSANYA0gBaAMIAKgDZc
-							THVjaWRhR3JhbmRlIkFA
-							AADSADAAMQEEAQVYTU5B
-							U0ZvbnSiAQYANFhNTkFT
-							Rm9udNMAHAARAAsBCAEL
-							ACOiAB4AH4AFgAaiAQwB
-							DYA4gDmADFd7MCwgNzF9
-							0gERAAsBEgETVWNvbG9y
-							gDqAPNUACwEVARYBFwEY
-							ARkBGgEbARwBHVNyZWRV
-							YWxwaGFUYmx1ZVVncmVl
-							boA7IgAAAAAiP4AAACIA
-							AAAAIgAAAADSADAAMQEf
-							ASBYTU5DQ29sb3KiASEA
-							NFhNTkNDb2xvctIAMAAx
-							ASMBJF8QE01OQVNGb3Jl
-							Z3JvdW5kQ29sb3KiASUA
-							NF8QE01OQVNGb3JlZ3Jv
-							dW5kQ29sb3LSADAAMQEn
-							AShfEBNNTkNBdHRyaWJ1
-							dGVkU3RyaW5nogEpADRf
-							EBNNTkNBdHRyaWJ1dGVk
-							U3RyaW5nXxAPTlNLZXll
-							ZEFyY2hpdmVy0QEsAS1f
-							EBFNTkMwZGVyUm9vdE9i
-							amVjdIABAAgAGQAiACsA
-							NQA6AD8AvgDEANEA2ADj
-							AOoA7ADuAPABOgFDAU4B
-							XQFfAWEBYwFlAWcBaQFr
-							AW0BegGCAYcBiQGLAZAB
-							kgGUAZYBvQHoAfAB/QIA
-							AgICBQIHAgkCHAIhAioC
-							NQI+AksCUAJZAmICeAJ/
-							AowCkQKTApUCmgKcAp4C
-							oAKoArUCuAK6Ar0CvwLB
-							AtMC1QLiAucC6QLrAvAC
-							8gL0AvYC/gMLAw4DEAMT
-							AxUDFwMjAygDNQM6AzwD
-							PgNDA0UDRwNJA1EDkAOk
-							A60DwAPLA9kD5QPvA/oE
-							DgQnBDwEUQRoBH0EggSE
-							BIkEjgSQBJIElwSZBJ4E
-							owSoBK0EsgS0BLkEwgTb
-							BN0E3wThBOME5QTnBOkE
-							6wTtBO8E8QTzBPUFBgUO
-							BRcFGQUbBSAFIgUrBTcF
-							PAVIBVkFWwVdBWIFZAV1
-							BXcFeQV+BYAFkQWTBZUF
-							mgWcBa0FrwWxBbYFuAXJ
-							BcsFzQXSBdQF5QXnBekF
-							7gXwBgEGAwYFBgoGDAYd
-							Bh8GIQYmBigGOQY7Bj0G
-							QgZEBlUGVwZZBl4GYAZx
-							BnMGdQZ6BnwGhQaNBpIG
-							lAalBq4GxAbJBt8G7Abx
-							BvMG9Qb6BvwG/gcABwgH
-							FQcYBxoHHQcfByEHLwc0
-							B0EHRgdIB0oHTwdRB1MH
-							VQddB3YHeweEB44Hmgev
-							B7EHswe1B7cHuQe7B8gH
-							zQfWB98H5AftB/oH/wgB
-							CAMICAgKCAwIDggWCB8I
-							JQgnCCkIPghCCEgITQhT
-							CFUIWghfCGQIaQhyCHsI
-							gAiJCJIIqAitCMMIzAji
-							COcI/QkPCRQJKAAAAAAA
-							AAICAAAAAAAAAS4AAAAA
-							AAAAAAAAAAAAAAkq
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf2 \up0 \obliqueness0 \expansion0 Store current message for verification that it gets a matching response}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1360.6906244003094, -1010.5634727879276}</string>
-						<key>nodeID</key>
-						<string>E4C03683-C5C7-414F-B79D-E9ADB8E8EA8F</string>
-						<key>strokeColor</key>
-						<string>{1.000, 0.800, 0.400, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAAEAAgAD
-							AAQABQAGASoBK1gkdmVy
-							c2lvblgkb2JqZWN0c1kk
-							YXJjaGl2ZXJUJHRvcBIA
-							AYagrxA+AAcACAAPABAA
-							GwAkACUAJgAnAC0ALgAv
-							ADUAOABAAEEARwBIAEkA
-							UQBSAFgAWQBaAGIAYwCB
-							AJAAlwCbAKAApQCqAK8A
-							tAC5AL4AwwDIAM0A0gDV
-							ANYA1wDbAOMA5ADqAOsA
-							7AD0APUBAQECAQMBBwEP
-							ARABFAEeASIBJlUkbnVs
-							bNMACQAKAAsADAANAA5W
-							c3RyaW5nWmF0dHJpYnV0
-							ZXNWJGNsYXNzgAKAA4A9
-							XxA/Q2hhbmdlIGFsbCBo
-							YW5kbGVyIGNsYXNzZXMg
-							dG8gY29tbWFuZCBjbGFz
-							c2VzIHcvbmV3IGFic3Ry
-							YWN0aW9u0gARAAsAEgAa
-							Wk5TLm9iamVjdHOnABMA
-							FAAVABYAFwAYABmABIAN
-							gBKAF4AsgDGAN4Ao0wAc
-							ABEACwAdACAAI1dOUy5r
-							ZXlzogAeAB+ABYAGogAh
-							ACKAB4AIgAxfECRrTU5B
-							dHRyaWJ1dGVkU3RyaW5n
-							QXR0cmlidXRlUmFuZ2VL
-							ZXlfEChrTU5BdHRyaWJ1
-							dGVkU3RyaW5nQXR0cmli
-							dXRlQXR0cmlidXRlS2V5
-							V3swLCA2M33TABwAEQAL
-							ACgAKgAsoQApgAmhACuA
-							CoALXxAQTlNCYXNlbGlu
-							ZU9mZnNldCIAAAAA0gAw
-							ADEAMgAzWiRjbGFzc25h
-							bWVYJGNsYXNzZXNcTlNE
-							aWN0aW9uYXJ5ogAyADRY
-							TlNPYmplY3TSADAAMQA2
-							ADdfEBNOU011dGFibGVE
-							aWN0aW9uYXJ5owA2ADIA
-							NNMAHAARAAsAOQA8ACOi
-							AB4AH4AFgAaiAD0APoAO
-							gA+ADFd7MCwgNjN90wAc
-							ABEACwBCAEQALKEAQ4AQ
-							oQBFgBGAC18QD05TU3Ry
-							aWtldGhyb3VnaBAA0wAc
-							ABEACwBKAE0AI6IAHgAf
-							gAWABqIATgBPgBOAFIAM
-							V3swLCA2M33TABwAEQAL
-							AFMAVQAsoQBUgBWhAFaA
-							FoALW05TRXhwYW5zaW9u
-							IgAAAADTABwAEQALAFsA
-							XgAjogAeAB+ABYAGogBf
-							AGCAGIAZgAxXezAsIDYz
-							fd8QDwBkAGUAZgBnAGgA
-							CwBpAGoAawBsAG0AbgBv
-							AHAAcQByAHMAdAB1AEUA
-							dwB4AHkAegB7AHwAfQB+
-							AH8AgF8QEW1heGltdW1M
-							aW5lSGVpZ2h0WHRhYlN0
-							b3BzXxAQcGFyYWdyYXBo
-							U3BhY2luZ1poZWFkSW5k
-							ZW50XWxpbmVCcmVha01v
-							ZGVbbGluZVNwYWNpbmdZ
-							YWxpZ25tZW50WnRhaWxJ
-							bmRlbnRfEBFtaW5pbXVt
-							TGluZUhlaWdodF8QFnBh
-							cmFncmFwaFNwYWNpbmdC
-							ZWZvcmVfEBJkZWZhdWx0
-							VGFiSW50ZXJ2YWxfEBJm
-							aXJzdExpbmVIZWFkSWRl
-							bnRfEBRiYXNlV3JpdGlu
-							Z0RpcmVjdGlvbl8QEmxp
-							bmVIZWlnaHRNdWx0aXBs
-							ZSIAAAAAgBoiAAAAACIA
-							AAAAgBGAKyIAAAAAgCki
-							AAAAACIAAAAAIgAAAAAi
-							AAAAACIAAAAAgCoiAAAA
-							ANIAEQALAIIAGqwAgwCE
-							AIUAhgCHAIgAiQCKAIsA
-							jACNAI6AG4AdgB6AH4Ag
-							gCGAIoAjgCSAJYAmgCeA
-							KNQAagCRAJIACwBFAJQA
-							lQCWV29wdGlvbnNYbG9j
-							YXRpb26AEYAAIkHgAACA
-							HNIAMAAxAJgAmVtNTkFT
-							VGV4dFRhYqIAmgA0W01O
-							QVNUZXh0VGFi1ABqAJEA
-							kgALAEUAlACeAJaAEYAA
-							IkJgAACAHNQAagCRAJIA
-							CwBFAJQAowCWgBGAACJC
-							qAAAgBzUAGoAkQCSAAsA
-							RQCUAKgAloARgAAiQuAA
-							AIAc1ABqAJEAkgALAEUA
-							lACtAJaAEYAAIkMMAACA
-							HNQAagCRAJIACwBFAJQA
-							sgCWgBGAACJDKAAAgBzU
-							AGoAkQCSAAsARQCUALcA
-							loARgAAiQ0QAAIAc1ABq
-							AJEAkgALAEUAlAC8AJaA
-							EYAAIkNgAACAHNQAagCR
-							AJIACwBFAJQAwQCWgBGA
-							ACJDfAAAgBzUAGoAkQCS
-							AAsARQCUAMYAloARgAAi
-							Q4wAAIAc1ABqAJEAkgAL
-							AEUAlADLAJaAEYAAIkOa
-							AACAHNQAagCRAJIACwBF
-							AJQA0ACWgBGAACJDqAAA
-							gBzSADAAMQDTANRXTlNB
-							cnJheaIA0wA0EAQUAAAA
-							AAAAAAD//////////9IA
-							MAAxANgA2V8QE01OQVNQ
-							YXJhZ3JhcGh5U3R5bGWi
-							ANoANF8QE01OQVNQYXJh
-							Z3JhcGh5U3R5bGXTABwA
-							EQALANwA3wAjogAeAB+A
-							BYAGogDgAOGALYAugAxX
-							ezAsIDYzfdMAHAARAAsA
-							5QDnACyhAOaAL6EA6IAw
-							gAtdTlNPYmxpcXVlbmVz
-							cyIAAAAA0wAcABEACwDt
-							APAAI6IAHgAfgAWABqIA
-							8QDygDKAM4AMV3swLCA2
-							M33WAPYA9wD4APkA+gAL
-							APsA/ABWAOgAKwEAVHNp
-							emVYZm9udE5hbWVZZXhw
-							YW5zaW9uW29ibGlxdWVu
-							ZXNzXxASYmFzZWxpbmVB
-							ZGp1c3RtZW50gDWANIAW
-							gDCACoA2XEx1Y2lkYUdy
-							YW5kZSJBQAAA0gAwADEB
-							BAEFWE1OQVNGb250ogEG
-							ADRYTU5BU0ZvbnTTABwA
-							EQALAQgBCwAjogAeAB+A
-							BYAGogEMAQ2AOIA5gAxX
-							ezAsIDYzfdIBEQALARIB
-							E1Vjb2xvcoA6gDzVAAsB
-							FQEWARcBGAEZARoBGwEc
-							AR1TcmVkVWFscGhhVGJs
-							dWVVZ3JlZW6AOyIAAAAA
-							Ij+AAAAiAAAAACIAAAAA
-							0gAwADEBHwEgWE1OQ0Nv
-							bG9yogEhADRYTU5DQ29s
-							b3LSADAAMQEjASRfEBNN
-							TkFTRm9yZWdyb3VuZENv
-							bG9yogElADRfEBNNTkFT
-							Rm9yZWdyb3VuZENvbG9y
-							0gAwADEBJwEoXxATTU5D
-							QXR0cmlidXRlZFN0cmlu
-							Z6IBKQA0XxATTU5DQXR0
-							cmlidXRlZFN0cmluZ18Q
-							D05TS2V5ZWRBcmNoaXZl
-							ctEBLAEtXxARTU5DMGRl
-							clJvb3RPYmplY3SAAQAI
-							ABkAIgArADUAOgA/AL4A
-							xADRANgA4wDqAOwA7gDw
-							ATIBOwFGAVUBVwFZAVsB
-							XQFfAWEBYwFlAXIBegF/
-							AYEBgwGIAYoBjAGOAbUB
-							4AHoAfUB+AH6Af0B/wIB
-							AhQCGQIiAi0CNgJDAkgC
-							UQJaAnACdwKEAokCiwKN
-							ApIClAKWApgCoAKtArAC
-							sgK1ArcCuQLLAs0C2gLf
-							AuEC4wLoAuoC7ALuAvYD
-							AwMGAwgDCwMNAw8DGwMg
-							Ay0DMgM0AzYDOwM9Az8D
-							QQNJA4gDnAOlA7gDwwPR
-							A90D5wPyBAYEHwQ0BEkE
-							YAR1BHoEfASBBIYEiASK
-							BI8EkQSWBJsEoASlBKoE
-							rASxBLoE0wTVBNcE2QTb
-							BN0E3wThBOME5QTnBOkE
-							6wTtBP4FBgUPBREFEwUY
-							BRoFIwUvBTQFQAVRBVMF
-							VQVaBVwFbQVvBXEFdgV4
-							BYkFiwWNBZIFlAWlBacF
-							qQWuBbAFwQXDBcUFygXM
-							Bd0F3wXhBeYF6AX5BfsF
-							/QYCBgQGFQYXBhkGHgYg
-							BjEGMwY1BjoGPAZNBk8G
-							UQZWBlgGaQZrBm0GcgZ0
-							Bn0GhQaKBowGnQamBrwG
-							wQbXBuQG6QbrBu0G8gb0
-							BvYG+AcABw0HEAcSBxUH
-							FwcZBycHLAc5Bz4HQAdC
-							B0cHSQdLB00HVQduB3MH
-							fAeGB5IHpwepB6sHrQev
-							B7EHswfAB8UHzgfXB9wH
-							5QfyB/cH+Qf7CAAIAggE
-							CAYIDggXCB0IHwghCDYI
-							OghACEUISwhNCFIIVwhc
-							CGEIaghzCHgIgQiKCKAI
-							pQi7CMQI2gjfCPUJBwkM
-							CSAAAAAAAAACAgAAAAAA
-							AAEuAAAAAAAAAAAAAAAA
-							AAAJIg==
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf2 \up0 \obliqueness0 \expansion0 Change all handler classes to command classes w/new abstraction}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1360.6906244003094, -968.56347278792759}</string>
-						<key>nodeID</key>
-						<string>1D2AEFE9-CC44-4922-A3CB-5ED3F64E42AE</string>
-						<key>strokeColor</key>
-						<string>{0.800, 1.000, 0.400, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAAEAAgAD
-							AAQABQAGASoBK1gkdmVy
-							c2lvblgkb2JqZWN0c1kk
-							YXJjaGl2ZXJUJHRvcBIA
-							AYagrxA+AAcACAAPABAA
-							GwAkACUAJgAnAC0ALgAv
-							ADUAOABAAEEARwBIAEkA
-							UQBSAFgAWQBaAGIAYwCB
-							AJAAlwCbAKAApQCqAK8A
-							tAC5AL4AwwDIAM0A0gDV
-							ANYA1wDbAOMA5ADqAOsA
-							7AD0APUBAQECAQMBBwEP
-							ARABFAEeASIBJlUkbnVs
-							bNMACQAKAAsADAANAA5W
-							c3RyaW5nWmF0dHJpYnV0
-							ZXNWJGNsYXNzgAKAA4A9
-							XxA+UGFyc2UgYWxsIG9m
-							IHRoZSBwbGF5SW5pdFNl
-							cXVlbmNlIG1lc3NhZ2Ug
-							cmVzcG9uc2VzIGluIERy
-							aXZlci7SABEACwASABpa
-							TlMub2JqZWN0c6cAEwAU
-							ABUAFgAXABgAGYAEgA2A
-							EoAXgCyAMYA3gCjTABwA
-							EQALAB0AIAAjV05TLmtl
-							eXOiAB4AH4AFgAaiACEA
-							IoAHgAiADF8QJGtNTkF0
-							dHJpYnV0ZWRTdHJpbmdB
-							dHRyaWJ1dGVSYW5nZUtl
-							eV8QKGtNTkF0dHJpYnV0
-							ZWRTdHJpbmdBdHRyaWJ1
-							dGVBdHRyaWJ1dGVLZXlX
-							ezAsIDYyfdMAHAARAAsA
-							KAAqACyhACmACaEAK4AK
-							gAtfEBBOU0Jhc2VsaW5l
-							T2Zmc2V0IgAAAADSADAA
-							MQAyADNaJGNsYXNzbmFt
-							ZVgkY2xhc3Nlc1xOU0Rp
-							Y3Rpb25hcnmiADIANFhO
-							U09iamVjdNIAMAAxADYA
-							N18QE05TTXV0YWJsZURp
-							Y3Rpb25hcnmjADYAMgA0
-							0wAcABEACwA5ADwAI6IA
-							HgAfgAWABqIAPQA+gA6A
-							D4AMV3swLCA2Mn3TABwA
-							EQALAEIARAAsoQBDgBCh
-							AEWAEYALXxAPTlNTdHJp
-							a2V0aHJvdWdoEADTABwA
-							EQALAEoATQAjogAeAB+A
-							BYAGogBOAE+AE4AUgAxX
-							ezAsIDYyfdMAHAARAAsA
-							UwBVACyhAFSAFaEAVoAW
-							gAtbTlNFeHBhbnNpb24i
-							AAAAANMAHAARAAsAWwBe
-							ACOiAB4AH4AFgAaiAF8A
-							YIAYgBmADFd7MCwgNjJ9
-							3xAPAGQAZQBmAGcAaAAL
-							AGkAagBrAGwAbQBuAG8A
-							cABxAHIAcwB0AHUARQB3
-							AHgAeQB6AHsAfAB9AH4A
-							fwCAXxARbWF4aW11bUxp
-							bmVIZWlnaHRYdGFiU3Rv
-							cHNfEBBwYXJhZ3JhcGhT
-							cGFjaW5nWmhlYWRJbmRl
-							bnRdbGluZUJyZWFrTW9k
-							ZVtsaW5lU3BhY2luZ1lh
-							bGlnbm1lbnRadGFpbElu
-							ZGVudF8QEW1pbmltdW1M
-							aW5lSGVpZ2h0XxAWcGFy
-							YWdyYXBoU3BhY2luZ0Jl
-							Zm9yZV8QEmRlZmF1bHRU
-							YWJJbnRlcnZhbF8QEmZp
-							cnN0TGluZUhlYWRJZGVu
-							dF8QFGJhc2VXcml0aW5n
-							RGlyZWN0aW9uXxASbGlu
-							ZUhlaWdodE11bHRpcGxl
-							IgAAAACAGiIAAAAAIgAA
-							AACAEYArIgAAAACAKSIA
-							AAAAIgAAAAAiAAAAACIA
-							AAAAIgAAAACAKiIAAAAA
-							0gARAAsAggAarACDAIQA
-							hQCGAIcAiACJAIoAiwCM
-							AI0AjoAbgB2AHoAfgCCA
-							IYAigCOAJIAlgCaAJ4Ao
-							1ABqAJEAkgALAEUAlACV
-							AJZXb3B0aW9uc1hsb2Nh
-							dGlvboARgAAiQeAAAIAc
-							0gAwADEAmACZW01OQVNU
-							ZXh0VGFiogCaADRbTU5B
-							U1RleHRUYWLUAGoAkQCS
-							AAsARQCUAJ4AloARgAAi
-							QmAAAIAc1ABqAJEAkgAL
-							AEUAlACjAJaAEYAAIkKo
-							AACAHNQAagCRAJIACwBF
-							AJQAqACWgBGAACJC4AAA
-							gBzUAGoAkQCSAAsARQCU
-							AK0AloARgAAiQwwAAIAc
-							1ABqAJEAkgALAEUAlACy
-							AJaAEYAAIkMoAACAHNQA
-							agCRAJIACwBFAJQAtwCW
-							gBGAACJDRAAAgBzUAGoA
-							kQCSAAsARQCUALwAloAR
-							gAAiQ2AAAIAc1ABqAJEA
-							kgALAEUAlADBAJaAEYAA
-							IkN8AACAHNQAagCRAJIA
-							CwBFAJQAxgCWgBGAACJD
-							jAAAgBzUAGoAkQCSAAsA
-							RQCUAMsAloARgAAiQ5oA
-							AIAc1ABqAJEAkgALAEUA
-							lADQAJaAEYAAIkOoAACA
-							HNIAMAAxANMA1FdOU0Fy
-							cmF5ogDTADQQBBQAAAAA
-							AAAAAP//////////0gAw
-							ADEA2ADZXxATTU5BU1Bh
-							cmFncmFwaHlTdHlsZaIA
-							2gA0XxATTU5BU1BhcmFn
-							cmFwaHlTdHlsZdMAHAAR
-							AAsA3ADfACOiAB4AH4AF
-							gAaiAOAA4YAtgC6ADFd7
-							MCwgNjJ90wAcABEACwDl
-							AOcALKEA5oAvoQDogDCA
-							C11OU09ibGlxdWVuZXNz
-							IgAAAADTABwAEQALAO0A
-							8AAjogAeAB+ABYAGogDx
-							APKAMoAzgAxXezAsIDYy
-							fdYA9gD3APgA+QD6AAsA
-							+wD8AFYA6AArAQBUc2l6
-							ZVhmb250TmFtZVlleHBh
-							bnNpb25bb2JsaXF1ZW5l
-							c3NfEBJiYXNlbGluZUFk
-							anVzdG1lbnSANYA0gBaA
-							MIAKgDZcTHVjaWRhR3Jh
-							bmRlIkFAAADSADAAMQEE
-							AQVYTU5BU0ZvbnSiAQYA
-							NFhNTkFTRm9udNMAHAAR
-							AAsBCAELACOiAB4AH4AF
-							gAaiAQwBDYA4gDmADFd7
-							MCwgNjJ90gERAAsBEgET
-							VWNvbG9ygDqAPNUACwEV
-							ARYBFwEYARkBGgEbARwB
-							HVNyZWRVYWxwaGFUYmx1
-							ZVVncmVlboA7IgAAAAAi
-							P4AAACIAAAAAIgAAAADS
-							ADAAMQEfASBYTU5DQ29s
-							b3KiASEANFhNTkNDb2xv
-							ctIAMAAxASMBJF8QE01O
-							QVNGb3JlZ3JvdW5kQ29s
-							b3KiASUANF8QE01OQVNG
-							b3JlZ3JvdW5kQ29sb3LS
-							ADAAMQEnAShfEBNNTkNB
-							dHRyaWJ1dGVkU3RyaW5n
-							ogEpADRfEBNNTkNBdHRy
-							aWJ1dGVkU3RyaW5nXxAP
-							TlNLZXllZEFyY2hpdmVy
-							0QEsAS1fEBFNTkMwZGVy
-							Um9vdE9iamVjdIABAAgA
-							GQAiACsANQA6AD8AvgDE
-							ANEA2ADjAOoA7ADuAPAB
-							MQE6AUUBVAFWAVgBWgFc
-							AV4BYAFiAWQBcQF5AX4B
-							gAGCAYcBiQGLAY0BtAHf
-							AecB9AH3AfkB/AH+AgAC
-							EwIYAiECLAI1AkICRwJQ
-							AlkCbwJ2AoMCiAKKAowC
-							kQKTApUClwKfAqwCrwKx
-							ArQCtgK4AsoCzALZAt4C
-							4ALiAucC6QLrAu0C9QMC
-							AwUDBwMKAwwDDgMaAx8D
-							LAMxAzMDNQM6AzwDPgNA
-							A0gDhwObA6QDtwPCA9AD
-							3APmA/EEBQQeBDMESARf
-							BHQEeQR7BIAEhQSHBIkE
-							jgSQBJUEmgSfBKQEqQSr
-							BLAEuQTSBNQE1gTYBNoE
-							3ATeBOAE4gTkBOYE6ATq
-							BOwE/QUFBQ4FEAUSBRcF
-							GQUiBS4FMwU/BVAFUgVU
-							BVkFWwVsBW4FcAV1BXcF
-							iAWKBYwFkQWTBaQFpgWo
-							Ba0FrwXABcIFxAXJBcsF
-							3AXeBeAF5QXnBfgF+gX8
-							BgEGAwYUBhYGGAYdBh8G
-							MAYyBjQGOQY7BkwGTgZQ
-							BlUGVwZoBmoGbAZxBnMG
-							fAaEBokGiwacBqUGuwbA
-							BtYG4wboBuoG7AbxBvMG
-							9Qb3Bv8HDAcPBxEHFAcW
-							BxgHJgcrBzgHPQc/B0EH
-							RgdIB0oHTAdUB20Hcgd7
-							B4UHkQemB6gHqgesB64H
-							sAeyB78HxAfNB9YH2wfk
-							B/EH9gf4B/oH/wgBCAMI
-							BQgNCBYIHAgeCCAINQg5
-							CD8IRAhKCEwIUQhWCFsI
-							YAhpCHIIdwiACIkInwik
-							CLoIwwjZCN4I9AkGCQsJ
-							HwAAAAAAAAICAAAAAAAA
-							AS4AAAAAAAAAAAAAAAAA
-							AAkh
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf2 \up0 \obliqueness0 \expansion0 Parse all of the playInitSequence message responses in Driver.}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1360.6906244003094, -926.56347278792759}</string>
-						<key>nodeID</key>
-						<string>00D30C37-9B25-40DF-A7F8-990792D8CEB1</string>
-						<key>strokeColor</key>
-						<string>{0.400, 0.800, 1.000, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAAEAAgAD
-							AAQABQAGASoBK1gkdmVy
-							c2lvblgkb2JqZWN0c1kk
-							YXJjaGl2ZXJUJHRvcBIA
-							AYagrxA+AAcACAAPABAA
-							GwAkACUAJgAnAC0ALgAv
-							ADUAOABAAEEARwBIAEkA
-							UQBSAFgAWQBaAGIAYwCB
-							AJAAlwCbAKAApQCqAK8A
-							tAC5AL4AwwDIAM0A0gDV
-							ANYA1wDbAOMA5ADqAOsA
-							7AD0APUBAQECAQMBBwEP
-							ARABFAEeASIBJlUkbnVs
-							bNMACQAKAAsADAANAA5W
-							c3RyaW5nWmF0dHJpYnV0
-							ZXNWJGNsYXNzgAKAA4A9
-							XxAuQ3JlYXRlIGEgbmV3
-							IG1lc3NhZ2UgZnJvbSBp
-							bmNvbWluZyBkYXRhIGJ1
-							ZmZlctIAEQALABIAGlpO
-							Uy5vYmplY3RzpwATABQA
-							FQAWABcAGAAZgASADYAS
-							gBeALIAxgDeAKNMAHAAR
-							AAsAHQAgACNXTlMua2V5
-							c6IAHgAfgAWABqIAIQAi
-							gAeACIAMXxAka01OQXR0
-							cmlidXRlZFN0cmluZ0F0
-							dHJpYnV0ZVJhbmdlS2V5
-							XxAoa01OQXR0cmlidXRl
-							ZFN0cmluZ0F0dHJpYnV0
-							ZUF0dHJpYnV0ZUtleVd7
-							MCwgNDZ90wAcABEACwAo
-							ACoALKEAKYAJoQArgAqA
-							C18QEE5TQmFzZWxpbmVP
-							ZmZzZXQiAAAAANIAMAAx
-							ADIAM1okY2xhc3NuYW1l
-							WCRjbGFzc2VzXE5TRGlj
-							dGlvbmFyeaIAMgA0WE5T
-							T2JqZWN00gAwADEANgA3
-							XxATTlNNdXRhYmxlRGlj
-							dGlvbmFyeaMANgAyADTT
-							ABwAEQALADkAPAAjogAe
-							AB+ABYAGogA9AD6ADoAP
-							gAxXezAsIDQ2fdMAHAAR
-							AAsAQgBEACyhAEOAEKEA
-							RYARgAtfEA9OU1N0cmlr
-							ZXRocm91Z2gQANMAHAAR
-							AAsASgBNACOiAB4AH4AF
-							gAaiAE4AT4ATgBSADFd7
-							MCwgNDZ90wAcABEACwBT
-							AFUALKEAVIAVoQBWgBaA
-							C1tOU0V4cGFuc2lvbiIA
-							AAAA0wAcABEACwBbAF4A
-							I6IAHgAfgAWABqIAXwBg
-							gBiAGYAMV3swLCA0Nn3f
-							EA8AZABlAGYAZwBoAAsA
-							aQBqAGsAbABtAG4AbwBw
-							AHEAcgBzAHQAdQBFAHcA
-							eAB5AHoAewB8AH0AfgB/
-							AIBfEBFtYXhpbXVtTGlu
-							ZUhlaWdodFh0YWJTdG9w
-							c18QEHBhcmFncmFwaFNw
-							YWNpbmdaaGVhZEluZGVu
-							dF1saW5lQnJlYWtNb2Rl
-							W2xpbmVTcGFjaW5nWWFs
-							aWdubWVudFp0YWlsSW5k
-							ZW50XxARbWluaW11bUxp
-							bmVIZWlnaHRfEBZwYXJh
-							Z3JhcGhTcGFjaW5nQmVm
-							b3JlXxASZGVmYXVsdFRh
-							YkludGVydmFsXxASZmly
-							c3RMaW5lSGVhZElkZW50
-							XxAUYmFzZVdyaXRpbmdE
-							aXJlY3Rpb25fEBJsaW5l
-							SGVpZ2h0TXVsdGlwbGUi
-							AAAAAIAaIgAAAAAiAAAA
-							AIARgCsiAAAAAIApIgAA
-							AAAiAAAAACIAAAAAIgAA
-							AAAiAAAAAIAqIgAAAADS
-							ABEACwCCABqsAIMAhACF
-							AIYAhwCIAIkAigCLAIwA
-							jQCOgBuAHYAegB+AIIAh
-							gCKAI4AkgCWAJoAngCjU
-							AGoAkQCSAAsARQCUAJUA
-							lldvcHRpb25zWGxvY2F0
-							aW9ugBGAACJB4AAAgBzS
-							ADAAMQCYAJlbTU5BU1Rl
-							eHRUYWKiAJoANFtNTkFT
-							VGV4dFRhYtQAagCRAJIA
-							CwBFAJQAngCWgBGAACJC
-							YAAAgBzUAGoAkQCSAAsA
-							RQCUAKMAloARgAAiQqgA
-							AIAc1ABqAJEAkgALAEUA
-							lACoAJaAEYAAIkLgAACA
-							HNQAagCRAJIACwBFAJQA
-							rQCWgBGAACJDDAAAgBzU
-							AGoAkQCSAAsARQCUALIA
-							loARgAAiQygAAIAc1ABq
-							AJEAkgALAEUAlAC3AJaA
-							EYAAIkNEAACAHNQAagCR
-							AJIACwBFAJQAvACWgBGA
-							ACJDYAAAgBzUAGoAkQCS
-							AAsARQCUAMEAloARgAAi
-							Q3wAAIAc1ABqAJEAkgAL
-							AEUAlADGAJaAEYAAIkOM
-							AACAHNQAagCRAJIACwBF
-							AJQAywCWgBGAACJDmgAA
-							gBzUAGoAkQCSAAsARQCU
-							ANAAloARgAAiQ6gAAIAc
-							0gAwADEA0wDUV05TQXJy
-							YXmiANMANBAEFAAAAAAA
-							AAAA///////////SADAA
-							MQDYANlfEBNNTkFTUGFy
-							YWdyYXBoeVN0eWxlogDa
-							ADRfEBNNTkFTUGFyYWdy
-							YXBoeVN0eWxl0wAcABEA
-							CwDcAN8AI6IAHgAfgAWA
-							BqIA4ADhgC2ALoAMV3sw
-							LCA0Nn3TABwAEQALAOUA
-							5wAsoQDmgC+hAOiAMIAL
-							XU5TT2JsaXF1ZW5lc3Mi
-							AAAAANMAHAARAAsA7QDw
-							ACOiAB4AH4AFgAaiAPEA
-							8oAygDOADFd7MCwgNDZ9
-							1gD2APcA+AD5APoACwD7
-							APwAVgDoACsBAFRzaXpl
-							WGZvbnROYW1lWWV4cGFu
-							c2lvbltvYmxpcXVlbmVz
-							c18QEmJhc2VsaW5lQWRq
-							dXN0bWVudIA1gDSAFoAw
-							gAqANlxMdWNpZGFHcmFu
-							ZGUiQUAAANIAMAAxAQQB
-							BVhNTkFTRm9udKIBBgA0
-							WE1OQVNGb2500wAcABEA
-							CwEIAQsAI6IAHgAfgAWA
-							BqIBDAENgDiAOYAMV3sw
-							LCA0Nn3SAREACwESARNV
-							Y29sb3KAOoA81QALARUB
-							FgEXARgBGQEaARsBHAEd
-							U3JlZFVhbHBoYVRibHVl
-							VWdyZWVugDsiAAAAACI/
-							gAAAIgAAAAAiAAAAANIA
-							MAAxAR8BIFhNTkNDb2xv
-							cqIBIQA0WE1OQ0NvbG9y
-							0gAwADEBIwEkXxATTU5B
-							U0ZvcmVncm91bmRDb2xv
-							cqIBJQA0XxATTU5BU0Zv
-							cmVncm91bmRDb2xvctIA
-							MAAxAScBKF8QE01OQ0F0
-							dHJpYnV0ZWRTdHJpbmei
-							ASkANF8QE01OQ0F0dHJp
-							YnV0ZWRTdHJpbmdfEA9O
-							U0tleWVkQXJjaGl2ZXLR
-							ASwBLV8QEU1OQzBkZXJS
-							b290T2JqZWN0gAEACAAZ
-							ACIAKwA1ADoAPwC+AMQA
-							0QDYAOMA6gDsAO4A8AEh
-							ASoBNQFEAUYBSAFKAUwB
-							TgFQAVIBVAFhAWkBbgFw
-							AXIBdwF5AXsBfQGkAc8B
-							1wHkAecB6QHsAe4B8AID
-							AggCEQIcAiUCMgI3AkAC
-							SQJfAmYCcwJ4AnoCfAKB
-							AoMChQKHAo8CnAKfAqEC
-							pAKmAqgCugK8AskCzgLQ
-							AtIC1wLZAtsC3QLlAvIC
-							9QL3AvoC/AL+AwoDDwMc
-							AyEDIwMlAyoDLAMuAzAD
-							OAN3A4sDlAOnA7IDwAPM
-							A9YD4QP1BA4EIwQ4BE8E
-							ZARpBGsEcAR1BHcEeQR+
-							BIAEhQSKBI8ElASZBJsE
-							oASpBMIExATGBMgEygTM
-							BM4E0ATSBNQE1gTYBNoE
-							3ATtBPUE/gUABQIFBwUJ
-							BRIFHgUjBS8FQAVCBUQF
-							SQVLBVwFXgVgBWUFZwV4
-							BXoFfAWBBYMFlAWWBZgF
-							nQWfBbAFsgW0BbkFuwXM
-							Bc4F0AXVBdcF6AXqBewF
-							8QXzBgQGBgYIBg0GDwYg
-							BiIGJAYpBisGPAY+BkAG
-							RQZHBlgGWgZcBmEGYwZs
-							BnQGeQZ7BowGlQarBrAG
-							xgbTBtgG2gbcBuEG4wbl
-							BucG7wb8Bv8HAQcEBwYH
-							CAcWBxsHKActBy8HMQc2
-							BzgHOgc8B0QHXQdiB2sH
-							dQeBB5YHmAeaB5wHngeg
-							B6IHrwe0B70HxgfLB9QH
-							4QfmB+gH6gfvB/EH8wf1
-							B/0IBggMCA4IEAglCCkI
-							Lwg0CDoIPAhBCEYISwhQ
-							CFkIYghnCHAIeQiPCJQI
-							qgizCMkIzgjkCPYI+wkP
-							AAAAAAAAAgIAAAAAAAAB
-							LgAAAAAAAAAAAAAAAAAA
-							CRE=
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf2 \up0 \obliqueness0 \expansion0 Create a new message from incoming data buffer}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1360.6906244003094, -899.56347278792759}</string>
-						<key>nodeID</key>
-						<string>B4DC3CDE-231D-4B3B-9432-A6D7499C37CA</string>
-						<key>strokeColor</key>
-						<string>{0.400, 1.000, 0.800, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>attributedText</key>
-							<data>
-							YnBsaXN0MDDUAAEAAgAD
-							AAQABQAGASoBK1gkdmVy
-							c2lvblgkb2JqZWN0c1kk
-							YXJjaGl2ZXJUJHRvcBIA
-							AYagrxA+AAcACAAPABAA
-							GwAkACUAJgAnAC0ALgAv
-							ADUAOABAAEEARwBIAEkA
-							UQBSAFgAWQBaAGIAYwCB
-							AJAAlwCbAKAApQCqAK8A
-							tAC5AL4AwwDIAM0A0gDV
-							ANYA1wDbAOMA5ADqAOsA
-							7AD0APUBAQECAQMBBwEP
-							ARABFAEeASIBJlUkbnVs
-							bNMACQAKAAsADAANAA5W
-							c3RyaW5nWmF0dHJpYnV0
-							ZXNWJGNsYXNzgAKAA4A9
-							XxAmQWRkIGNoZWNrc3Vt
-							IHZlcmlmeSB0byBtZXNz
-							YWdlIHJlY2VpdmXSABEA
-							CwASABpaTlMub2JqZWN0
-							c6cAEwAUABUAFgAXABgA
-							GYAEgA2AEoAXgCyAMYA3
-							gCjTABwAEQALAB0AIAAj
-							V05TLmtleXOiAB4AH4AF
-							gAaiACEAIoAHgAiADF8Q
-							JGtNTkF0dHJpYnV0ZWRT
-							dHJpbmdBdHRyaWJ1dGVS
-							YW5nZUtleV8QKGtNTkF0
-							dHJpYnV0ZWRTdHJpbmdB
-							dHRyaWJ1dGVBdHRyaWJ1
-							dGVLZXlXezAsIDM4fdMA
-							HAARAAsAKAAqACyhACmA
-							CaEAK4AKgAtfEBBOU0Jh
-							c2VsaW5lT2Zmc2V0IgAA
-							AADSADAAMQAyADNaJGNs
-							YXNzbmFtZVgkY2xhc3Nl
-							c1xOU0RpY3Rpb25hcnmi
-							ADIANFhOU09iamVjdNIA
-							MAAxADYAN18QE05TTXV0
-							YWJsZURpY3Rpb25hcnmj
-							ADYAMgA00wAcABEACwA5
-							ADwAI6IAHgAfgAWABqIA
-							PQA+gA6AD4AMV3swLCAz
-							OH3TABwAEQALAEIARAAs
-							oQBDgBChAEWAEYALXxAP
-							TlNTdHJpa2V0aHJvdWdo
-							EADTABwAEQALAEoATQAj
-							ogAeAB+ABYAGogBOAE+A
-							E4AUgAxXezAsIDM4fdMA
-							HAARAAsAUwBVACyhAFSA
-							FaEAVoAWgAtbTlNFeHBh
-							bnNpb24iAAAAANMAHAAR
-							AAsAWwBeACOiAB4AH4AF
-							gAaiAF8AYIAYgBmADFd7
-							MCwgMzh93xAPAGQAZQBm
-							AGcAaAALAGkAagBrAGwA
-							bQBuAG8AcABxAHIAcwB0
-							AHUARQB3AHgAeQB6AHsA
-							fAB9AH4AfwCAXxARbWF4
-							aW11bUxpbmVIZWlnaHRY
-							dGFiU3RvcHNfEBBwYXJh
-							Z3JhcGhTcGFjaW5nWmhl
-							YWRJbmRlbnRdbGluZUJy
-							ZWFrTW9kZVtsaW5lU3Bh
-							Y2luZ1lhbGlnbm1lbnRa
-							dGFpbEluZGVudF8QEW1p
-							bmltdW1MaW5lSGVpZ2h0
-							XxAWcGFyYWdyYXBoU3Bh
-							Y2luZ0JlZm9yZV8QEmRl
-							ZmF1bHRUYWJJbnRlcnZh
-							bF8QEmZpcnN0TGluZUhl
-							YWRJZGVudF8QFGJhc2VX
-							cml0aW5nRGlyZWN0aW9u
-							XxASbGluZUhlaWdodE11
-							bHRpcGxlIgAAAACAGiIA
-							AAAAIgAAAACAEYArIgAA
-							AACAKSIAAAAAIgAAAAAi
-							AAAAACIAAAAAIgAAAACA
-							KiIAAAAA0gARAAsAggAa
-							rACDAIQAhQCGAIcAiACJ
-							AIoAiwCMAI0AjoAbgB2A
-							HoAfgCCAIYAigCOAJIAl
-							gCaAJ4Ao1ABqAJEAkgAL
-							AEUAlACVAJZXb3B0aW9u
-							c1hsb2NhdGlvboARgAAi
-							QeAAAIAc0gAwADEAmACZ
-							W01OQVNUZXh0VGFiogCa
-							ADRbTU5BU1RleHRUYWLU
-							AGoAkQCSAAsARQCUAJ4A
-							loARgAAiQmAAAIAc1ABq
-							AJEAkgALAEUAlACjAJaA
-							EYAAIkKoAACAHNQAagCR
-							AJIACwBFAJQAqACWgBGA
-							ACJC4AAAgBzUAGoAkQCS
-							AAsARQCUAK0AloARgAAi
-							QwwAAIAc1ABqAJEAkgAL
-							AEUAlACyAJaAEYAAIkMo
-							AACAHNQAagCRAJIACwBF
-							AJQAtwCWgBGAACJDRAAA
-							gBzUAGoAkQCSAAsARQCU
-							ALwAloARgAAiQ2AAAIAc
-							1ABqAJEAkgALAEUAlADB
-							AJaAEYAAIkN8AACAHNQA
-							agCRAJIACwBFAJQAxgCW
-							gBGAACJDjAAAgBzUAGoA
-							kQCSAAsARQCUAMsAloAR
-							gAAiQ5oAAIAc1ABqAJEA
-							kgALAEUAlADQAJaAEYAA
-							IkOoAACAHNIAMAAxANMA
-							1FdOU0FycmF5ogDTADQQ
-							BBQAAAAAAAAAAP//////
-							////0gAwADEA2ADZXxAT
-							TU5BU1BhcmFncmFwaHlT
-							dHlsZaIA2gA0XxATTU5B
-							U1BhcmFncmFwaHlTdHls
-							ZdMAHAARAAsA3ADfACOi
-							AB4AH4AFgAaiAOAA4YAt
-							gC6ADFd7MCwgMzh90wAc
-							ABEACwDlAOcALKEA5oAv
-							oQDogDCAC11OU09ibGlx
-							dWVuZXNzIgAAAADTABwA
-							EQALAO0A8AAjogAeAB+A
-							BYAGogDxAPKAMoAzgAxX
-							ezAsIDM4fdYA9gD3APgA
-							+QD6AAsA+wD8AFYA6AAr
-							AQBUc2l6ZVhmb250TmFt
-							ZVlleHBhbnNpb25bb2Js
-							aXF1ZW5lc3NfEBJiYXNl
-							bGluZUFkanVzdG1lbnSA
-							NYA0gBaAMIAKgDZcTHVj
-							aWRhR3JhbmRlIkFAAADS
-							ADAAMQEEAQVYTU5BU0Zv
-							bnSiAQYANFhNTkFTRm9u
-							dNMAHAARAAsBCAELACOi
-							AB4AH4AFgAaiAQwBDYA4
-							gDmADFd7MCwgMzh90gER
-							AAsBEgETVWNvbG9ygDqA
-							PNUACwEVARYBFwEYARkB
-							GgEbARwBHVNyZWRVYWxw
-							aGFUYmx1ZVVncmVlboA7
-							IgAAAAAiP4AAACIAAAAA
-							IgAAAADSADAAMQEfASBY
-							TU5DQ29sb3KiASEANFhN
-							TkNDb2xvctIAMAAxASMB
-							JF8QE01OQVNGb3JlZ3Jv
-							dW5kQ29sb3KiASUANF8Q
-							E01OQVNGb3JlZ3JvdW5k
-							Q29sb3LSADAAMQEnAShf
-							EBNNTkNBdHRyaWJ1dGVk
-							U3RyaW5nogEpADRfEBNN
-							TkNBdHRyaWJ1dGVkU3Ry
-							aW5nXxAPTlNLZXllZEFy
-							Y2hpdmVy0QEsAS1fEBFN
-							TkMwZGVyUm9vdE9iamVj
-							dIABAAgAGQAiACsANQA6
-							AD8AvgDEANEA2ADjAOoA
-							7ADuAPABGQEiAS0BPAE+
-							AUABQgFEAUYBSAFKAUwB
-							WQFhAWYBaAFqAW8BcQFz
-							AXUBnAHHAc8B3AHfAeEB
-							5AHmAegB+wIAAgkCFAId
-							AioCLwI4AkECVwJeAmsC
-							cAJyAnQCeQJ7An0CfwKH
-							ApQClwKZApwCngKgArIC
-							tALBAsYCyALKAs8C0QLT
-							AtUC3QLqAu0C7wLyAvQC
-							9gMCAwcDFAMZAxsDHQMi
-							AyQDJgMoAzADbwODA4wD
-							nwOqA7gDxAPOA9kD7QQG
-							BBsEMARHBFwEYQRjBGgE
-							bQRvBHEEdgR4BH0EggSH
-							BIwEkQSTBJgEoQS6BLwE
-							vgTABMIExATGBMgEygTM
-							BM4E0ATSBNQE5QTtBPYE
-							+AT6BP8FAQUKBRYFGwUn
-							BTgFOgU8BUEFQwVUBVYF
-							WAVdBV8FcAVyBXQFeQV7
-							BYwFjgWQBZUFlwWoBaoF
-							rAWxBbMFxAXGBcgFzQXP
-							BeAF4gXkBekF6wX8Bf4G
-							AAYFBgcGGAYaBhwGIQYj
-							BjQGNgY4Bj0GPwZQBlIG
-							VAZZBlsGZAZsBnEGcwaE
-							Bo0GowaoBr4GywbQBtIG
-							1AbZBtsG3QbfBucG9Ab3
-							BvkG/Ab+BwAHDgcTByAH
-							JQcnBykHLgcwBzIHNAc8
-							B1UHWgdjB20HeQeOB5AH
-							kgeUB5YHmAeaB6cHrAe1
-							B74HwwfMB9kH3gfgB+IH
-							5wfpB+sH7Qf1B/4IBAgG
-							CAgIHQghCCcILAgyCDQI
-							OQg+CEMISAhRCFoIXwho
-							CHEIhwiMCKIIqwjBCMYI
-							3AjuCPMJBwAAAAAAAAIC
-							AAAAAAAAAS4AAAAAAAAA
-							AAAAAAAAAAkJ
-							</data>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs24 \cf2 \up0 \obliqueness0 \expansion0 Add checksum verify to message receive}</string>
-						</dict>
-					</dict>
-				</array>
-				<key>title</key>
-				<dict>
-					<key>attributedText</key>
-					<data>
-					YnBsaXN0MDDUAAEAAgADAAQABQAGARkBGlgk
-					dmVyc2lvblgkb2JqZWN0c1kkYXJjaGl2ZXJU
-					JHRvcBIAAYagrxA6AAcACAAPABAAGgAjACQA
-					JQAmACoANAA7AD8AQwBLAEwAUgBTAFQAVgBe
-					AF8AawBsAG0AbgBvAHMAewB8AIIAgwCLAIwA
-					qgC5AMAAwQDFAMoAzwDUANkA3gDjAOgA7QDy
-					APcA/AD/AQABAQEFAQ0BDgEUARVVJG51bGzT
-					AAkACgALAAwADQAOVnN0cmluZ1phdHRyaWJ1
-					dGVzViRjbGFzc4ACgAOAOVREb25l0gARAAsA
-					EgAZWk5TLm9iamVjdHOmABMAFAAVABYAFwAY
-					gASADYATgBuAH4A1gDHTABsAEQALABwAHwAi
-					V05TLmtleXOiAB0AHoAFgAaiACAAIYAHgAiA
-					DF8QJGtNTkF0dHJpYnV0ZWRTdHJpbmdBdHRy
-					aWJ1dGVSYW5nZUtleV8QKGtNTkF0dHJpYnV0
-					ZWRTdHJpbmdBdHRyaWJ1dGVBdHRyaWJ1dGVL
-					ZXlWezAsIDR90gAnAAsAKAApVWNvbG9ygAmA
-					C9UACwArACwALQAuAC8AMAAxADIAM1NyZWRV
-					YWxwaGFUYmx1ZVVncmVlboAKIgAAAAAiP4AA
-					ACIAAAAAIgAAAADSADUANgA3ADhaJGNsYXNz
-					bmFtZVgkY2xhc3Nlc1hNTkNDb2xvcqIAOQA6
-					WE1OQ0NvbG9yWE5TT2JqZWN00gA1ADYAPAA9
-					XxATTU5BU0ZvcmVncm91bmRDb2xvcqIAPgA6
-					XxATTU5BU0ZvcmVncm91bmRDb2xvctIANQA2
-					AEAAQV8QE05TTXV0YWJsZURpY3Rpb25hcnmj
-					AEAAQgA6XE5TRGljdGlvbmFyedMAGwARAAsA
-					RABHACKiAB0AHoAFgAaiAEgASYAOgA+ADFZ7
-					MCwgNH3TABsAEQALAE0ATwBRoQBOgBChAFCA
-					EYASW05TRXhwYW5zaW9uIgAAAADSADUANgBC
-					AFWiAEIAOtMAGwARAAsAVwBaACKiAB0AHoAF
-					gAaiAFsAXIAUgBWADFZ7MCwgNH3WAGAAYQBi
-					AGMAZAALAGUAZgBQAGgAaQBqVHNpemVYZm9u
-					dE5hbWVZZXhwYW5zaW9uW29ibGlxdWVuZXNz
-					XxASYmFzZWxpbmVBZGp1c3RtZW50gBeAFoAR
-					gBmAGIAaXEx1Y2lkYUdyYW5kZSJBUAAAIgAA
-					AAAiAAAAANIANQA2AHAAcVhNTkFTRm9udKIA
-					cgA6WE1OQVNGb2500wAbABEACwB0AHcAIqIA
-					HQAegAWABqIAeAB5gByAHYAMVnswLCA0fdMA
-					GwARAAsAfQB/AFGhAH6AHqEAaIAZgBJdTlNP
-					YmxpcXVlbmVzc9MAGwARAAsAhACHACKiAB0A
-					HoAFgAaiAIgAiYAggCGADFZ7MCwgNH3fEA8A
-					jQCOAI8AkACRAAsAkgCTAJQAlQCWAJcAmACZ
-					AJoAmwCcAJ0AngCfAKAAoQCiAKMApAClAKYA
-					pwCoAKlfEBFtYXhpbXVtTGluZUhlaWdodFh0
-					YWJTdG9wc18QEHBhcmFncmFwaFNwYWNpbmda
-					aGVhZEluZGVudF1saW5lQnJlYWtNb2RlW2xp
-					bmVTcGFjaW5nWWFsaWdubWVudFp0YWlsSW5k
-					ZW50XxARbWluaW11bUxpbmVIZWlnaHRfEBZw
-					YXJhZ3JhcGhTcGFjaW5nQmVmb3JlXxASZGVm
-					YXVsdFRhYkludGVydmFsXxASZmlyc3RMaW5l
-					SGVhZElkZW50XxAUYmFzZVdyaXRpbmdEaXJl
-					Y3Rpb25fEBJsaW5lSGVpZ2h0TXVsdGlwbGUi
-					AAAAAIAiIgAAAAAiAAAAAIAkgDQiAAAAAIAy
-					IgAAAAAiAAAAACIAAAAAIgAAAAAiAAAAAIAz
-					IgAAAADSABEACwCrABmsAKwArQCuAK8AsACx
-					ALIAswC0ALUAtgC3gCOAJoAngCiAKYAqgCuA
-					LIAtgC6AL4AwgDHUAJMAugC7AAsAnwC9AL4A
-					v1dvcHRpb25zWGxvY2F0aW9ugCSAACJB4AAA
-					gCUQANIANQA2AMIAw1tNTkFTVGV4dFRhYqIA
-					xAA6W01OQVNUZXh0VGFi1ACTALoAuwALAJ8A
-					vQDIAL+AJIAAIkJgAACAJdQAkwC6ALsACwCf
-					AL0AzQC/gCSAACJCqAAAgCXUAJMAugC7AAsA
-					nwC9ANIAv4AkgAAiQuAAAIAl1ACTALoAuwAL
-					AJ8AvQDXAL+AJIAAIkMMAACAJdQAkwC6ALsA
-					CwCfAL0A3AC/gCSAACJDKAAAgCXUAJMAugC7
-					AAsAnwC9AOEAv4AkgAAiQ0QAAIAl1ACTALoA
-					uwALAJ8AvQDmAL+AJIAAIkNgAACAJdQAkwC6
-					ALsACwCfAL0A6wC/gCSAACJDfAAAgCXUAJMA
-					ugC7AAsAnwC9APAAv4AkgAAiQ4wAAIAl1ACT
-					ALoAuwALAJ8AvQD1AL+AJIAAIkOaAACAJdQA
-					kwC6ALsACwCfAL0A+gC/gCSAACJDqAAAgCXS
-					ADUANgD9AP5XTlNBcnJheaIA/QA6EAQUAAAA
-					AAAAAAD//////////9IANQA2AQIBA18QE01O
-					QVNQYXJhZ3JhcGh5U3R5bGWiAQQAOl8QE01O
-					QVNQYXJhZ3JhcGh5U3R5bGXTABsAEQALAQYB
-					CQAiogAdAB6ABYAGogEKAQuANoA3gAxWezAs
-					IDR90wAbABEACwEPAREAUaEBEIA4oQBpgBiA
-					El8QEE5TQmFzZWxpbmVPZmZzZXTSADUANgEW
-					ARdfEBNNTkNBdHRyaWJ1dGVkU3RyaW5nogEY
-					ADpfEBNNTkNBdHRyaWJ1dGVkU3RyaW5nXxAP
-					TlNLZXllZEFyY2hpdmVy0QEbARxfEBFNTkMw
-					ZGVyUm9vdE9iamVjdIABAAgAGQAiACsANQA6
-					AD8AtgC8AMkA0ADbAOIA5ADmAOgA7QD2AQEB
-					DgEQARIBFAEWARgBGgEcASkBMQE2ATgBOgE/
-					AUEBQwFFAWwBlwGeAacBrQGvAbEBxgHKAdAB
-					1QHbAd0B4gHnAewB8QH6AgUCDgIXAhwCJQIu
-					AjcCTQJSAmgCcQKHAo4CmwKoAq0CrwKxArYC
-					uAK6ArwCwwLQAtMC1QLYAtoC3ALoAu0C9gL7
-					AwgDDQMPAxEDFgMYAxoDHAMjAzwDQQNKA1QD
-					YAN1A3cDeQN7A30DfwOBA44DkwOYA50DpgOv
-					A7QDvQPKA88D0QPTA9gD2gPcA94D5QPyA/UD
-					9wP6A/wD/gQMBBkEHgQgBCIEJwQpBCsELQQ0
-					BHMEhwSQBKMErgS8BMgE0gTdBPEFCgUfBTQF
-					SwVgBWUFZwVsBXEFcwV1BXoFfAWBBYYFiwWQ
-					BZUFlwWcBaUFvgXABcIFxAXGBcgFygXMBc4F
-					0AXSBdQF1gXYBekF8QX6BfwF/gYDBgUGBwYQ
-					BhwGIQYtBj4GQAZCBkcGSQZaBlwGXgZjBmUG
-					dgZ4BnoGfwaBBpIGlAaWBpsGnQauBrAGsga3
-					BrkGygbMBs4G0wbVBuYG6AbqBu8G8QcCBwQH
-					BgcLBw0HHgcgByIHJwcpBzoHPAc+B0MHRQdW
-					B1gHWgdfB2EHagdyB3cHeQeKB5MHqQeuB8QH
-					0QfWB9gH2gffB+EH4wflB+wH+Qf8B/4IAQgD
-					CAUIGAghCDcIPAhSCGQIaQh9AAAAAAAAAgIA
-					AAAAAAABHQAAAAAAAAAAAAAAAAAACH8=
-					</data>
-					<key>constrainedWidth</key>
-					<integer>300</integer>
-					<key>shrinkToFitContent</key>
-					<integer>1</integer>
-					<key>text</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1187
-{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs26 \cf2 \up0 \obliqueness0 \expansion0 Done}</string>
 				</dict>
 			</dict>
 		</array>
