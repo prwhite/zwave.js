@@ -25,9 +25,12 @@ var serial_port = new SerialPort(process.argv[ 2 ],{
             parser: serialport.parsers.raw,
             baudrate: 115200
         });
-serial_port.write(new Buffer([0x01, 0x03, 0x00, 0x20,220]));
-util.puts("write");
 //serial_port.read();
+
+serial_port.on("open", function(){
+    serial_port.write(new Buffer([0x01, 0x03, 0x00, 0x15, 0xe9]));
+    util.puts("write to " + process.argv[ 2 ]);
+});
 
 serial_port.on("data", function(d){ 
     util.puts("here"); 
