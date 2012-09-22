@@ -23,11 +23,11 @@
 
 // var zwDefs = require ( './zwdefs' ).Defs;
 // var zwMsg = require ( './zwmsg' );
-var zwMgr = require ( './zwmgr' );
+var zwMgr = require ( '../lib/zwmgr' );
 
-var log = require ( './log' ).log;
-var opts = require ( './opts' );
-var colors = require ( './colors' );
+var log = require ( '../sharedsrv/log' ).log;
+var opts = require ( '../sharedsrv/opts' );
+var colors = require ( '../sharedsrv/colors' );
 
 //////////////////////////////////////////////////////////////////////////////////////////
 

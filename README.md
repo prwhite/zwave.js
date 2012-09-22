@@ -24,20 +24,20 @@ front-end.
 
 * Lots of low-level work:
     * Determine capabilities of each available node.
-    * Naturally, allow for control and feedback of individual node settings, starting with simple light controllers.
+    * Naturally, actually allow for control and feedback of individual node settings, starting with simple light controllers.
     * Persistently cache data related to the node network so it doesn't all necessarily need to be determined at every launch.
     
 ### What will eventually be really cool
 
 * "Plugin" support to allow custom programming.  E.g., create a plugin that will turn
-on a group of lights if your computer's screen saver is deactivated or cycle a light if you get email.
+on a group of lights if your computer's screen saver is deactivated, cycle a light if you get email, bring up lights gradually at dusk, etc.
 
 * A scalable interface that will work well from any web browser, especially mobile devices.
 
 ### What is not in scope
 
 * HID-based USB dongles.  I'm not working on anything currently that doesn't use the
-virtual COM port interfaces.  In truth, I'm only working on the Aeon Labs Z-Stick 2 controller.
+virtual serial port interfaces.  In truth, I'm only working on the Aeon Labs Z-Stick 2 controller.
 
 * Everything.  I'm definitely going to start with an eye toward implementing the Z-Wave controllers that I actually have, and work out from there _if time_.
 
@@ -56,17 +56,17 @@ That's it.  Ideally, that will just work and grab the modules that zwave.js requ
 
 Currently, the system only provides one working integration test sample.  This is invoked as a normal node.js command:
 
-    node zwtestapp.js
+    node test/zwtestapp.js
     
 For help, run:
 
-    node zwave.js --help
+    node test/zwtestapp.js --help
 
 Which will print something like this:
 
     { '--dev': '/dev/cu.SLAB_USBtoUART' }
 
-Which means there is one option, ```--dev```, which defaults to ```/dev/cu.SLAB_USBtoUART```.  For reference, this is the virtual COM port driver that the system will use to interact with the USB Z-Wave controller.
+Which means there is one option, ```--dev```, which defaults to ```/dev/cu.SLAB_USBtoUART```.  For reference, this is the virtual serial port driver that the system will use to interact with the USB Z-Wave controller.
 
 ## Library Usage
 
