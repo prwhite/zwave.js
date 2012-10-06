@@ -19,6 +19,10 @@
 
 "use strict";
 
+// Must come first in application!
+var opts = require ( '../sharedsrv/opts' );
+opts.readConfig ( ".zwave.js" );
+
 // var Util = require ( 'util' );
 
 // var zwDefs = require ( './zwdefs' ).Defs;
@@ -26,7 +30,6 @@
 var zwMgr = require ( '../lib/zwmgr' );
 
 var log = require ( '../sharedsrv/log' ).log;
-var opts = require ( '../sharedsrv/opts' );
 var colors = require ( '../sharedsrv/colors' );
 
 //////////////////////////////////////////////////////////////////////////////////////////
