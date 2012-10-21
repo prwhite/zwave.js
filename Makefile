@@ -5,4 +5,5 @@ help:           ## Show this help.
 
 npm:
 	npm install serialport
+	npm install async
 

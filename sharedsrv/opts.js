@@ -19,6 +19,7 @@
 
 var fs = require ( "fs" );
 var colors = require ( '../sharedsrv/colors' );
+var path = require ( 'path' );
 
 exports.dbg = false;
 exports.opts = {};
@@ -34,7 +35,6 @@ exports.opts = {};
 
 exports.readConfig = function ( name )
 {
-    var path = require ( "path" );
     var home = process.env[ "HOME" ];
     var fname = path.resolve ( home, name );
 
@@ -44,6 +44,7 @@ exports.readConfig = function ( name )
             console.log ( "Reading config from ".blue + fname.blue );
             var cfg = JSON.parse ( fs.readFileSync ( fname ) );
             exports.opts = cfg;
+            exports.cfgFile = fname;
         } catch ( ex ) {
             console.log ( "Could not load config file from $HOME/.zwavejs".red );
         }
@@ -127,7 +128,23 @@ exports.help = function ( andExit )
 {
 	// Dump all of the registered switches with their default values.
 	delete exports.opts[ "help" ];
-	console.log(exports.opts);
+
+  var argv0 = path.basename ( process.argv[ 1 ] );
+  console.log ( argv0 + " command line options:" );
+  console.log ( "  values are set with the following precedence:" );
+  console.log ( "    command line options > " );
+  if ( exports.cfgFile )
+    console.log ( "    config options (from ~/" + path.basename ( exports.cfgFile ) + ") > " );
+  console.log ( "    built-in defaults " );
+  console.log ( "<option> : <currently configured value>" );
+
+  for ( var opt in exports.opts )
+  {
+    var val = exports.opts[ opt ];
+
+    console.log ( "  --" + opt + " : " + val );
+  }
+
 	if ( andExit )
 		process.exit(0);
 }

@@ -4,7 +4,7 @@ A comprehensive stack for managing a home Z-Wave network, written in node.js Jav
 
 ## Project goals
 
-* A low-level driver to interact with a USB dongle Z-Wave controller.  Systems based on the Zensys serial API should work with this sytem.
+* A low-level driver to interact with a USB dongle Z-Wave controller.  Systems based on the Zensys serial API should work with this sytem.  I am developing with the [Z-Stick Series 2](http://www.aeon-labs.com/site/products/view/2/).
 
 * A service frontend for interaction with web clients, to be based on the Express node.js
 module.
@@ -18,12 +18,13 @@ front-end.
 
 * The entire init sequence completes successfully for the driver.
 
-* Available nodes are determined.
+* Available nodes are queried.
+
+* Basic node details are collected.
 
 ### What is next
 
 * Lots of low-level work:
-    * Determine capabilities of each available node.
     * Naturally, actually allow for control and feedback of individual node settings, starting with simple light controllers.
     * Persistently cache data related to the node network so it doesn't all necessarily need to be determined at every launch.
     
@@ -64,7 +65,14 @@ For help, run:
 
 Which will print something like this:
 
-    { '--dev': '/dev/cu.SLAB_USBtoUART' }
+	Reading config from /Users/payton/.zwave.js
+	zwtestapp.js command line options:
+	  values are set with the following precedence:
+	    command line options > 
+	    config options (from ~/.zwave.js) > 
+	    built-in defaults 
+	<option> : <currently configured value>
+	  --dev : /dev/cu.SLAB_USBtoUART
 
 Which means there is one option, ```--dev```, which defaults to ```/dev/cu.SLAB_USBtoUART```.  For reference, this is the virtual serial port driver that the system will use to interact with the USB Z-Wave controller.
 
