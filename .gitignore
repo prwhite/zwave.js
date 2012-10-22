@@ -1,3 +1,4 @@
 node_modules
 zwave.js.sublime-project
 zwave.js.sublime-workspace
+*.txt
